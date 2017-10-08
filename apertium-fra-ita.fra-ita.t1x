@@ -1080,7 +1080,7 @@
 	      </test>
 	      <let>
 		<clip pos="1" side="tl" part="lem"/>
-		<lit v="haber"/>
+		<lit v="avere"/>
 	      </let>
 	      <let>
 		<clip pos="1" side="tl" part="a_verb"/>
@@ -1110,7 +1110,7 @@
 	<otherwise>
 	  <let>
 	    <clip pos="1" side="tl" part="lem"/>
-	    <lit v="haber"/>
+	    <lit v="avere"/>
 	  </let>
 	  <let>
 	    <clip pos="1" side="tl" part="a_verb"/>
@@ -1128,7 +1128,7 @@
       </choose>
     </def-macro>
 
-    <def-macro n="comprova_auxiliar_ref" npar="3"> <!--aquesta macro troba l'aux correcte en cast tenint en compte que si el verb és ref i porta l'aux "être" en cast ha de ser "haber". de passada, mira també si cal canviar el lema del verb (com la macro "verb_ref")-->
+    <def-macro n="comprova_auxiliar_ref" npar="3"> <!--aquesta macro troba l'aux correcte en cast tenint en compte que si el verb és ref i porta l'aux "être" en cast ha de ser "avere". de passada, mira també si cal canviar el lema del verb (com la macro "verb_ref")-->
       <choose>
 	<when><!--en cas que l'auxiliar sigui "ser":-->
 	  <test>
@@ -1191,9 +1191,9 @@
 		  </and>
 		</or>
 	      </test>						
-	      <let><!--... fes que l'aux sigui "haber"-->
+	      <let><!--... fes que l'aux sigui "avere"-->
 		<clip pos="1" side="tl" part="lem"/>
-		<lit v="haber"/>
+		<lit v="avere"/>
 	      </let>
 	      <let>
 		<clip pos="1" side="tl" part="a_verb"/>
@@ -1351,7 +1351,7 @@
 		</otherwise>
 	      </choose>
 	    </when>
-	    <when><!--si és un verb que va amb "être" fes que l'aux sigui "haber" o refel-->
+	    <when><!--si és un verb que va amb "être" fes que l'aux sigui "avere" o refel-->
 	      <test>
 		<in caseless="yes">
 		  <clip pos="2" side="sl" part="lem"/>
@@ -1360,7 +1360,7 @@
 	      </test>
 	      <let>
 		<clip pos="1" side="tl" part="lem"/>
-		<lit v="haber"/>
+		<lit v="avere"/>
 	      </let>
 	      <let>
 		<clip pos="1" side="tl" part="a_verb"/>
@@ -1387,10 +1387,10 @@
 	    </otherwise>
 	  </choose>
 	</when>
-	<otherwise><!--si l'orig és "avoir" deixem "haber" en cast-->
+	<otherwise><!--si l'orig és "avoir" deixem "avere" en cast-->
 	  <let>
 	    <clip pos="1" side="tl" part="lem"/>
-	    <lit v="haber"/>
+	    <lit v="avere"/>
 	  </let>
 	  <let>
 	    <clip pos="1" side="tl" part="a_verb"/>

@@ -16623,16 +16623,17 @@
 <e>       <p><l>laïque<s n="adj"/><s n="mf"/></l>      <r>laico<s n="adj"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
-<e>       <p><l>le<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></l><r>il<s n="det"/><s n="def"/><s n="mf"/></r></p></e>
+<e>       <p><l>le<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></l><r>il<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
+<e>       <p><l>le<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></l><r>il<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>le<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></l><r>il<s n="det"/><s n="def"/><s n="GD"/><s n="pl"/></r></p></e>
+<e r="RL">       <p><l>le<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></l><r>il<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="RL">       <p><l>le<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></l><r>il<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
-<e>       <p><l>le<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></l><r>il<s n="det"/><s n="def"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
-<e>       <p><l>le<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></l><r>il<s n="det"/><s n="def"/><s n="mf"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
-<e>       <p><l>le<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></l><r>il<s n="det"/><s n="def"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>le<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>lo<s n="prn"/><s n="pro"/></r></p></e>
