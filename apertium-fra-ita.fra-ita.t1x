@@ -787,7 +787,7 @@
 	  </test>
 	  <let>
 	    <clip pos="1" side="tl" part="lem"/>
-	    <lit v="gran"/>
+	    <lit v="grande"/>
 	  </let>
 	</when>
       </choose>
