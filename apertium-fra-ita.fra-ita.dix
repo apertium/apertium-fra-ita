@@ -1711,8 +1711,9 @@
 <e>       <p><l>Jaén<s n="np"/></l>                    <r>Jaén<s n="np"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
-<e>       <p><l>Marie<s n="np"/></l>                    <r>Marie<s n="np"/></r></p></e>
-<e>       <p><l>Jean<s n="np"/></l>                    <r>Jean<s n="np"/></r></p></e>
+<e>       <p><l>Marie<s n="np"/><s n="ant"/></l>                    <r>Marie<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+<e>       <p><l>Jean<s n="np"/><s n="ant"/></l>                    <r>Jean<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>Jean<b/>Cabot<s n="np"/></l>           <r>Giovanni<b/>Caboto<s n="np"/><s n="ant"/></r></p></e>
@@ -20417,6 +20418,7 @@
 <e>       <p><l>pas<s n="n"/><s n="m"/><s n="sp"/></l> <r>attraversamento<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+<e r="LR">       <p><l>pas<s n="adv"/></l>      <r></r></p></e>
 <e>       <p><l>pas<b/>du<b/>tout<s n="adv"/></l>      <r>in<b/>assoluto<s n="adv"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
