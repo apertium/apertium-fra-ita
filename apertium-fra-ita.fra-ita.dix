@@ -16313,9 +16313,6 @@
 <e>       <p><l>jouer<s n="vblex"/></l>                <r>giocare<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
-<e>       <p><l>jouer<s n="vblex"/></l>                <r>agire<s n="vblex"/></r></p></e>
-    <!-- forced 'null' restriction
-      default -->
 <e>       <p><l>jouet<s n="n"/><s n="m"/></l>          <r>giocattolo<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
@@ -28935,6 +28932,110 @@
       default -->
 <e>       <p><l>île<s n="n"/></l>                      <r>isola<s n="n"/></r></p></e>
 <e>       <re>,</re><p><l><s n="cm"/></l>              <r><s n="cm"/></r></p></e>
+<e>       <p><l>beau<s n="adj"/><s n="m"/><s n="sg"/></l>    <r>bello<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>belle<s n="adj"/><s n="f"/><s n="sg"/></l>    <r>bella<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+<e>       <p><l>beaux<s n="adj"/><s n="m"/><s n="pl"/></l>    <r>belli<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+<e>       <p><l>belles<s n="adj"/><s n="f"/><s n="pl"/></l>    <r>belle<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+<e>       <p><l>cent<s n="num"/><s n="mf"/><s n="sg"/></l> <r>cento<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>six<s n="num"/><s n="mf"/><s n="sp"/></l> <r>sei<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>cinq cents<s n="num"/><s n="mf"/><s n="sp"/></l> <r>cinquecento<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>cinq<s n="num"/><s n="mf"/><s n="sp"/></l> <r>cinque<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>cinquante-cinq<s n="num"/><s n="mf"/><s n="sp"/></l> <r>cinquantacinque<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>cinquante-deux<s n="num"/><s n="mf"/><s n="sp"/></l> <r>cinquantadue<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>cinquante-huit<s n="num"/><s n="mf"/><s n="sp"/></l> <r>cinquantotto<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>cinquante<s n="num"/><s n="mf"/><s n="sp"/></l> <r>cinquanta<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>cinquante-neuf<s n="num"/><s n="mf"/><s n="sp"/></l> <r>cinquantanove<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>cinquante-quatre<s n="num"/><s n="mf"/><s n="sp"/></l> <r>cinquantaquattro<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>cinquante-sept<s n="num"/><s n="mf"/><s n="sp"/></l> <r>cinquantasette<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>cinquante-six<s n="num"/><s n="mf"/><s n="sp"/></l> <r>cinquantasei<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>cinquante-trois<s n="num"/><s n="mf"/><s n="sp"/></l> <r>cinquantatré<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>deux cents<s n="num"/><s n="mf"/><s n="sp"/></l> <r>duecento<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>deux<s n="num"/><s n="mf"/><s n="sp"/></l> <r>due<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>dix-huit<s n="num"/><s n="mf"/><s n="sp"/></l> <r>diciotto<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>dix<s n="num"/><s n="mf"/><s n="sp"/></l> <r>dieci<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>dix-neuf<s n="num"/><s n="mf"/><s n="sp"/></l> <r>diciannove<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>dix-sept<s n="num"/><s n="mf"/><s n="sp"/></l> <r>diciassette<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>douze<s n="num"/><s n="mf"/><s n="sp"/></l> <r>dodici<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>huit cents<s n="num"/><s n="mf"/><s n="sp"/></l> <r>ottocento<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>huit<s n="num"/><s n="mf"/><s n="sp"/></l> <r>otto<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>neuf cents<s n="num"/><s n="mf"/><s n="sp"/></l> <r>novecento<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>neuf<s n="num"/><s n="mf"/><s n="sp"/></l> <r>nove<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>onze<s n="num"/><s n="mf"/><s n="sp"/></l> <r>undici<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quarante-cinq<s n="num"/><s n="mf"/><s n="sp"/></l> <r>quarantacinque<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quarante-deux<s n="num"/><s n="mf"/><s n="sp"/></l> <r>quarantadue<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quarante-huit<s n="num"/><s n="mf"/><s n="sp"/></l> <r>quarantotto<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quarante<s n="num"/><s n="mf"/><s n="sp"/></l> <r>quaranta<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quarante-neuf<s n="num"/><s n="mf"/><s n="sp"/></l> <r>quarantanove<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quarante-quatre<s n="num"/><s n="mf"/><s n="sp"/></l> <r>quarantaquattro<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quarante-sept<s n="num"/><s n="mf"/><s n="sp"/></l> <r>quarantasette<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quarante-six<s n="num"/><s n="mf"/><s n="sp"/></l> <r>quarantasei<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quarante-trois<s n="num"/><s n="mf"/><s n="sp"/></l> <r>quarantatré<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatorze<s n="num"/><s n="mf"/><s n="sp"/></l> <r>quattordici<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre cents<s n="num"/><s n="mf"/><s n="sp"/></l> <r>quattrocento<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre<s n="num"/><s n="mf"/><s n="sp"/></l> <r>quattro<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre-vingt-cinq<s n="num"/><s n="mf"/><s n="sp"/></l> <r>ottantacinque<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre-vingt-deux<s n="num"/><s n="mf"/><s n="sp"/></l> <r>ottantadue<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre-vingt-dix-huit<s n="num"/><s n="mf"/><s n="sp"/></l> <r>novantotto<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre-vingt-dix<s n="num"/><s n="mf"/><s n="sp"/></l> <r>novanta<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre-vingt-dix-neuf<s n="num"/><s n="mf"/><s n="sp"/></l> <r>novantanove<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre-vingt-dix-sept<s n="num"/><s n="mf"/><s n="sp"/></l> <r>novantasette<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre-vingt-douze<s n="num"/><s n="mf"/><s n="sp"/></l> <r>novantadue<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre-vingt-huit<s n="num"/><s n="mf"/><s n="sp"/></l> <r>ottantotto<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre-vingt<s n="num"/><s n="mf"/><s n="sp"/></l> <r>ottanta<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre-vingt-neuf<s n="num"/><s n="mf"/><s n="sp"/></l> <r>ottantanove<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre-vingt-onze<s n="num"/><s n="mf"/><s n="sp"/></l> <r>novantuno<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre-vingt-quatorze<s n="num"/><s n="mf"/><s n="sp"/></l> <r>novantaquattro<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre-vingt-quatre<s n="num"/><s n="mf"/><s n="sp"/></l> <r>ottantaquattro<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre-vingt-quinze<s n="num"/><s n="mf"/><s n="sp"/></l> <r>novantacinque<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre-vingt-seize<s n="num"/><s n="mf"/><s n="sp"/></l> <r>novantasei<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre-vingt-sept<s n="num"/><s n="mf"/><s n="sp"/></l> <r>ottantasette<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre-vingt-six<s n="num"/><s n="mf"/><s n="sp"/></l> <r>ottantasei<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre-vingt-treize<s n="num"/><s n="mf"/><s n="sp"/></l> <r>novantatré<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quatre-vingt-trois<s n="num"/><s n="mf"/><s n="sp"/></l> <r>ottantatré<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>quinze<s n="num"/><s n="mf"/><s n="sp"/></l> <r>quindici<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>seize<s n="num"/><s n="mf"/><s n="sp"/></l> <r>sedici<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>sept cents<s n="num"/><s n="mf"/><s n="sp"/></l> <r>settecento<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>sept<s n="num"/><s n="mf"/><s n="sp"/></l> <r>sette<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>soixante-cinq<s n="num"/><s n="mf"/><s n="sp"/></l> <r>sessantacinque<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>soixante-deux<s n="num"/><s n="mf"/><s n="sp"/></l> <r>sessantadue<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>soixante-dix-huit<s n="num"/><s n="mf"/><s n="sp"/></l> <r>settantotto<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>soixante-dix<s n="num"/><s n="mf"/><s n="sp"/></l> <r>settanta<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>soixante-dix-neuf<s n="num"/><s n="mf"/><s n="sp"/></l> <r>settantanove<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>soixante-dix-sept<s n="num"/><s n="mf"/><s n="sp"/></l> <r>settantasette<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>soixante-douze<s n="num"/><s n="mf"/><s n="sp"/></l> <r>settantadue<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>soixante-huit<s n="num"/><s n="mf"/><s n="sp"/></l> <r>sessantotto<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>soixante<s n="num"/><s n="mf"/><s n="sp"/></l> <r>sessanta<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>soixante-neuf<s n="num"/><s n="mf"/><s n="sp"/></l> <r>sessantanove<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>soixante-onze<s n="num"/><s n="mf"/><s n="sp"/></l> <r>settantuno<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>soixante-quatorze<s n="num"/><s n="mf"/><s n="sp"/></l> <r>settantaquattro<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>soixante-quatre<s n="num"/><s n="mf"/><s n="sp"/></l> <r>sessantaquattro<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>soixante-seize<s n="num"/><s n="mf"/><s n="sp"/></l> <r>sedici<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>soixante-sept<s n="num"/><s n="mf"/><s n="sp"/></l> <r>sessantasette<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>soixante-six<s n="num"/><s n="mf"/><s n="sp"/></l> <r>sessantasei<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>soixante-treize<s n="num"/><s n="mf"/><s n="sp"/></l> <r>settantatré<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>soixante-trois<s n="num"/><s n="mf"/><s n="sp"/></l> <r>sessantatré<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>treize<s n="num"/><s n="mf"/><s n="sp"/></l> <r>tredici<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>trente-cinq<s n="num"/><s n="mf"/><s n="sp"/></l> <r>trentacinque<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>trente-deux<s n="num"/><s n="mf"/><s n="sp"/></l> <r>trentadue<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>trente-huit<s n="num"/><s n="mf"/><s n="sp"/></l> <r>trentotto<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>trente<s n="num"/><s n="mf"/><s n="sp"/></l> <r>trenta<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>trente-neuf<s n="num"/><s n="mf"/><s n="sp"/></l> <r>trentanove<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>trente-quatre<s n="num"/><s n="mf"/><s n="sp"/></l> <r>trentaquattro<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>trente-sept<s n="num"/><s n="mf"/><s n="sp"/></l> <r>trentasette<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>trente-six<s n="num"/><s n="mf"/><s n="sp"/></l> <r>trentasei<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>trente-trois<s n="num"/><s n="mf"/><s n="sp"/></l> <r>trentatré<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>trois cents<s n="num"/><s n="mf"/><s n="sp"/></l>  <r>trecento<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>trois<s n="num"/><s n="mf"/><s n="sp"/></l> <r>tre<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>vingt-cinq<s n="num"/><s n="mf"/><s n="sp"/></l> <r>venticinque<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>vingt-deux<s n="num"/><s n="mf"/><s n="sp"/></l> <r>ventidue<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>vingt-huit<s n="num"/><s n="mf"/><s n="sp"/></l> <r>ventotto<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>vingt<s n="num"/><s n="mf"/><s n="sp"/></l> <r>venti<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>vingt-neuf<s n="num"/><s n="mf"/><s n="sp"/></l> <r>ventinove<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>vingt-quatre<s n="num"/><s n="mf"/><s n="sp"/></l> <r>ventiquattro<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>vingt-sept<s n="num"/><s n="mf"/><s n="sp"/></l> <r>ventisette<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>vingt-six<s n="num"/><s n="mf"/><s n="sp"/></l> <r>ventisei<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e>       <p><l>vingt-trois<s n="num"/><s n="mf"/><s n="sp"/></l> <r>ventitré<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+
 
   </section>
 <section id="regex" type="standard">
