@@ -13941,10 +13941,9 @@
 <e>       <p><l>gramme<s n="n"/></l>                   <r>grammo<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
-<e>       <p><l>grand<s n="adj"/><s n="f"/></l>        <r>grande<s n="adj"/></r></p></e>
-    <!-- forced 'null' restriction
-      default -->
-<e>       <p><l>grand<s n="adj"/><s n="m"/></l>        <r>grande<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>grand<s n="adj"/><s n="f"/></l>        <r>grande<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR">       <p><l>grand<s n="adj"/><s n="m"/></l>        <r>grande<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL">       <p><l>grand<s n="adj"/><s n="GD"/></l>        <r>grande<s n="adj"/><s n="mf"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>grand<s n="adj"/></l>                  <r>alto<s n="adj"/></r></p></e>
