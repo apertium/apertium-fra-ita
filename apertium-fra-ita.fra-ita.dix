@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 2
-	Entries: 9743
+	Entries: 9744
 	Sdefs: 79
-	Last processed by: apertium-dixtools sort -alignBidix nomi_fra_ita -
+	Last processed by: apertium-dixtools sort -alignBidix ../apertium-fra-ita/apertium-fra-ita.fra-ita.dix ./fra_ita_sorted
 
 -->
 <dictionary>
@@ -92,6 +92,9 @@
   </sdefs>
   <section id="main" type="standard">
 
+    <!-- ******************************
+          group adj_symbol
+      ****************************** -->
     <!-- ******************************
           group adj_symbol
       ****************************** -->
@@ -3495,6 +3498,9 @@
     <!-- ******************************
           group adv_symbol
       ****************************** -->
+    <!-- ******************************
+          group adv_symbol
+      ****************************** -->
 <e>       <p><l>a<b/>posteriori<s n="adv"/></l>        <r>a<b/>posteriori<s n="adv"/></r></p></e>
 
 <e>       <p><l>a<b/>priori<s n="adv"/></l>            <r>a<b/>priori<s n="adv"/></r></p></e>
@@ -4645,6 +4651,9 @@
     <!-- ******************************
           group cnjadv_symbol
       ****************************** -->
+    <!-- ******************************
+          group cnjadv_symbol
+      ****************************** -->
 <e>       <p><l>afin<b/>que<s n="cnjadv"/></l>         <r>col<b/>fine<b/>di<s n="cnjadv"/></r></p></e>
 
 <e>       <p><l>alors<s n="cnjadv"/></l>               <r>allora<s n="cnjadv"/></r></p></e>
@@ -4725,6 +4734,9 @@
     <!-- ******************************
           group cnjcoo_symbol
       ****************************** -->
+    <!-- ******************************
+          group cnjcoo_symbol
+      ****************************** -->
 <e>       <p><l>et<s n="cnjcoo"/></l>                  <r>e<s n="cnjcoo"/></r></p></e>
 
 <e>       <p><l>et<s n="cnjcoo"/></l>                  <r>ed<s n="cnjcoo"/></r></p></e>
@@ -4735,6 +4747,9 @@
 
 <e>       <p><l>ou<s n="cnjcoo"/></l>                  <r>o<s n="cnjcoo"/></r></p></e>
 
+    <!-- ******************************
+          group det_symbol
+      ****************************** -->
     <!-- ******************************
           group det_symbol
       ****************************** -->
@@ -4920,12 +4935,18 @@
     <!-- ******************************
           group ij_symbol
       ****************************** -->
+    <!-- ******************************
+          group ij_symbol
+      ****************************** -->
 <e>       <p><l>au<b/>revoir<s n="ij"/></l>            <r>arrivederci<s n="ij"/></r></p></e>
 
 <e>       <p><l>bon<s n="ij"/></l>                     <r>ecco<s n="ij"/></r></p></e>
 
 <e>       <p><l>salut<s n="ij"/></l>                   <r>ciao<s n="ij"/></r></p></e>
 
+    <!-- ******************************
+          group n_symbol
+      ****************************** -->
     <!-- ******************************
           group n_symbol
       ****************************** -->
@@ -14037,7 +14058,9 @@
 
 <e>       <p><l>véracité<s n="n"/></l>                 <r>veridicità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
-<e>       <p><l>vérité<s n="n"/></l>                   <r>verità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+<e>       <p><l>vérité<s n="n"/><s n="f"/><s n="sg"/></l><r>verità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+
+<e>       <p><l>vérités<s n="n"/><s n="f"/><s n="pl"/></l><r>verità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>vétérinaire<s n="n"/><s n="mf"/></l>   <r>veterinario<s n="n"/></r></p></e>
 
@@ -14325,6 +14348,9 @@
 
 <e>       <p><l>île<s n="n"/></l>                      <r>isola<s n="n"/></r></p></e>
 
+    <!-- ******************************
+          group np_symbol
+      ****************************** -->
     <!-- ******************************
           group np_symbol
       ****************************** -->
@@ -14738,7 +14764,7 @@
 
 <e>       <p><l>Carballo<s n="np"/></l>                <r>Carballo<s n="np"/></r></p></e>
 
-<e>       <p><l>Carlo<s n="np"/></l>                   <r>Carlo<s n="np"/></r></p></e>
+<e>       <p><l>Carlo<s n="np"/><s n="ant"/></l>       <r>Carlo<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 
 <e>       <p><l>Carlos<s n="np"/></l>                  <r>Carlos<s n="np"/></r></p></e>
 
@@ -16511,6 +16537,9 @@
     <!-- ******************************
           group num_symbol
       ****************************** -->
+    <!-- ******************************
+          group num_symbol
+      ****************************** -->
 <e>       <p><l>C<s n="num"/></l>                      <r>C<s n="num"/></r></p></e>
 
 <e>       <p><l>D<s n="num"/></l>                      <r>D<s n="num"/></r></p></e>
@@ -16681,6 +16710,9 @@
     <!-- ******************************
           group pr_symbol
       ****************************** -->
+    <!-- ******************************
+          group pr_symbol
+      ****************************** -->
 <e>       <p><l>après<s n="pr"/></l>                   <r>dopo<s n="pr"/></r></p></e>
 
 <e>       <p><l>au-delà<b/>de<s n="pr"/></l>           <r>al<b/>di<b/>fuori<b/>da<s n="pr"/></r></p></e>
@@ -16808,6 +16840,9 @@
     <!-- ******************************
           group preadv_symbol
       ****************************** -->
+    <!-- ******************************
+          group preadv_symbol
+      ****************************** -->
 <e>       <p><l>bien<s n="preadv"/></l>                <r>bene<s n="preadv"/></r></p></e>
 
 <e>       <p><l>mal<s n="preadv"/></l>                 <r>male<s n="preadv"/></r></p></e>
@@ -16824,6 +16859,9 @@
 
 <e>       <p><l>très<s n="preadv"/></l>                <r>molto<s n="preadv"/></r></p></e>
 
+    <!-- ******************************
+          group prn_symbol
+      ****************************** -->
     <!-- ******************************
           group prn_symbol
       ****************************** -->
@@ -17163,6 +17201,9 @@
     <!-- ******************************
           group rel_symbol
       ****************************** -->
+    <!-- ******************************
+          group rel_symbol
+      ****************************** -->
 <e>       <p><l>celui<b/>que<s n="rel"/><s n="nt"/></l><r>il<b/>quale<s n="rel"/></r></p></e>
 
 <e>       <p><l>celui<b/>que<s n="rel"/><s n="nt"/></l><r>cui<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -17206,10 +17247,16 @@
     <!-- ******************************
           group vbhaver_symbol
       ****************************** -->
+    <!-- ******************************
+          group vbhaver_symbol
+      ****************************** -->
 <e>       <p><l>avoir<s n="vbhaver"/></l>              <r>avere<s n="vbhaver"/></r></p></e>
 
 <e>       <p><l>avoir<s n="vbhaver"/><s n="pp"/><s n="mf"/><s n="sp"/></l><r>avere<s n="vbhaver"/></r></p></e>
 
+    <!-- ******************************
+          group vblex_symbol
+      ****************************** -->
     <!-- ******************************
           group vblex_symbol
       ****************************** -->
@@ -19540,6 +19587,9 @@
     <!-- ******************************
           group vbmod_symbol
       ****************************** -->
+    <!-- ******************************
+          group vbmod_symbol
+      ****************************** -->
 <e>       <p><l>devoir<s n="vbmod"/></l>               <r>dovere<s n="vbmod"/></r></p></e>
 
 <e>       <p><l>pouvoir<s n="vbmod"/></l>              <r>potere<s n="vbmod"/></r></p></e>
@@ -19555,10 +19605,16 @@
     <!-- ******************************
           group vbser_symbol
       ****************************** -->
+    <!-- ******************************
+          group vbser_symbol
+      ****************************** -->
 <e>       <p><l>être<s n="vbser"/></l>                 <r>essere<s n="vbser"/></r></p></e>
 
 <e>       <p><l>être<s n="vbser"/><s n="pp"/><s n="mf"/><s n="sp"/></l><r>essere<s n="vbser"/></r></p></e>
 
+    <!-- ******************************
+          group(s) with only one element
+      ****************************** -->
     <!-- ******************************
           group(s) with only one element
       ****************************** -->
@@ -19587,8 +19643,14 @@
     <!-- ******************************
           group lquest_symbol
       ****************************** -->
+    <!-- ******************************
+          group lquest_symbol
+      ****************************** -->
 <e>       <re>¿</re><p><l><s n="lquest"/></l>          <r><s n="lquest"/></r></p></e>
 <e>       <re>[Â¿Â¡]</re><p><l><s n="lquest"/></l>     <r><s n="lquest"/></r></p></e>
+    <!-- ******************************
+          group num_symbol
+      ****************************** -->
     <!-- ******************************
           group num_symbol
       ****************************** -->
@@ -19606,6 +19668,9 @@
 <e>       <re>[a-z.]+@[a-z.]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 <e>       <re>[0-2]?[0-9]h[0-6][0-9]</re><i><s n="num"/><s n="hour"/></i></e>
 <e>       <re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <!-- ******************************
+          group(s) with only one element
+      ****************************** -->
     <!-- ******************************
           group(s) with only one element
       ****************************** -->
