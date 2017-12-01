@@ -4856,14 +4856,13 @@
 
 <e>       <p><l>quelque<s n="det"/><s n="ind"/><s n="mf"/></l><r>qualche<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
 
-<e>       <p><l>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>il<b/>suo<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
-
-<e>       <p><l>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>il<b/>suo<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
-
-<e>       <p><l>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>il<b/>suo<s n="det"/><s n="pos"/><s n="GD"/></r></p></e>
+<e>       <p><l>son<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>il<b/>suo<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>son<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>il<b/>suo<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>il<b/>suo<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>il<b/>suo<s n="det"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>il<b/>suo<s n="det"/><s n="pos"/><s n="GD"/><s n="pl"/></r></p></e>
 
 <e>       <p><l>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>suo<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
-
 <e>       <p><l>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>suo<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
 
 <e>       <p><l>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>il<b/>loro<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
@@ -8526,9 +8525,10 @@
 
 <e>       <p><l>film<s n="n"/><s n="m"/></l>           <r>film<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>fils<s n="n"/><s n="f"/></l>           <r>figlio<s n="n"/></r></p></e>
-
-<e>       <p><l>fils<s n="n"/><s n="m"/><s n="sp"/></l><r>figlio<s n="n"/></r></p></e>
+<e>       <p><l>fils<s n="n"/><s n="f"/></l>           <r>figlio<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>fils<s n="n"/><s n="m"/><s n="sp"/></l><r>figlio<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+<e r="RL"><p><l>fils<s n="n"/><s n="m"/><s n="sp"/></l><r>figlio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>fils<s n="n"/><s n="m"/><s n="sp"/></l><r>figlio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 
 <e>       <p><l>filtration<s n="n"/></l>               <r>filtrazione<s n="n"/></r></p></e>
 
