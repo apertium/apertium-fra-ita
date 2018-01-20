@@ -2429,10 +2429,7 @@
 
 <e>       <p><l>personnel<s n="adj"/><s n="GD"/></l>   <r>personale<s n="adj"/></r></p></e>
 
-<e>       <p><l>petit<s n="adj"/><s n="m"/><s n="sg"/></l><r>piccolo<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
-<e>       <p><l>petite<s n="adj"/><s n="f"/><s n="sg"/></l><r>piccola<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
-<e>       <p><l>petites<s n="adj"/><s n="f"/><s n="pl"/></l><r>piccola<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
-<e>       <p><l>petits<s n="adj"/><s n="m"/><s n="pl"/></l><r>piccoli<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+<e>       <p><l>petit<s n="adj"/></l><r>piccolo<s n="adj"/></r></p></e>
 
 <e>       <p><l>philosophique<s n="adj"/><s n="mf"/></l><r>filosofico<s n="adj"/></r></p></e>
 
@@ -8539,9 +8536,6 @@
 
 <e>       <p><l>filiation<s n="n"/></l>                <r>filiazione<s n="n"/></r></p></e>
 
-<e>       <p><l>fille<s n="n"/><s n="f"/><s n="sg"/></l><r>ragazza<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-<e>       <p><l>filles<s n="n"/><s n="f"/><s n="pl"/></l><r>ragazze<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-
 <e>       <p><l>film<s n="n"/></l>                     <r>film<s n="n"/></r></p></e>
 
 <e>       <p><l>film<s n="n"/><s n="m"/></l>           <r>pellicola<s n="n"/></r></p></e>
@@ -8552,6 +8546,8 @@
 <e r="LR"><p><l>fils<s n="n"/><s n="m"/><s n="sp"/></l><r>figlio<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
 <e r="RL"><p><l>fils<s n="n"/><s n="m"/><s n="sp"/></l><r>figlio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e r="RL"><p><l>fils<s n="n"/><s n="m"/><s n="sp"/></l><r>figlio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e>       <p><l>fille<s n="n"/><s n="f"/></l>           <r>figlio<s n="n"/><s n="f"/></r></p></e>
+
 
 <e>       <p><l>filtration<s n="n"/></l>               <r>filtrazione<s n="n"/></r></p></e>
 
