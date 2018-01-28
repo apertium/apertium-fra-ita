@@ -4826,23 +4826,15 @@
 
 <e>       <p><l>leur<s n="det"/><s n="pos"/><s n="mf"/></l><r>il<b/>suo<s n="det"/><s n="pos"/><s n="GD"/></r></p></e>
 
-<e>       <p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>il<b/>mio<s n="det"/><s n="pos"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>il<b/>mio<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
-
-<e>       <p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>il<b/>mio<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
+<e>       <p><l>mon<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>il<b/>mio<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>mon<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>il<b/>mio<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>il<b/>mio<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>il<b/>mio<s n="det"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>il<b/>mio<s n="det"/><s n="pos"/><s n="GD"/><s n="pl"/></r></p></e>
 
 <e>       <p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>mio<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
 
 <e>       <p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>mio<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
-
-<e>       <p><l>mon<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>il<b/>mio<s n="det"/><s n="pos"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>mon<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>il<b/>mio<s n="det"/><s n="pos"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>mon<s n="det"/><s n="pos"/><s n="GD"/><s n="sg"/></l><r>il<b/>mio<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
-
-<e>       <p><l>mon<s n="det"/><s n="pos"/><s n="GD"/><s n="sg"/></l><r>il<b/>mio<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
 
 <e>       <p><l>mon<s n="det"/><s n="pos"/><s n="GD"/><s n="sg"/></l><r>mio<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
 
