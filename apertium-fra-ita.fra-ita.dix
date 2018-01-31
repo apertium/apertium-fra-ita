@@ -4793,9 +4793,18 @@
 
 <e>       <p><l>n'importe<b/>quel<s n="det"/><s n="ind"/><s n="GD"/></l><r>qualunque<s n="det"/><s n="ind"/></r></p></e>
 
-<e>       <p><l>notre<s n="det"/><s n="pos"/><s n="mf"/></l><r>il<b/>nostro<s n="det"/><s n="pos"/></r></p></e>
+<e>       <p><l>notre<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>il<b/>nostro<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>notre<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>il<b/>nostro<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>notre<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>il<b/>nostro<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>notre<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>il<b/>nostro<s n="det"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>notre<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>il<b/>nostro<s n="det"/><s n="pos"/><s n="GD"/><s n="pl"/></r></p></e>
 
-<e>       <p><l>notre<s n="det"/><s n="pos"/><s n="mf"/></l><r>nostro<s n="det"/><s n="pos"/></r></p></e>
+<e>       <p><l>notre<s n="det"/><s n="pos"/><s n="mf"/></l><r>nostro<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
+<e>       <p><l>notre<s n="det"/><s n="pos"/><s n="mf"/></l><r>nostro<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
+<e>       <p><l>notre<s n="det"/><s n="pos"/><s n="GD"/><s n="sg"/></l><r>nostro<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
+
+<e>       <p><l>notre<s n="det"/><s n="pos"/><s n="GD"/><s n="sg"/></l><r>nostro<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
+
 
 <e>       <p><l>nul<s n="det"/><s n="ind"/></l>        <r>nessuno<s n="det"/><s n="ind"/></r></p></e>
 
@@ -4864,9 +4873,17 @@
 
 <e>       <p><l>un<b/>autre<s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></l><r>un<b/>altro<s n="det"/><s n="ind"/></r></p></e>
 
-<e>       <p><l>votre<s n="det"/><s n="pos"/><s n="mf"/></l><r>il<b/>vostro<s n="det"/><s n="pos"/></r></p></e>
+<e>       <p><l>votre<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>il<b/>vostro<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>votre<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>il<b/>vostro<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>votre<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>il<b/>vostro<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>votre<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>il<b/>vostro<s n="det"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>votre<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>il<b/>vostro<s n="det"/><s n="pos"/><s n="GD"/><s n="pl"/></r></p></e>
 
-<e>       <p><l>votre<s n="det"/><s n="pos"/><s n="mf"/></l><r>vostro<s n="det"/><s n="pos"/></r></p></e>
+<e>       <p><l>votre<s n="det"/><s n="pos"/><s n="mf"/></l><r>vostro<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
+<e>       <p><l>votre<s n="det"/><s n="pos"/><s n="mf"/></l><r>vostro<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
+<e>       <p><l>votre<s n="det"/><s n="pos"/><s n="GD"/><s n="sg"/></l><r>vostro<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
+
+<e>       <p><l>votre<s n="det"/><s n="pos"/><s n="GD"/><s n="sg"/></l><r>vostro<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
 
     <!-- ******************************
           group ij_symbol
@@ -6474,11 +6491,7 @@
 
 <e>       <p><l>chasse<s n="n"/></l>                   <r>caccia<s n="n"/></r></p></e>
 
-<e>       <p><l>chat<s n="n"/><s n="m"/><s n="sg"/></l><r>gatto<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e>       <p><l>chats<s n="n"/><s n="m"/><s n="pl"/></l><r>gatti<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-
-<e>       <p><l>chatte<s n="n"/><s n="f"/><s n="sg"/></l><r>gatta<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-<e>       <p><l>chattes<s n="n"/><s n="f"/><s n="pl"/></l><r>gatte<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e>       <p><l>chat<s n="n"/></l>                    <r>gatto<s n="n"/></r></p></e>
 
 <e>       <p><l>chauffeur<g><b/>de<b/>taxi</g><s n="n"/><s n="m"/></l><r>tassista<s n="n"/><s n="GD"/></r></p></e>
 
@@ -7329,6 +7342,8 @@
 <e>       <p><l>cuivre<s n="n"/></l>                   <r>rame<s n="n"/></r></p></e>
 
 <e>       <p><l>cul<s n="n"/></l>                      <r>culo<s n="n"/></r></p></e>
+
+<e>       <p><l>culotte<s n="n"/></l>                  <r>mutanda<s n="n"/></r></p></e>
 
 <e>       <p><l>culte<s n="n"/></l>                    <r>culto<s n="n"/></r></p></e>
 
@@ -10955,8 +10970,6 @@
 
 <e>       <p><l>orchestre<s n="n"/><s n="m"/></l>      <r>orchestra<s n="n"/></r></p></e>
 
-<e>       <p><l>ordinateur<s n="n"/></l>               <r>computer<s n="n"/><s n="m"/></r></p></e>
-
 <e>       <p><l>ordinateur<s n="n"/></l>               <r>computer<s n="n"/></r></p></e>
 
 <e>       <p><l>ordination<s n="n"/></l>               <r>ordinazione<s n="n"/></r></p></e>
@@ -13153,6 +13166,8 @@
 <e>       <p><l>stupeur<s n="n"/></l>                  <r>stupore<s n="n"/></r></p></e>
 
 <e>       <p><l>style<s n="n"/></l>                    <r>stile<s n="n"/></r></p></e>
+
+<e>       <p><l>stylo<s n="n"/></l>                    <r>penna<s n="n"/></r></p></e>
 
 <e>       <p><l>stérilisation<s n="n"/></l>            <r>sterilizzazione<s n="n"/></r></p></e>
 
