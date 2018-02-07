@@ -3982,6 +3982,8 @@
 
 <e>       <p><l>hier<s n="adv"/></l>                   <r>ieri<s n="adv"/></r></p></e>
 
+<e>       <p><l>d'habitude<s n="adv"/></l>             <r>di solito<s n="adv"/></r></p></e>
+
 <e>       <p><l>hier<b/>soir<s n="adv"/></l>           <r>la<b/>notte<b/>scorsa<s n="adv"/></r></p></e>
 
 <e>       <p><l>hier<b/>soir<s n="adv"/></l>           <r>la<b/>scorsa<b/>notte<s n="adv"/></r></p></e>
@@ -4718,29 +4720,17 @@
       ****************************** -->
 <e>       <p><l>aucun<s n="det"/><s n="ind"/></l>      <r>nessuno<s n="det"/><s n="ind"/></r></p></e>
 
-<e>       <p><l>ce<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></l><r>questo<s n="det"/><s n="dem"/></r></p></e>
+<e>       <p><l>ce<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></l><r>questo<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>ce<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></l><r>questo<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>ce<s n="det"/><s n="dem"/><s n="mf"/><s n="sg"/></l><r>questo<s n="det"/><s n="dem"/><s n="GD"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>ce<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></l><r>questo<s n="det"/><s n="dem"/><s n="GD"/><s n="pl"/></r></p></e>
 
-<e>       <p><l>ce<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></l><r>questo<s n="det"/><s n="dem"/><s n="mf"/></r></p></e>
 
-<e>       <p><l>ce<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></l><r>questo<s n="det"/><s n="dem"/></r></p></e>
+<e>       <p><l>ce<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></l><r>quello<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>ce<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></l><r>quello<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>ce<s n="det"/><s n="dem"/><s n="mf"/><s n="sg"/></l><r>quello<s n="det"/><s n="dem"/><s n="GD"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>ce<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></l><r>quello<s n="det"/><s n="dem"/><s n="GD"/><s n="pl"/></r></p></e>
 
-<e>       <p><l>ce<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></l><r>questo<s n="det"/><s n="dem"/><s n="mf"/></r></p></e>
-
-<e>       <p><l>ce<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></l><r>questo<s n="det"/><s n="dem"/></r></p></e>
-
-<e>       <p><l>ce<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></l><r>quello<s n="det"/><s n="dem"/></r></p></e>
-
-<e>       <p><l>ce<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></l><r>quello<s n="det"/><s n="dem"/><s n="mf"/></r></p></e>
-
-<e>       <p><l>ce<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></l><r>quello<s n="det"/><s n="dem"/></r></p></e>
-
-<e>       <p><l>ce<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></l><r>quello<s n="det"/><s n="dem"/><s n="mf"/></r></p></e>
-
-<e>       <p><l>ce<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/></l><r>questo<s n="det"/><s n="dem"/><s n="mf"/></r></p></e>
-
-<e>       <p><l>ce<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></l><r>quello<s n="det"/><s n="dem"/></r></p></e>
-
-<e>       <p><l>ce<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></l><r>quello<s n="det"/><s n="dem"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>certain<s n="det"/></l>                <r>certo<s n="det"/><s n="ind"/></r></p></e>
 
@@ -9124,8 +9114,7 @@
 
 <e>       <p><l>hypothèque<s n="n"/></l>               <r>ipoteca<s n="n"/></r></p></e>
 
-<e>       <p><l>hypothèse<s n="n"/><s n="f"/><s n="sg"/></l><r>ipotesi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-<e>       <p><l>hypothèses<s n="n"/><s n="f"/><s n="pl"/></l><r>ipotesi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+<e>       <p><l>hypothèse<s n="n"/></l>                <r>ipotesi<s n="n"/></r></p></e>
 
 <e>       <p><l>hébergement<s n="n"/></l>              <r>alloggio<s n="n"/></r></p></e>
 
@@ -13154,7 +13143,7 @@
 
 <e>       <p><l>style<s n="n"/></l>                    <r>stile<s n="n"/></r></p></e>
 
-<e>       <p><l>stylo<s n="n"/></l>                    <r>penna<s n="n"/></r></p></e>
+<e>       <p><l>stylo<s n="n"/><s n="m"/></l>          <r>penna<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>stérilisation<s n="n"/></l>            <r>sterilizzazione<s n="n"/></r></p></e>
 
@@ -16896,9 +16885,6 @@
 <e>       <p><l>il<s n="prn"/></l>                     <r>egli<s n="prn"/></r></p></e>
 
 <e>       <p><l>je<s n="prn"/></l>                     <r>io<s n="prn"/><s n="tn"/></r></p></e>
-
-
-
 
 <e>       <p><l>le<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>lo<s n="prn"/><s n="pro"/></r></p></e>
 
