@@ -98,6 +98,11 @@
       ****************************** -->
 <e>       <p><l>abondant<s n="adj"/><s n="f"/></l>     <r>abbondante<s n="adj"/></r></p></e>
 
+<e>       <p><l>magnifique<s n="adj"/><s n="m"/><s n="sg"/></l><r>magnifico<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>magnifique<s n="adj"/><s n="f"/><s n="sg"/></l><r>magnifico<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>magnifique<s n="adj"/><s n="mf"/><s n="sg"/></l><r>magnifico<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>magnifique<s n="adj"/><s n="mf"/><s n="pl"/></l><r>magnifico<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
+
 <e>       <p><l>abondant<s n="adj"/><s n="m"/></l>     <r>abbondante<s n="adj"/></r></p></e>
 
 <e>       <p><l>abondant<s n="adj"/><s n="GD"/></l>    <r>abbondante<s n="adj"/></r></p></e>
@@ -486,7 +491,10 @@
 
 <e>       <p><l>bizarre<s n="adj"/><s n="mf"/></l>     <r>strano<s n="adj"/></r></p></e>
 
-<e>       <p><l>blanc<s n="adj"/></l>                  <r>bianco<s n="adj"/></r></p></e>
+<e>       <p><l>blanc<s n="adj"/><s n="m"/><s n="sg"/></l><r>bianco<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>blanc<s n="adj"/><s n="f"/><s n="sg"/></l><r>bianco<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>blanc<s n="adj"/><s n="mf"/><s n="sg"/></l><r>bianco<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>blanc<s n="adj"/><s n="mf"/><s n="pl"/></l><r>bianco<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
 
 <e c="new-category"><p><l>bleu<s n="adj"/><s n="f"/></l><r>blu<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
 
@@ -2228,7 +2236,10 @@
 
 <e>       <p><l>neuvième<s n="adj"/><s n="mf"/></l>    <r>nono<s n="adj"/></r></p></e>
 
-<e>       <p><l>noir<s n="adj"/></l>                   <r>nero<s n="adj"/></r></p></e>
+<e>       <p><l>noir<s n="adj"/><s n="m"/><s n="sg"/></l><r>nero<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>noir<s n="adj"/><s n="f"/><s n="sg"/></l><r>nero<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>noir<s n="adj"/><s n="mf"/><s n="sg"/></l><r>nero<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>noir<s n="adj"/><s n="mf"/><s n="pl"/></l><r>nero<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
 
 <e>       <p><l>nombreux<s n="adj"/><s n="f"/></l>     <r>numeroso<s n="adj"/></r></p></e>
 
@@ -2756,7 +2767,10 @@
 
 <e>       <p><l>ronflant<s n="adj"/></l>               <r>rumoroso<s n="adj"/></r></p></e>
 
-<e>       <p><l>rouge<s n="adj"/><s n="mf"/></l>       <r>rosso<s n="adj"/></r></p></e>
+<e>       <p><l>rouge<s n="adj"/><s n="m"/><s n="sg"/></l><r>rosso<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>rouge<s n="adj"/><s n="f"/><s n="sg"/></l><r>rosso<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>rouge<s n="adj"/><s n="mf"/><s n="sg"/></l><r>rosso<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>rouge<s n="adj"/><s n="mf"/><s n="pl"/></l><r>rosso<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
 
 <e>       <p><l>roumain<s n="adj"/></l>                <r>rumeno<s n="adj"/></r></p></e>
 
@@ -3269,9 +3283,11 @@
 <e>       <p><l>verbal<s n="adj"/><s n="GD"/></l>      <r>verbale<s n="adj"/></r></p></e>
 
 <e>       <p><l>versatile<s n="adj"/></l>              <r>versatile<s n="adj"/></r></p></e>
-<e>       <p><l>vert<s n="adj"/><s n="m"/><s n="sg"/></l><r>verde<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-<e>       <p><l>verte<s n="adj"/><s n="f"/><s n="sg"/></l><r>verde<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-<e>       <p><l>vertes<s n="adj"/><s n="f"/><s n="pl"/></l><r>verdi<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+<e>       <p><l>vert<s n="adj"/><s n="m"/><s n="sg"/></l><r>verde<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>vert<s n="adj"/><s n="f"/><s n="sg"/></l><r>verde<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>vert<s n="adj"/><s n="mf"/><s n="sg"/></l><r>verde<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>vert<s n="adj"/><s n="mf"/><s n="pl"/></l><r>verde<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
+
 
 <e>       <p><l>vertical<s n="adj"/><s n="f"/></l>     <r>verticale<s n="adj"/></r></p></e>
 
