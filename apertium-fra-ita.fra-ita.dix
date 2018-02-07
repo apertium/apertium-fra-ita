@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 2
-	Entries: 9744
+	Entries: 9767
 	Sdefs: 79
-	Last processed by: apertium-dixtools sort -alignBidix latest_apertium-fra-ita.fra-ita.dix dove_sono.dix
+	Last processed by: apertium-dixtools sort -alignBidix ./apertium-fra-ita.fra-ita.dix -
 
 -->
 <dictionary>
@@ -96,12 +96,10 @@
     <!-- ******************************
           group adj_symbol
       ****************************** -->
+    <!-- ******************************
+          group adj_symbol
+      ****************************** -->
 <e>       <p><l>abondant<s n="adj"/><s n="f"/></l>     <r>abbondante<s n="adj"/></r></p></e>
-
-<e>       <p><l>magnifique<s n="adj"/><s n="m"/><s n="sg"/></l><r>magnifico<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
-<e>       <p><l>magnifique<s n="adj"/><s n="f"/><s n="sg"/></l><r>magnifico<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
-<e r="LR"><p><l>magnifique<s n="adj"/><s n="mf"/><s n="sg"/></l><r>magnifico<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
-<e r="LR"><p><l>magnifique<s n="adj"/><s n="mf"/><s n="pl"/></l><r>magnifico<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
 
 <e>       <p><l>abondant<s n="adj"/><s n="m"/></l>     <r>abbondante<s n="adj"/></r></p></e>
 
@@ -1980,7 +1978,15 @@
 
 <e>       <p><l>magistral<s n="adj"/><s n="GD"/></l>   <r>magistrale<s n="adj"/></r></p></e>
 
-<e>       <p><l>magnétique<s n="adj"/><s n="mf"/></l>  <r>magnetico<s n="adj"/></r></p></e>
+<e>       <p><l>magnifique<s n="adj"/><s n="m"/><s n="sg"/></l><r>magnifico<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>magnifique<s n="adj"/><s n="f"/><s n="sg"/></l><r>magnifico<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>magnifique<s n="adj"/><s n="mf"/><s n="sg"/></l><r>magnifico<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>magnifique<s n="adj"/><s n="mf"/><s n="pl"/></l><r>magnifico<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
+
+<e>       <p><l>magnétique<s n="adj"/><s n="m"/><s n="sg"/></l><r>magnetico<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>magnétique<s n="adj"/><s n="f"/><s n="sg"/></l><r>magnetico<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>magnétique<s n="adj"/><s n="mf"/><s n="sg"/></l><r>magnetico<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>magnétique<s n="adj"/><s n="mf"/><s n="pl"/></l><r>magnetico<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
 
 <e>       <p><l>majeur<s n="adj"/><s n="f"/></l>       <r>maggiore<s n="adj"/></r></p></e>
 
@@ -3498,6 +3504,9 @@
     <!-- ******************************
           group adv_symbol
       ****************************** -->
+    <!-- ******************************
+          group adv_symbol
+      ****************************** -->
 <e>       <p><l>a<b/>posteriori<s n="adv"/></l>        <r>a<b/>posteriori<s n="adv"/></r></p></e>
 
 <e>       <p><l>a<b/>priori<s n="adv"/></l>            <r>a<b/>priori<s n="adv"/></r></p></e>
@@ -3725,6 +3734,8 @@
 <e>       <p><l>d'autre<b/>part<s n="adv"/></l>        <r>d'altro<b/>lato<s n="adv"/></r></p></e>
 
 <e>       <p><l>d'autre<b/>part<s n="adv"/></l>        <r>d'altro<b/>canto<s n="adv"/></r></p></e>
+
+<e>       <p><l>d'habitude<s n="adv"/></l>             <r>di solito<s n="adv"/></r></p></e>
 
 <e>       <p><l>d'ores<b/>et<b/>déjà<s n="adv"/></l>   <r>d'ora<b/>in<b/>avanti<s n="adv"/></r></p></e>
 
@@ -3997,8 +4008,6 @@
 <e>       <p><l>heureusement<s n="adv"/></l>           <r>fortunatamente<s n="adv"/></r></p></e>
 
 <e>       <p><l>hier<s n="adv"/></l>                   <r>ieri<s n="adv"/></r></p></e>
-
-<e>       <p><l>d'habitude<s n="adv"/></l>             <r>di solito<s n="adv"/></r></p></e>
 
 <e>       <p><l>hier<b/>soir<s n="adv"/></l>           <r>la<b/>notte<b/>scorsa<s n="adv"/></r></p></e>
 
@@ -4645,6 +4654,9 @@
     <!-- ******************************
           group cnjadv_symbol
       ****************************** -->
+    <!-- ******************************
+          group cnjadv_symbol
+      ****************************** -->
 <e>       <p><l>afin<b/>que<s n="cnjadv"/></l>         <r>col<b/>fine<b/>di<s n="cnjadv"/></r></p></e>
 
 <e>       <p><l>alors<s n="cnjadv"/></l>               <r>allora<s n="cnjadv"/></r></p></e>
@@ -4720,6 +4732,9 @@
     <!-- ******************************
           group cnjcoo_symbol
       ****************************** -->
+    <!-- ******************************
+          group cnjcoo_symbol
+      ****************************** -->
 <e>       <p><l>et<s n="cnjcoo"/></l>                  <r>e<s n="cnjcoo"/></r></p></e>
 
 <e>       <p><l>et<s n="cnjcoo"/></l>                  <r>ed<s n="cnjcoo"/></r></p></e>
@@ -4731,6 +4746,9 @@
 <e>       <p><l>ou<s n="cnjcoo"/></l>                  <r>o<s n="cnjcoo"/></r></p></e>
 
 
+    <!-- ******************************
+          group det_symbol
+      ****************************** -->
     <!-- ******************************
           group det_symbol
       ****************************** -->
@@ -4877,12 +4895,18 @@
     <!-- ******************************
           group ij_symbol
       ****************************** -->
+    <!-- ******************************
+          group ij_symbol
+      ****************************** -->
 <e>       <p><l>au<b/>revoir<s n="ij"/></l>            <r>arrivederci<s n="ij"/></r></p></e>
 
 <e>       <p><l>bon<s n="ij"/></l>                     <r>ecco<s n="ij"/></r></p></e>
 
 <e>       <p><l>salut<s n="ij"/></l>                   <r>ciao<s n="ij"/></r></p></e>
 
+    <!-- ******************************
+          group n_symbol
+      ****************************** -->
     <!-- ******************************
           group n_symbol
       ****************************** -->
@@ -6480,7 +6504,7 @@
 
 <e>       <p><l>chasse<s n="n"/></l>                   <r>caccia<s n="n"/></r></p></e>
 
-<e>       <p><l>chat<s n="n"/></l>                    <r>gatto<s n="n"/></r></p></e>
+<e>       <p><l>chat<s n="n"/></l>                     <r>gatto<s n="n"/></r></p></e>
 
 <e>       <p><l>chauffeur<g><b/>de<b/>taxi</g><s n="n"/><s n="m"/></l><r>tassista<s n="n"/><s n="GD"/></r></p></e>
 
@@ -7142,13 +7166,13 @@
 
 <e>       <p><l>coordination<s n="n"/></l>             <r>coordinamento<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>copie<s n="n"/></l>                    <r>copia<s n="n"/></r></p></e>
-
-<e>       <p><l>copyright<s n="n"/></l>                <r>copyright<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-
 <e>       <p><l>copain<s n="n"/></l>                   <r>amico<s n="n"/></r></p></e>
 
+<e>       <p><l>copie<s n="n"/></l>                    <r>copia<s n="n"/></r></p></e>
+
 <e>       <p><l>copine<s n="n"/></l>                   <r>amica<s n="n"/></r></p></e>
+
+<e>       <p><l>copyright<s n="n"/></l>                <r>copyright<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>coq<s n="n"/></l>                      <r>gallo<s n="n"/></r></p></e>
 
@@ -14307,6 +14331,9 @@
     <!-- ******************************
           group np_symbol
       ****************************** -->
+    <!-- ******************************
+          group np_symbol
+      ****************************** -->
 <e>       <p><l>ABC<s n="np"/></l>                     <r>ABC<s n="np"/></r></p></e>
 
 <e>       <p><l>Abad<s n="np"/></l>                    <r>Abad<s n="np"/></r></p></e>
@@ -16493,6 +16520,9 @@
     <!-- ******************************
           group num_symbol
       ****************************** -->
+    <!-- ******************************
+          group num_symbol
+      ****************************** -->
 <e>       <p><l>C<s n="num"/></l>                      <r>C<s n="num"/></r></p></e>
 
 <e>       <p><l>D<s n="num"/></l>                      <r>D<s n="num"/></r></p></e>
@@ -16658,6 +16688,9 @@
     <!-- ******************************
           group pr_symbol
       ****************************** -->
+    <!-- ******************************
+          group pr_symbol
+      ****************************** -->
 <e>       <p><l>après<s n="pr"/></l>                   <r>dopo<s n="pr"/></r></p></e>
 
 <e>       <p><l>au-delà<b/>de<s n="pr"/></l>           <r>al<b/>di<b/>fuori<b/>da<s n="pr"/></r></p></e>
@@ -16780,6 +16813,9 @@
     <!-- ******************************
           group preadv_symbol
       ****************************** -->
+    <!-- ******************************
+          group preadv_symbol
+      ****************************** -->
 <e>       <p><l>bien<s n="preadv"/></l>                <r>bene<s n="preadv"/></r></p></e>
 
 <e>       <p><l>mal<s n="preadv"/></l>                 <r>male<s n="preadv"/></r></p></e>
@@ -16797,6 +16833,9 @@
 <e>       <p><l>très<s n="preadv"/></l>                <r>molto<s n="preadv"/></r></p></e>
 
 
+    <!-- ******************************
+          group prn_symbol
+      ****************************** -->
     <!-- ******************************
           group prn_symbol
       ****************************** -->
@@ -17122,6 +17161,9 @@
     <!-- ******************************
           group rel_symbol
       ****************************** -->
+    <!-- ******************************
+          group rel_symbol
+      ****************************** -->
 <e>       <p><l>celui<b/>que<s n="rel"/><s n="nt"/></l><r>il<b/>quale<s n="rel"/></r></p></e>
 
 <e>       <p><l>celui<b/>que<s n="rel"/><s n="nt"/></l><r>cui<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -17160,11 +17202,17 @@
     <!-- ******************************
           group vbhaver_symbol
       ****************************** -->
+    <!-- ******************************
+          group vbhaver_symbol
+      ****************************** -->
 <e>       <p><l>avoir<s n="vbhaver"/></l>              <r>avere<s n="vbhaver"/></r></p></e>
 
 <e>       <p><l>avoir<s n="vbhaver"/><s n="pp"/><s n="mf"/><s n="sp"/></l><r>avere<s n="vbhaver"/></r></p></e>
 
    
+    <!-- ******************************
+          group vblex_symbol
+      ****************************** -->
     <!-- ******************************
           group vblex_symbol
       ****************************** -->
@@ -19484,6 +19532,9 @@
     <!-- ******************************
           group vbmod_symbol
       ****************************** -->
+    <!-- ******************************
+          group vbmod_symbol
+      ****************************** -->
 <e>       <p><l>devoir<s n="vbmod"/></l>               <r>dovere<s n="vbmod"/></r></p></e>
 
 <e>       <p><l>pouvoir<s n="vbmod"/></l>              <r>potere<s n="vbmod"/></r></p></e>
@@ -19494,11 +19545,17 @@
     <!-- ******************************
           group vbser_symbol
       ****************************** -->
+    <!-- ******************************
+          group vbser_symbol
+      ****************************** -->
 <e>       <p><l>être<s n="vbser"/></l>                 <r>essere<s n="vbser"/></r></p></e>
 
 <e>       <p><l>être<s n="vbser"/><s n="pp"/><s n="mf"/><s n="sp"/></l><r>essere<s n="vbser"/></r></p></e>
 
    
+    <!-- ******************************
+          group(s) with only one element
+      ****************************** -->
     <!-- ******************************
           group(s) with only one element
       ****************************** -->
@@ -19516,9 +19573,15 @@
     <!-- ******************************
           group lquest_symbol
       ****************************** -->
+    <!-- ******************************
+          group lquest_symbol
+      ****************************** -->
 <e>       <re>¿</re><p><l><s n="lquest"/></l>          <r><s n="lquest"/></r></p></e>
 <e>       <re>[Â¿Â¡]</re><p><l><s n="lquest"/></l>     <r><s n="lquest"/></r></p></e>
    
+    <!-- ******************************
+          group num_symbol
+      ****************************** -->
     <!-- ******************************
           group num_symbol
       ****************************** -->
@@ -19531,6 +19594,9 @@
 <e>       <re>[0-2]?[0-9]h[0-6][0-9]</re><i><s n="num"/><s n="hour"/></i></e>
 <e>       <re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
    
+    <!-- ******************************
+          group(s) with only one element
+      ****************************** -->
     <!-- ******************************
           group(s) with only one element
       ****************************** -->
