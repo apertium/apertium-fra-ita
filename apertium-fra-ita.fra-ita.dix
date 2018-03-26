@@ -6010,6 +6010,8 @@
 
 <e>       <p><l>bestialité<s n="n"/></l>               <r>bestialità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
+<e>       <p><l>bêtise<s n="n"/></l>                   <r>sciocchezza<s n="n"/></r></p></e>
+
 <e>       <p><l>bibliothèque<s n="n"/></l>             <r>biblioteca<s n="n"/></r></p></e>
 
 <e>       <p><l>bicyclette<s n="n"/></l>               <r>bicicletta<s n="n"/></r></p></e>
@@ -6514,9 +6516,7 @@
 
 <e>       <p><l>chaussette<s n="n"/><s n="f"/></l>     <r>calzino<s n="n"/></r></p></e>
 
-<e>       <p><l>chaussure<s n="n"/><s n="f"/></l>      <r>scarpa<s n="n"/></r></p></e>
-
-<e>       <p><l>chaussure<s n="n"/><s n="f"/></l>      <r>scarpa<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>chaussure<s n="n"/></l>                <r>scarpa<s n="n"/></r></p></e>
 
 <e>       <p><l>chaux<s n="n"/><s n="f"/><s n="sp"/></l><r>calcare<s n="n"/><s n="m"/></r></p></e>
 
@@ -8099,7 +8099,7 @@
 
 <e>       <p><l>enquêteur<s n="n"/></l>                <r>ricercatore<s n="n"/></r></p></e>
 
-<e>       <p><l>enregistrement<s n="n"/><s n="m"/></l> <r>registrazione<s n="n"/></r></p></e>
+<e>       <p><l>enregistrement<s n="n"/><s n="m"/></l> <r>registrazione<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>enrichissement<s n="n"/></l>           <r>arricchimento<s n="n"/></r></p></e>
 
@@ -9321,6 +9321,8 @@
 <e>       <p><l>incommodité<s n="n"/></l>              <r>disagio<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>incompatibilité<s n="n"/></l>          <r>incompatibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+
+<e>       <p><l>incompréhension<s n="n"/></l>          <r>incomprensione<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>incorporation<s n="n"/></l>            <r>incorporazione<s n="n"/></r></p></e>
 
@@ -10984,7 +10986,7 @@
 
 <e>       <p><l>orbite<s n="n"/></l>                   <r>orbita<s n="n"/></r></p></e>
 
-<e>       <p><l>orchestre<s n="n"/><s n="m"/></l>      <r>orchestra<s n="n"/></r></p></e>
+<e>       <p><l>orchestre<s n="n"/><s n="m"/></l>      <r>orchestra<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>ordinateur<s n="n"/></l>               <r>computer<s n="n"/></r></p></e>
 
@@ -12181,7 +12183,7 @@
 
 <e>       <p><l>question<s n="n"/></l>                 <r>problema<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>question<s n="n"/><s n="f"/></l>       <r>interrogativo<s n="n"/></r></p></e>
+<e>       <p><l>question<s n="n"/></l>                 <r>interrogativo<s n="n"/></r></p></e>
 
 <e>       <p><l>question<s n="n"/></l>                 <r>domanda<s n="n"/></r></p></e>
 
@@ -17230,6 +17232,8 @@
 
 <e>       <p><l>abonder<s n="vblex"/></l>              <r>abbondare<s n="vblex"/></r></p></e>
 
+<e>       <p><l>aboyer<s n="vblex"/></l>               <r>abbaiare<s n="vblex"/></r></p></e>
+
 <e>       <p><l>abriter<s n="vblex"/></l>              <r>cautelare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>abréger<s n="vblex"/></l>              <r>abbreviare<s n="vblex"/></r></p></e>
@@ -18797,6 +18801,8 @@
 <e>       <p><l>programmer<s n="vblex"/></l>           <r>programmare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>projeter<s n="vblex"/></l>             <r>progettare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>promener<s n="vblex"/></l>             <r>passeggiare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>promettre<s n="vblex"/></l>            <r>promettere<s n="vblex"/></r></p></e>
 
