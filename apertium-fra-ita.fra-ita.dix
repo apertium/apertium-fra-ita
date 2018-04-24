@@ -1433,7 +1433,7 @@
 <e>       <p><l>gris<s n="adj"/><s n="GD"/></l>        <r>grigio<s n="adj"/><s n="f"/></r></p></e>
 
 <e>       <p><l>gros<s n="adj"/><s n="m"/><s n="sp"/></l><r>grosso<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
-<e>       <p><l>gros<s n="adj"/><s n="m"/><s n="sp"/></l><r>grossi<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+
 
 <e>       <p><l>gros<s n="adj"/><s n="m"/><s n="sp"/></l><r>grasso<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>gros<s n="adj"/><s n="m"/><s n="sp"/></l><r>grassi<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
@@ -1441,9 +1441,6 @@
 <e>       <p><l>grosse<s n="adj"/><s n="f"/><s n="sp"/></l><r>grassa<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
 <e>       <p><l>grosses<s n="adj"/><s n="f"/><s n="sp"/></l><r>grosse<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
 <e>       <p><l>grosses<s n="adj"/><s n="f"/><s n="sp"/></l><r>grasse<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
-
-
-
 
 
 <e>       <p><l>guerrier<s n="adj"/></l>               <r>guerriero<s n="adj"/></r></p></e>
@@ -3289,8 +3286,9 @@
 <e>       <p><l>verbal<s n="adj"/><s n="GD"/></l>      <r>verbale<s n="adj"/></r></p></e>
 
 <e>       <p><l>versatile<s n="adj"/></l>              <r>versatile<s n="adj"/></r></p></e>
-<e>       <p><l>vert<s n="adj"/><s n="m"/><s n="sg"/></l><r>verde<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
-<e>       <p><l>vert<s n="adj"/><s n="f"/><s n="sg"/></l><r>verde<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+
+<e>       <p><l>vert<s n="adj"/><s n="m"/><s n="sg"/></l><r>verde<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+<e>       <p><l>vert<s n="adj"/><s n="f"/><s n="sg"/></l><r>verde<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 <e r="LR"><p><l>vert<s n="adj"/><s n="mf"/><s n="sg"/></l><r>verde<s n="adj"/><s n="GD"/><s n="sg"/></r></p></e>
 <e r="LR"><p><l>vert<s n="adj"/><s n="mf"/><s n="pl"/></l><r>verde<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
 
@@ -4789,7 +4787,6 @@
 
 <e>       <p><l>le<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></l><r>il<s n="det"/><s n="def"/><s n="mf"/></r></p></e>
 
-<e>       <p><l>le<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></l><r>il<s n="det"/><s n="def"/></r></p></e>
 
 <e>       <p><l>les<b/>deux<s n="det"/></l>            <r>entrambi<b/>i<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
 
@@ -5614,7 +5611,7 @@
 
 <e>       <p><l>armistice<s n="n"/></l>                <r>armistizio<s n="n"/></r></p></e>
 
-<e>       <p><l>armoire<s n="n"/></l>                  <r>armadio<s n="n"/></r></p></e>
+<e>       <p><l>armoire<s n="n"/></l>                  <r>armadio<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>armée<s n="n"/><s n="f"/></l>          <r>esercito<s n="n"/></r></p></e>
 
@@ -8814,7 +8811,7 @@
 
 <e>       <p><l>genre<s n="n"/></l>                    <r>genere<s n="n"/></r></p></e>
 
-<e>       <p><l>gens<s n="n"/><s n="m"/><s n="pl"/></l><r>gente<s n="n"/></r></p></e>
+<e>       <p><l>gens<s n="n"/><s n="m"/><s n="pl"/></l> <r>persona<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 
 <e>       <p><l>germe<s n="n"/></l>                    <r>germe<s n="n"/></r></p></e>
 
@@ -14309,7 +14306,7 @@
 
 <e>       <p><l>île<s n="n"/></l>                      <r>isola<s n="n"/></r></p></e>
 
-<e>       <p><l>œil<s n="n"/><s n="m"/></l>            <r>occhio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>œil<s n="n"/></l>                      <r>occhio<s n="n"/></r></p></e>
 
 <e>       <p><l>œuf<s n="n"/></l>                      <r>uovo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 
@@ -19449,6 +19446,7 @@
 <e>       <p><l>y<b/>avoir<s n="vblex"/></l>           <r>c'è<s n="vblex"/><s n="fti"/><s n="p3"/><s n="sg"/></r></p></e>
 
 <e>       <p><l>y<b/>avoir<s n="vblex"/></l>           <r>c'è<s n="vblex"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e>
+
 
 <e>       <p><l>éberluer<s n="vblex"/></l>             <r>sorprendere<s n="vblex"/></r></p></e>
 
