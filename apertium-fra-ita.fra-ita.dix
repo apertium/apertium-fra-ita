@@ -4810,8 +4810,10 @@
 
 <e>       <p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>mio<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
 <e>       <p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>mio<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
-<e>       <p><l>mon<s n="det"/><s n="pos"/><s n="GD"/><s n="sg"/></l><r>mio<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
-<e>       <p><l>mon<s n="det"/><s n="pos"/><s n="GD"/><s n="sg"/></l><r>mio<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
+<e>       <p><l>mon<s n="det"/><s n="pos"/><s n="GD"/><s n="sg"/></l><r>mio<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>mon<s n="det"/><s n="pos"/><s n="GD"/><s n="sg"/></l><r>mio<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+<e>       <p><l>mon<s n="det"/><s n="pos"/><s n="GD"/><s n="pl"/></l><r>mio<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+<e>       <p><l>mon<s n="det"/><s n="pos"/><s n="GD"/><s n="pl"/></l><r>mio<s n="det"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
 
 <e>       <p><l>n'importe<b/>quel<s n="det"/><s n="ind"/><s n="f"/></l><r>qualsiasi<s n="det"/><s n="ind"/></r></p></e>
 
@@ -4830,7 +4832,6 @@
 <e>       <p><l>notre<s n="det"/><s n="pos"/><s n="mf"/></l><r>nostro<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
 <e>       <p><l>notre<s n="det"/><s n="pos"/><s n="mf"/></l><r>nostro<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
 <e>       <p><l>notre<s n="det"/><s n="pos"/><s n="GD"/><s n="sg"/></l><r>nostro<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
-
 <e>       <p><l>notre<s n="det"/><s n="pos"/><s n="GD"/><s n="sg"/></l><r>nostro<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
 
 
@@ -4870,13 +4871,7 @@
 
 <e>       <p><l>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></l><r>un<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
 
-<e>       <p><l>un<b/>autre<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></l><r>un<b/>altro<s n="det"/><s n="ind"/></r></p></e>
-
-<e>       <p><l>un<b/>autre<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></l><r>un<b/>altro<s n="det"/><s n="ind"/></r></p></e>
-
-<e>       <p><l>un<b/>autre<s n="det"/><s n="ind"/><s n="mf"/></l><r>un<b/>altro<s n="det"/><s n="ind"/></r></p></e>
-
-<e>       <p><l>un<b/>autre<s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></l><r>un<b/>altro<s n="det"/><s n="ind"/></r></p></e>
+<e>       <p><l>un<b/>autre<s n="det"/><s n="ind"/></l>    <r>un<b/>altro<s n="det"/><s n="ind"/></r></p></e>
 
 <e>       <p><l>votre<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>il<b/>vostro<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>votre<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>il<b/>vostro<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
@@ -5335,11 +5330,7 @@
 
 <e>       <p><l>amandier<s n="n"/></l>                 <r>mandorlo<s n="n"/></r></p></e>
 
-<e>       <p><l>amant<s n="n"/><s n="f"/></l>          <r>amante<s n="n"/></r></p></e>
-
-<e>       <p><l>amant<s n="n"/><s n="m"/></l>          <r>amante<s n="n"/></r></p></e>
-
-<e>       <p><l>amant<s n="n"/><s n="GD"/></l>         <r>amante<s n="n"/></r></p></e>
+<e>       <p><l>amant<s n="n"/></l>                    <r>amante<s n="n"/></r></p></e>
 
 <e>       <p><l>amas<s n="n"/><s n="m"/><s n="sp"/></l><r>mucchio<s n="n"/></r></p></e>
 
@@ -8079,8 +8070,7 @@
 
 <e>       <p><l>enfance<s n="n"/></l>                  <r>infanzia<s n="n"/></r></p></e>
 
-<e>       <p><l>enfant<s n="n"/><s n="mf"/><s n="sg"/></l><r>bambino<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e>       <p><l>enfants<s n="n"/><s n="mf"/><s n="pl"/></l><r>bambini<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e>       <p><l>enfant<s n="n"/><s n="mf"/></l>        <r>bambino<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>enfer<s n="n"/></l>                    <r>inferno<s n="n"/></r></p></e>
 
@@ -8859,11 +8849,9 @@
 
 <e>       <p><l>gramme<s n="n"/></l>                   <r>grammo<s n="n"/></r></p></e>
 
-<e>       <p><l>grand-mère<s n="n"/><s n="f"/></l>     <r>nonno<s n="n"/></r></p></e>
+<e>       <p><l>grand-mère<s n="n"/><s n="f"/></l>     <r>nonno<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>grand-père<s n="n"/></l>               <r>nonno<s n="n"/></r></p></e>
-
-<e>       <p><l>grand-père<s n="n"/><s n="m"/></l>     <r>nonno<s n="n"/></r></p></e>
+<e>       <p><l>grand-père<s n="n"/></l>               <r>nonno<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>grandeur<s n="n"/></l>                 <r>magnitudine<s n="n"/></r></p></e>
 
@@ -10903,13 +10891,11 @@
 
 <e>       <p><l>odyssée<s n="n"/></l>                  <r>odissea<s n="n"/></r></p></e>
 
-<e>       <p><l>oeil<s n="n"/><s n="m"/></l>           <r>occhio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>œil<s n="n"/></l>                      <r>occhio<s n="n"/></r></p></e>
 
-<e>       <p><l>oeuf<s n="n"/></l>                     <r>uovo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>œuf<s n="n"/></l>                      <r>uovo<s n="n"/></r></p></e>
 
-<e>       <p><l>oeuf<s n="n"/></l>                     <r>uovo<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-
-<e>       <p><l>oeuvre<s n="n"/></l>                   <r>opera<s n="n"/></r></p></e>
+<e>       <p><l>œuvre<s n="n"/></l>                    <r>opera<s n="n"/></r></p></e>
 
 <e>       <p><l>office<s n="n"/><s n="f"/></l>         <r>capannone<s n="n"/></r></p></e>
 
@@ -11657,8 +11643,9 @@
 
 <e>       <p><l>politicien<s n="n"/></l>               <r>politico<s n="n"/></r></p></e>
 
-<e>       <p><l>politique<s n="n"/><s n="mf"/></l>     <r>politico<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e>       <p><l>politique<s n="n"/><s n="f"/><s n="sg"/></l><r>politica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e>       <p><l>politique<s n="n"/></l>                <r>politico<s n="n"/></r></p></e>
+
+<e>       <p><l>politique<s n="n"/><s n="f"/><s n="sg"/></l> <r>politica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 
 <e>       <p><l>pollen<s n="n"/></l>                   <r>polline<s n="n"/></r></p></e>
 
@@ -11674,7 +11661,9 @@
 
 <e>       <p><l>pomme<s n="n"/></l>                    <r>mela<s n="n"/></r></p></e>
 
-<e>       <p><l>pomme<g><b/>de<b/>terre</g><s n="n"/></l><r>patata<s n="n"/></r></p></e>
+<e>       <p><l>poire<s n="n"/></l>                    <r>pera<s n="n"/></r></p></e>
+
+<e>       <p><l>pomme<g><b/>de<b/>terre</g><s n="n"/></l> <r>patata<s n="n"/></r></p></e>
 
 <e>       <p><l>pompe<s n="n"/></l>                    <r>bomba<s n="n"/></r></p></e>
 
@@ -17094,9 +17083,7 @@
 
 <e>       <p><l>quelqu'un<s n="prn"/><s n="tn"/><s n="mf"/></l><r>qualcuno<s n="prn"/><s n="tn"/><s n="f"/></r></p></e>
 
-<e>       <p><l>quelque<b/>chose<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></l><r>qualcosa<s n="prn"/></r></p></e>
-
-<e>       <p><l>quelque<b/>chose<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></l><r>alcunché<s n="prn"/></r></p></e>
+<e>       <p><l>quelque<b/>chose<s n="prn"/></l>      <r>qualcosa<s n="prn"/></r></p></e>
 
 <e>       <p><l>qui<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>chi<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
 
