@@ -767,7 +767,7 @@
 	  </test>
 	  <let>
 	    <clip pos="1" side="tl" part="lem"/>
-	    <lit v="buen"/>
+	    <lit v="buono"/>
 	  </let>
 	</when>
       </choose>
@@ -811,7 +811,7 @@
 	  </test>
 	  <let>  
 	    <clip pos="1" side="tl" part="lem"/>
-	    <lit v="primer"/>
+	    <lit v="primo"/>
 	  </let>
 	</when>
       </choose>
@@ -831,7 +831,7 @@
 	  </test>
 	  <let>
 	    <clip pos="1" side="tl" part="lem"/>
-	    <lit v="mal"/>
+	    <lit v="cattivo"/>
 	  </let>
 	</when>
       </choose>
@@ -851,7 +851,7 @@
 	  </test>
 	  <let>
 	    <clip pos="1" side="tl" part="lem"/>
-	    <lit v="tercer"/>
+	    <lit v="terzo"/>
 	  </let>
 	</when>
       </choose>
@@ -923,7 +923,7 @@
 	      </test>
 	      <let>
 		<clip pos="2" side="tl" part="lem"/>
-		<lit v="negar"/>
+		<lit v="rifiutare"/>
 	      </let>
 	    </when>
 	    <when>
@@ -935,7 +935,7 @@
 	      </test>
 	      <let>
 		<clip pos="2" side="tl" part="lem"/>
-		<lit v="preguntar"/>
+		<lit v="domandare"/>
 	      </let>
 	    </when>
 	    <when>
@@ -947,7 +947,7 @@
 	      </test>
 	      <let>
 		<clip pos="2" side="tl" part="lem"/>
-		<lit v="transcurrir"/>
+		<lit v="trascorrere"/>
 	      </let>
 	    </when>
 	    <when>
@@ -959,7 +959,7 @@
 	      </test>
 	      <let>
 		<clip pos="2" side="tl" part="lem"/>
-		<lit v="atender"/>
+		<lit v="occupare"/>
 	      </let>
 	    </when>
 	    <when>
@@ -971,14 +971,14 @@
 	      </test>
 	      <let>
 		<clip pos="2" side="tl" part="lem"/>
-		<lit v="acordar"/>
+		<lit v="ricordare"/>
 	      </let>
 	    </when>
 	    <when>
 	      <test>
 		<equal caseless="yes">
 		  <clip pos="2" side="sl" part="lem"/>
-		  <lit v="vanter"/>
+		  <lit v="vantare"/>
 		</equal>
 	      </test>
 	      <let>
@@ -996,7 +996,7 @@
 	      </test>
 	      <let>
 		<clip pos="2" side="tl" part="lem"/>
-		<lit v="equivocar"/>
+		<lit v="ingannare"/>
 	      </let>
 	    </when>
 	    <when>
@@ -1008,7 +1008,7 @@
 	      </test>
 	      <let>
 		<clip pos="2" side="tl" part="lem"/>
-		<lit v="apercibir"/>
+		<lit v="percepire"/>
 	      </let>
 	    </when>
 	    <when>
@@ -1020,7 +1020,7 @@
 	      </test>
 	      <let>
 		<clip pos="2" side="tl" part="lem"/>
-		<lit v="hacinar"/>
+		<lit v="ammucchiare"/>
 	      </let>
 	    </when>
 	    <when>
@@ -1217,7 +1217,7 @@
 		  </test>
 		  <let>
 		    <clip pos="2" side="tl" part="lem"/>
-		    <lit v="negar"/>
+		    <lit v="negare"/>
 		  </let>
 		</when>
 		<when>
@@ -1229,7 +1229,7 @@
 		  </test>
 		  <let>
 		    <clip pos="2" side="tl" part="lem"/>
-		    <lit v="preguntar"/>
+		    <lit v="domandare"/>
 		  </let>
 		</when>
 		<when>
