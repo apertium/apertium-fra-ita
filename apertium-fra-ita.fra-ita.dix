@@ -4200,13 +4200,11 @@
 
 <e>       <p><l>naturellement<s n="adv"/></l>          <r>naturalmente<s n="adv"/></r></p></e>
 
-<e>       <p><l>ne<s n="adv"/></l>                     <r>no<s n="adv"/></r></p></e>
-
 <e>       <p><l>ne<s n="adv"/></l>                     <r>non<s n="adv"/></r></p></e>
 
 <e>       <p><l>nettement<s n="adv"/></l>              <r>chiaramente<s n="adv"/></r></p></e>
 
-<e>       <p><l>non<s n="adv"/></l>                    <r>non<s n="adv"/></r></p></e>
+<e>       <p><l>non<s n="adv"/></l>                    <r>no<s n="adv"/></r></p></e>
 
 <e>       <p><l>non<b/>plus<s n="adv"/></l>            <r>neanche<s n="adv"/></r></p></e>
 
@@ -16765,7 +16763,7 @@
 
 <e>       <p><l>pour<s n="pr"/></l>                    <r>per<s n="pr"/></r></p></e>
 
-<e>       <p><l>près<s n="pr"/></l>                    <r>vicino<b/>a<s n="pr"/></r></p></e>
+<e>       <p><l>près<b/>de<s n="pr"/></l>              <r>vicino<b/>a<s n="pr"/></r></p></e>
 
 <e>       <p><l>près<s n="pr"/></l>                    <r>presso<s n="pr"/></r></p></e>
 
@@ -16782,8 +16780,6 @@
 <e>       <p><l>tout<b/>au<b/>long<b/>de<s n="pr"/></l><r>lungo<s n="pr"/></r></p></e>
 
 <e>       <p><l>vers<s n="pr"/></l>                    <r>verso<s n="pr"/></r></p></e>
-
-<e>       <p><l>vers<s n="pr"/></l>                    <r>per<s n="pr"/></r></p></e>
 
 <e>       <p><l>à<s n="pr"/></l>                       <r>a<s n="pr"/></r></p></e>
 
@@ -17600,9 +17596,7 @@
 
 <e>       <p><l>chercher<s n="vblex"/></l>             <r>cercare<s n="vblex"/></r></p></e>
 
-<e>       <p><l>chercher<s n="vblex"/></l>             <r>buscare<s n="vblex"/></r></p></e>
-
-<e>       <p><l>chercher<g><b/>à</g><s n="vblex"/></l> <r>cercare<s n="vblex"/></r></p></e>
+<e>       <p><l>chercher<g><b/>à</g><s n="vblex"/></l> <r>cercare<g><b/>di</g><s n="vblex"/></r></p></e>
 
 <e>       <p><l>chier<s n="vblex"/></l>                <r>cacare<s n="vblex"/></r></p></e>
 
