@@ -2051,9 +2051,7 @@
 
 <e>       <p><l>maudit<s n="adj"/></l>                 <r>maledetto<s n="adj"/></r></p></e>
 
-<e>       <p><l>mauvais<s n="adj"/><s n="f"/></l>      <r>cattivo<s n="adj"/></r></p></e>
-
-<e>       <p><l>mauvais<s n="adj"/><s n="m"/><s n="sp"/></l><r>cattivo<s n="adj"/></r></p></e>
+<e>       <p><l>mauvais<s n="adj"/></l>                <r>cattivo<s n="adj"/></r></p></e>
 
 <e>       <p><l>maximal<s n="adj"/></l>                <r>massimo<s n="adj"/></r></p></e>
 
@@ -7408,9 +7406,7 @@
 
 <e>       <p><l>dallage<s n="n"/></l>                  <r>pavimento<s n="n"/></r></p></e>
 
-<e>       <p><l>dame<s n="n"/><s n="f"/></l>           <r>signore<s n="n"/></r></p></e>
-
-<e>       <p><l>dame<s n="n"/></l>                     <r>dama<s n="n"/></r></p></e>
+<e>       <p><l>dame<s n="n"/></l>                     <r>signora<s n="n"/></r></p></e>
 
 <e>       <p><l>danger<s n="n"/></l>                   <r>pericolo<s n="n"/></r></p></e>
 
@@ -8687,7 +8683,7 @@
 
 <e>       <p><l>fruit<s n="n"/></l>                    <r>frutto<s n="n"/></r></p></e>
 
-<e>       <p><l>fruit<s n="n"/><s n="m"/></l>          <r>frutta<s n="n"/></r></p></e>
+<e>       <p><l>fruit<s n="n"/><s n="m"/><s n="pl"/></l>          <r>frutta<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 
 <e>       <p><l>fruits<b/>de<b/>mer<s n="n"/><s n="m"/><s n="pl"/></l><r>frutto<g><b/>di<b/>mare</g><s n="n"/></r></p></e>
 
@@ -15358,7 +15354,7 @@
 
 <e>       <p><l>Javier<s n="np"/><s n="ant"/></l>      <r>Javier<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>Jaén<s n="np"/></l>                    <r>Jaén<s n="np"/></r></p></e>
-<e>       <p><l>Jean<s n="np"/><s n="ant"/></l>        <r>Jean<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>Jean<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></l>        <r>Jean<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 
 
 <e>       <p><l>Jean<b/>Cabot<s n="np"/></l>           <r>Giovanni<b/>Caboto<s n="np"/><s n="ant"/></r></p></e>
@@ -15562,7 +15558,7 @@
 
 <e>       <p><l>Mariana<s n="np"/><s n="ant"/></l>     <r>Mariana<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
 
-<e>       <p><l>Marie<s n="np"/><s n="ant"/></l>       <r>Marie<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+<e>       <p><l>Marie<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></l>       <r>Marie<s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
 
 <e>       <p><l>Mario<s n="np"/><s n="ant"/></l>       <r>Mario<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
 
@@ -17382,6 +17378,8 @@
 
 <e>       <p><l>anéantir<s n="vblex"/></l>             <r>annientare<s n="vblex"/></r></p></e>
 
+<e>       <p><l>apercevoir<s n="vblex"/></l>           <r>percepire<s n="vblex"/></r></p></e>
+
 <e>       <p><l>apparaître<s n="vblex"/></l>           <r>apparire<s n="vblex"/></r></p></e>
 
 <e>       <p><l>appartenir<s n="vblex"/></l>           <r>appartenere<s n="vblex"/></r></p></e>
@@ -18093,6 +18091,8 @@
 <e>       <p><l>enseigner<s n="vblex"/></l>            <r>insegnare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>entamer<s n="vblex"/></l>              <r>avviare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>entasser<s n="vblex"/></l>             <r>ammucchiare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>entendre<s n="vblex"/></l>             <r>sentire<s n="vblex"/></r></p></e>
 
