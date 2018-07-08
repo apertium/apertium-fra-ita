@@ -978,12 +978,12 @@
 	      <test>
 		<equal caseless="yes">
 		  <clip pos="2" side="sl" part="lem"/>
-		  <lit v="vantare"/>
+		  <lit v="vanter"/>
 		</equal>
 	      </test>
 	      <let>
 		<clip pos="2" side="tl" part="lem"/>
-		<lit v="alardear"/>
+		<lit v="vandare"/>
 	      </let>
 	    </when>
 	    
