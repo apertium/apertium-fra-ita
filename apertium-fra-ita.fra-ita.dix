@@ -5672,15 +5672,10 @@
 
 <e>       <p><l>assistance<s n="n"/></l>               <r>assistenza<s n="n"/></r></p></e>
 
-<e>       <p><l>assistant<s n="n"/><s n="f"/></l>      <r>assistente<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>assistant<s n="n"/><s n="m"/></l>      <r>assistente<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>assistant<s n="n"/><s n="GD"/></l>     <r>assistente<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>assistant<s n="n"/><s n="f"/></l>      <r>aiutante<s n="n"/></r></p></e>
-
-<e>       <p><l>assistant<s n="n"/><s n="m"/></l>      <r>aiutante<s n="n"/></r></p></e>
+<e>       <p><l>assistant<s n="n"/><s n="f"/></l>           <r>assistente<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>assistant<s n="n"/><s n="m"/><s n="sp"/></l><r>assistente<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+<e r="RL"><p><l>assistant<s n="n"/><s n="m"/><s n="sp"/></l><r>assistente<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>assistant<s n="n"/><s n="m"/><s n="sp"/></l><r>assistente<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 
 <e>       <p><l>association<s n="n"/></l>              <r>associazione<s n="n"/></r></p></e>
 
