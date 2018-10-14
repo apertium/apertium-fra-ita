@@ -1030,6 +1030,8 @@
 
 <e>       <p><l>décisif<s n="adj"/></l>                <r>decisivo<s n="adj"/></r></p></e>
 
+<e>       <p><l>déclencheur<s n="adj"/></l>            <r>scatenante<s n="adj"/></r></p></e>
+
 <e>       <p><l>défavorable<s n="adj"/></l>            <r>sfavorevole<s n="adj"/></r></p></e>
 
 <e>       <p><l>déficient<s n="adj"/><s n="f"/></l>    <r>deficiente<s n="adj"/></r></p></e>
@@ -6481,6 +6483,8 @@
 
 <e>       <p><l>chat<s n="n"/></l>                     <r>gatto<s n="n"/></r></p></e>
 
+<e>       <p><l>chauffage<s n="n"/></l>                <r>riscaldamento<s n="n"/></r></p></e>
+
 <e>       <p><l>chauffeur<g><b/>de<b/>taxi</g><s n="n"/><s n="m"/></l><r>tassista<s n="n"/><s n="GD"/></r></p></e>
 
 <e>       <p><l>chauffeur<g><b/>de<b/>taxi</g><s n="n"/><s n="m"/></l><r>tassista<s n="n"/><s n="m"/></r></p></e>
@@ -7021,7 +7025,7 @@
 
 <e>       <p><l>conseiller<b/>municipal<s n="n"/></l>  <r>assessore<s n="n"/><s n="mf"/></r></p></e>
 
-<e>       <p><l>consensus<s n="n"/><s n="m"/><s n="sp"/></l><r>consenso<s n="n"/></r></p></e>
+<e>       <p><l>consensus<s n="n"/></l>                <r>consenso<s n="n"/></r></p></e>
 
 <e>       <p><l>consentement<s n="n"/></l>             <r>sopportazione<s n="n"/><s n="f"/></r></p></e>
 
@@ -7279,11 +7283,7 @@
 
 <e>       <p><l>criminalité<s n="n"/></l>              <r>criminalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
-<e>       <p><l>crise<s n="n"/><s n="f"/><s n="pl"/></l><r>crisi<s n="n"/></r></p></e>
-
-<e>       <p><l>crise<s n="n"/><s n="f"/><s n="sg"/></l><r>crisi<s n="n"/></r></p></e>
-
-<e>       <p><l>crise<s n="n"/><s n="f"/><s n="ND"/></l><r>crisi<s n="n"/></r></p></e>
+<e>       <p><l>crise<s n="n"/></l>                    <r>crisi<s n="n"/></r></p></e>
 
 <e>       <p><l>cristallisation<s n="n"/></l>          <r>cristallizzazione<s n="n"/></r></p></e>
 
@@ -8978,7 +8978,7 @@
 
 <e>       <p><l>habitation<s n="n"/></l>               <r>stanza<s n="n"/></r></p></e>
 
-<e>       <p><l>habitude<s n="n"/><s n="f"/></l>       <r>abitudine<s n="n"/></r></p></e>
+<e>       <p><l>habitude<s n="n"/></l>                 <r>abitudine<s n="n"/></r></p></e>
 
 <e>       <p><l>hache<s n="n"/></l>                    <r>ascia<s n="n"/></r></p></e>
 
@@ -16906,7 +16906,9 @@
 
 <e>       <p><l>il<s n="prn"/></l>                     <r>lui<s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/></r></p></e>
 
-<e>       <p><l>il<s n="prn"/></l>                     <r>egli<s n="prn"/></r></p></e>
+<e>       <p><l>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="sg"/></l>                     <r>egli<s n="prn"/><s n="tn"/><s n="p3"/><s n="sg"/></r></p></e>
+
+<e>       <p><l>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="pl"/></l>                     <r>lui<s n="prn"/><s n="tn"/><s n="p3"/><s n="pl"/></r></p></e>
 
 <e>       <p><l>je<s n="prn"/></l>                     <r>io<s n="prn"/><s n="tn"/></r></p></e>
 
