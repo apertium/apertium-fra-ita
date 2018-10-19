@@ -4964,7 +4964,9 @@
 
 <e>       <p><l>abondance<s n="n"/></l>                <r>abbondanza<s n="n"/></r></p></e>
 
-<e>       <p><l>abonnement<s n="n"/><s n="m"/></l>     <r>sottoscrizione<s n="n"/></r></p></e>
+<e>       <p><l>abonnement<s n="n"/></l>               <r>sottoscrizione<s n="n"/><s n="f"/></r></p></e>
+
+<e>       <p><l>abonnement<s n="n"/></l>               <r>abbonamento<s n="n"/></r></p></e>
 
 <e>       <p><l>abordage<s n="n"/></l>                 <r>abbordaggio<s n="n"/></r></p></e>
 
@@ -4985,8 +4987,6 @@
 <e>       <p><l>absolution<s n="n"/></l>               <r>assoluzione<s n="n"/></r></p></e>
 
 <e>       <p><l>absolutisme<s n="n"/></l>              <r>assolutismo<s n="n"/></r></p></e>
-
-<e>       <p><l>absorption<s n="n"/></l>               <r>assorbimento<s n="n"/></r></p></e>
 
 <e>       <p><l>absorption<s n="n"/></l>               <r>assorbimento<s n="n"/><s n="m"/></r></p></e>
 
@@ -5012,7 +5012,7 @@
 
 <e>       <p><l>acception<s n="n"/></l>                <r>accezione<s n="n"/></r></p></e>
 
-<e>       <p><l>accessibilité<s n="n"/></l>            <r>accessibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+<e>       <p><l>accessibilité<s n="n"/></l>            <r>accessibilità<s n="n"/></r></p></e>
 
 <e>       <p><l>accessoire<s n="n"/></l>               <r>accessorio<s n="n"/></r></p></e>
 
@@ -5030,33 +5030,27 @@
 
 <e>       <p><l>accordéoniste<s n="n"/></l>            <r>fisarmonicista<s n="n"/><s n="GD"/></r></p></e>
 
-<e>       <p><l>accordéoniste<s n="n"/></l>            <r>fisarmonicista<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>accordéoniste<s n="n"/></l>            <r>fisarmonicista<s n="n"/><s n="f"/></r></p></e>
-
 <e>       <p><l>accouchement<s n="n"/></l>             <r>parto<s n="n"/></r></p></e>
 
-<e>       <p><l>accoutrement<s n="n"/><s n="m"/></l>   <r>abbigliamento<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>accoutrement<s n="n"/></l>             <r>abbigliamento<s n="n"/></r></p></e>
 
-<e>       <p><l>accroissement<s n="n"/><s n="m"/></l>  <r>ampliamento<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>accroissement<s n="n"/></l>            <r>ampliamento<s n="n"/></r></p></e>
 
 <e>       <p><l>accroissement<s n="n"/></l>            <r>incremento<s n="n"/></r></p></e>
 
 <e>       <p><l>accréditation<s n="n"/></l>            <r>accreditamento<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>accueil<s n="n"/></l>                  <r>accoglienza<s n="n"/></r></p></e>
+<e>       <p><l>accueil<s n="n"/></l>                  <r>accoglienza<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>accueil<s n="n"/><s n="m"/></l>        <r>ricezione<s n="n"/></r></p></e>
+<e>       <p><l>accueil<s n="n"/></l>                  <r>ricezione<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>accueil<s n="n"/><s n="m"/></l>        <r>benvenuto<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>accueil<s n="n"/><s n="m"/></l>        <r>accoglienza<s n="n"/></r></p></e>
+<e>       <p><l>accueil<s n="n"/></l>                  <r>benvenuto<s n="n"/></r></p></e>
 
 <e>       <p><l>accumulation<s n="n"/></l>             <r>accumulazione<s n="n"/></r></p></e>
 
 <e>       <p><l>accumulation<s n="n"/></l>             <r>cumulo<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>accès<s n="n"/><s n="m"/><s n="sp"/></l><r>accesso<s n="n"/></r></p></e>
+<e>       <p><l>accès<s n="n"/></l>                    <r>accesso<s n="n"/></r></p></e>
 
 <e>       <p><l>accélération<s n="n"/></l>             <r>accelerazione<s n="n"/></r></p></e>
 
@@ -5064,15 +5058,13 @@
 
 <e>       <p><l>achat<s n="n"/><s n="m"/></l>          <r>acquisto<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>achat<s n="n"/><s n="m"/></l>          <r>spesa<s n="n"/></r></p></e>
+<e>       <p><l>achat<s n="n"/></l>                    <r>spesa<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>acheteur<s n="n"/></l>                 <r>committente<s n="n"/></r></p></e>
 
 <e>       <p><l>acheteur<s n="n"/></l>                 <r>acquirente<s n="n"/></r></p></e>
 
 <e>       <p><l>acheteur<s n="n"/></l>                 <r>compratore<s n="n"/></r></p></e>
-
-<e>       <p><l>acheteur<s n="n"/></l>                 <r>acquirente<s n="n"/><s n="mf"/></r></p></e>
 
 <e c="new-category"><p><l>acide<s n="n"/></l>          <r>acido<s n="n"/></r></p></e>
 
@@ -5088,15 +5080,11 @@
 
 <e>       <p><l>acroissement<s n="n"/><s n="m"/></l>   <r>ampliamento<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>acte<s n="n"/><s n="m"/></l>           <r>atto<s n="n"/></r></p></e>
-
-<e>       <p><l>acte<s n="n"/><s n="m"/></l>           <r>atto<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>acte<s n="n"/></l>                     <r>atto<s n="n"/></r></p></e>
 
 <e>       <p><l>acteur<s n="n"/></l>                   <r>attore<s n="n"/></r></p></e>
 
 <e>       <p><l>action<s n="n"/></l>                   <r>azione<s n="n"/></r></p></e>
-
-<e>       <p><l>action<s n="n"/></l>                   <r>azione<s n="n"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>action<s n="n"/></l>                   <r>attuazione<s n="n"/></r></p></e>
 
@@ -5110,13 +5098,7 @@
 
 <e>       <p><l>activation<s n="n"/></l>               <r>attivazione<s n="n"/></r></p></e>
 
-<e>       <p><l>activiste<s n="n"/></l>                <r>attivista<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>activiste<s n="n"/></l>                <r>attivista<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>activiste<s n="n"/></l>                <r>attivista<s n="n"/><s n="f"/></r></p></e>
-
-<e>       <p><l>activiste<s n="n"/></l>                <r>attivista<s n="n"/></r></p></e>
+<e>       <p><l>activiste<s n="n"/></l>                <r>attivista<s n="n"/><s n="mf"/></r></p></e>
 
 <e>       <p><l>activité<s n="n"/></l>                 <r>attività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
@@ -5150,11 +5132,7 @@
 
 <e>       <p><l>adolescence<s n="n"/></l>              <r>adolescenza<s n="n"/></r></p></e>
 
-<e>       <p><l>adolescent<s n="n"/><s n="f"/></l>     <r>adolescente<s n="n"/></r></p></e>
-
-<e>       <p><l>adolescent<s n="n"/><s n="m"/></l>     <r>adolescente<s n="n"/></r></p></e>
-
-<e>       <p><l>adolescent<s n="n"/><s n="GD"/></l>    <r>adolescente<s n="n"/></r></p></e>
+<e>       <p><l>adolescent<s n="n"/></l>               <r>adolescente<s n="n"/></r></p></e>
 
 <e>       <p><l>adoption<s n="n"/></l>                 <r>adozione<s n="n"/></r></p></e>
 
@@ -5224,9 +5202,7 @@
 
 <e>       <p><l>agrégation<s n="n"/></l>               <r>aggregazione<s n="n"/></r></p></e>
 
-<e>       <p><l>aide<s n="n"/><s n="f"/></l>           <r>aiuto<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>aide<s n="n"/><s n="f"/></l>           <r>aiuto<s n="n"/></r></p></e>
+<e>       <p><l>aide<s n="n"/></l>                     <r>aiuto<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>aigle<s n="n"/><s n="mf"/></l>         <r>aquila<s n="n"/></r></p></e>
 
@@ -5248,13 +5224,13 @@
 
 <e>       <p><l>aisselle<s n="n"/></l>                 <r>ascella<s n="n"/></r></p></e>
 
-<e>       <p><l>ajout<s n="n"/><s n="m"/></l>          <r>addizione<s n="n"/></r></p></e>
+<e>       <p><l>ajout<s n="n"/><s n="m"/></l>          <r>addizione<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>alambic<s n="n"/></l>                  <r>alambicco<s n="n"/></r></p></e>
 
 <e>       <p><l>alarme<s n="n"/></l>                   <r>allarme<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>album<s n="n"/></l>                    <r>album<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e>       <p><l>album<s n="n"/></l>                    <r>album<s n="n"/></r></p></e>
 
 <e>       <p><l>alchimie<s n="n"/></l>                 <r>alchimia<s n="n"/></r></p></e>
 
@@ -5266,7 +5242,7 @@
 
 <e>       <p><l>alcoolique<s n="n"/><s n="mf"/></l>    <r>alcolico<s n="n"/></r></p></e>
 
-<e>       <p><l>alcoolisme<s n="n"/><s n="f"/></l>     <r>alcolismo<s n="n"/></r></p></e>
+<e>       <p><l>alcoolisme<s n="n"/></l>               <r>alcolismo<s n="n"/></r></p></e>
 
 <e>       <p><l>algue<s n="n"/></l>                    <r>alga<s n="n"/></r></p></e>
 
@@ -5294,7 +5270,7 @@
 
 <e>       <p><l>allusion<s n="n"/></l>                 <r>allusione<s n="n"/></r></p></e>
 
-<e>       <p><l>alluvion<s n="n"/><s n="f"/></l>       <r>alluvione<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>alluvion<s n="n"/></l>                 <r>alluvione<s n="n"/></r></p></e>
 
 <e>       <p><l>allégorie<s n="n"/></l>                <r>allegoria<s n="n"/></r></p></e>
 
@@ -5368,7 +5344,7 @@
 
 <e>       <p><l>amusement<s n="n"/><s n="m"/></l>      <r>divertimento<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>aménagement<s n="n"/><s n="m"/></l>    <r>disposizione<s n="n"/></r></p></e>
+<e>       <p><l>aménagement<s n="n"/></l>              <r>disposizione<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>aménagement<s n="n"/></l>              <r>progettazione<s n="n"/><s n="f"/></r></p></e>
 
@@ -5383,12 +5359,6 @@
 <e>       <p><l>analyse<s n="n"/><s n="f"/><s n="sg"/></l><r>analisi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>analyse<s n="n"/><s n="f"/><s n="ND"/></l><r>analisi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-
-<e>       <p><l>analyste<s n="n"/></l>                 <r>analista<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>analyste<s n="n"/></l>                 <r>analista<s n="n"/><s n="f"/></r></p></e>
-
-<e>       <p><l>analyste<s n="n"/></l>                 <r>analista<s n="n"/><s n="GD"/></r></p></e>
 
 <e>       <p><l>analyste<s n="n"/></l>                 <r>analista<s n="n"/></r></p></e>
 
@@ -5408,9 +5378,7 @@
 
 <e>       <p><l>ange<s n="n"/></l>                     <r>angelo<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>anglais<s n="n"/><s n="f"/></l>        <r>inglese<s n="n"/><s n="mf"/></r></p></e>
-
-<e>       <p><l>anglais<s n="n"/><s n="m"/><s n="sp"/></l><r>inglese<s n="n"/><s n="mf"/></r></p></e>
+<e>       <p><l>anglais<s n="n"/></l>                  <r>inglese<s n="n"/></r></p></e>
 
 <e>       <p><l>angle<s n="n"/></l>                    <r>angolo<s n="n"/></r></p></e>
 
@@ -5426,13 +5394,9 @@
 
 <e>       <p><l>annexe<s n="n"/><s n="f"/></l>         <r>allegato<s n="n"/></r></p></e>
 
-<e>       <p><l>anniversaire<s n="n"/><s n="m"/><s n="pl"/></l><r>compleanno<s n="n"/></r></p></e>
-
-<e>       <p><l>anniversaire<s n="n"/><s n="m"/><s n="sg"/></l><r>compleanno<s n="n"/></r></p></e>
-
 <e>       <p><l>anniversaire<s n="n"/></l>             <r>anniversario<s n="n"/></r></p></e>
 
-<e>       <p><l>anniversaire<s n="n"/><s n="m"/><s n="ND"/></l><r>compleanno<s n="n"/></r></p></e>
+<e>       <p><l>anniversaire<s n="n"/></l>             <r>compleanno<s n="n"/></r></p></e>
 
 <e>       <p><l>annonce<s n="n"/></l>                  <r>annuncio<s n="n"/></r></p></e>
 
@@ -5480,15 +5444,9 @@
 
 <e>       <p><l>apparence<s n="n"/></l>                <r>apparenza<s n="n"/></r></p></e>
 
-<e>       <p><l>apparence<s n="n"/></l>                <r>veste<s n="n"/></r></p></e>
-
 <e>       <p><l>apparence<s n="n"/></l>                <r>parvenza<s n="n"/></r></p></e>
 
-<e>       <p><l>apparence<s n="n"/><s n="f"/></l>      <r>simile<s n="n"/></r></p></e>
-
 <e>       <p><l>apparition<s n="n"/></l>               <r>apparizione<s n="n"/></r></p></e>
-
-<e>       <p><l>appartement<s n="n"/></l>              <r>pavimento<s n="n"/></r></p></e>
 
 <e>       <p><l>appartement<s n="n"/></l>              <r>appartamento<s n="n"/></r></p></e>
 
@@ -5602,7 +5560,7 @@
 
 <e>       <p><l>arraché<s n="n"/><s n="m"/></l>        <r>avvio<s n="n"/></r></p></e>
 
-<e>       <p><l>arrestation<s n="n"/><s n="f"/></l>    <r>arresto<s n="n"/></r></p></e>
+<e>       <p><l>arrestation<s n="n"/></l>              <r>arresto<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>arrestation<s n="n"/></l>              <r>detenzione<s n="n"/></r></p></e>
 
@@ -5612,8 +5570,6 @@
 
 <e>       <p><l>arrondissement<s n="n"/></l>           <r>arrotondamento<s n="n"/></r></p></e>
 
-<e>       <p><l>arrosage<s n="n"/></l>                 <r>irrigazione<s n="n"/></r></p></e>
-
 <e>       <p><l>arrosage<s n="n"/></l>                 <r>irrigazione<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>arrêt<s n="n"/><s n="m"/></l>          <r>fermata<s n="n"/></r></p></e>
@@ -5621,12 +5577,6 @@
 <e>       <p><l>arsenal<s n="n"/></l>                  <r>arsenale<s n="n"/></r></p></e>
 
 <e>       <p><l>art<s n="n"/></l>                      <r>arte<s n="n"/></r></p></e>
-
-<e>       <p><l>art<s n="n"/></l>                      <r>attrezzo<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>art<s n="n"/><s n="m"/></l>            <r>arte<s n="n"/></r></p></e>
-
-<e>       <p><l>art<s n="n"/><s n="m"/></l>            <r>attrezzo<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>artichaut<s n="n"/><s n="m"/></l>      <r>carciofo<s n="n"/><s n="m"/></r></p></e>
 
@@ -5753,8 +5703,6 @@
 
 <e>       <p><l>aubergine<s n="n"/></l>                <r>melanzana<s n="n"/></r></p></e>
 
-<e>       <p><l>audience<s n="n"/></l>                 <r>audience<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-
 <e>       <p><l>audience<s n="n"/></l>                 <r>udienza<s n="n"/></r></p></e>
 
 <e>       <p><l>audit<s n="n"/><s n="m"/></l>          <r>audit<s n="n"/></r></p></e>
@@ -5762,8 +5710,6 @@
 <e>       <p><l>audit<s n="n"/><s n="m"/></l>          <r>controllo<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>audition<s n="n"/></l>                 <r>audizione<s n="n"/></r></p></e>
-
-<e>       <p><l>auditorie<s n="n"/></l>                <r>auditorium<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>augmentation<s n="n"/><s n="f"/></l>   <r>aumento<s n="n"/></r></p></e>
 
@@ -5783,13 +5729,13 @@
 
 <e>       <p><l>automne<s n="n"/></l>                  <r>autunno<s n="n"/></r></p></e>
 
-<e>       <p><l>automne<s n="n"/><s n="m"/></l>        <r>autunno<s n="n"/></r></p></e>
+<e>       <p><l>automobile<s n="n"/></l>               <r>autovettura<s n="n"/></r></p></e>
 
-<e>       <p><l>automobile<s n="n"/><s n="f"/></l>     <r>autovettura<s n="n"/></r></p></e>
+<e>       <p><l>automobile<s n="n"/></l>               <r>automobile<s n="n"/></r></p></e>
 
-<e>       <p><l>automobile<s n="n"/><s n="f"/></l>     <r>automobile<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>automobile<s n="n"/></l>               <r>macchina<s n="n"/></r></p></e>
 
-<e>       <p><l>automobile<s n="n"/><s n="f"/></l>     <r>autoveicolo<s n="n"/></r></p></e>
+<e>       <p><l>automobile<s n="n"/></l>               <r>autoveicolo<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>automobilisme<s n="n"/></l>            <r>automobilismo<s n="n"/></r></p></e>
 
@@ -5807,15 +5753,15 @@
 
 <e>       <p><l>aval<s n="n"/></l>                     <r>avallo<s n="n"/></r></p></e>
 
-<e>       <p><l>avalanche<s n="n"/><s n="f"/></l>      <r>valanga<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>avalanche<s n="n"/></l>                <r>valanga<s n="n"/></r></p></e>
 
-<e>       <p><l>avance<s n="n"/><s n="f"/></l>         <r>avanzo<s n="n"/></r></p></e>
+<e>       <p><l>avance<s n="n"/></l>                   <r>avanzo<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>avance<s n="n"/><s n="f"/></l>         <r>anticipo<s n="n"/></r></p></e>
+<e>       <p><l>avance<s n="n"/></l>                   <r>anticipo<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>avant-garde<s n="n"/><s n="m"/></l>    <r>avanguardia<s n="n"/></r></p></e>
+<e>       <p><l>avant-garde<s n="n"/></l>              <r>avanguardia<s n="n"/></r></p></e>
 
-<e>       <p><l>avantage<s n="n"/><s n="m"/></l>       <r>vantaggio<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>avantage<s n="n"/></l>                 <r>vantaggio<s n="n"/></r></p></e>
 
 <e>       <p><l>avatar<s n="n"/></l>                   <r>avatar<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
@@ -5825,15 +5771,13 @@
 
 <e>       <p><l>avertissement<s n="n"/><s n="m"/></l>  <r>avvertimento<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>aveu<s n="n"/><s n="m"/></l>           <r>confessione<s n="n"/></r></p></e>
+<e>       <p><l>aveu<s n="n"/></l>                     <r>confessione<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>aviation<s n="n"/></l>                 <r>aviazione<s n="n"/></r></p></e>
 
 <e>       <p><l>avion<s n="n"/></l>                    <r>aereo<s n="n"/></r></p></e>
 
 <e>       <p><l>aviron<s n="n"/></l>                   <r>remo<s n="n"/></r></p></e>
-
-<e>       <p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>dictamen<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>avis<s n="n"/><s n="m"/><s n="sp"/></l><r>parere<s n="n"/></r></p></e>
 
@@ -8111,6 +8055,8 @@
 
 <e>       <p><l>envoi<s n="n"/></l>                    <r>spedizione<s n="n"/><s n="f"/></r></p></e>
 
+<e>       <p><l>éponge<s n="n"/></l>                   <r>spugna<s n="n"/></r></p></e>
+
 <e>       <p><l>erreur<s n="n"/><s n="f"/></l>         <r>errore<s n="n"/></r></p></e>
 
 <e>       <p><l>escalade<s n="n"/></l>                 <r>arrampicata<s n="n"/></r></p></e>
@@ -8676,7 +8622,7 @@
 
 <e>       <p><l>frustration<s n="n"/></l>              <r>frustrazione<s n="n"/></r></p></e>
 
-<e>       <p><l>frère<s n="n"/><s n="m"/></l>          <r>fratello<s n="n"/></r></p></e>
+<e>       <p><l>frère<s n="n"/></l>                    <r>fratello<s n="n"/></r></p></e>
 
 <e>       <p><l>fréquence<s n="n"/></l>                <r>frequenza<s n="n"/></r></p></e>
 
@@ -11792,11 +11738,9 @@
 
 <e>       <p><l>privilège<s n="n"/></l>                <r>privilegio<s n="n"/></r></p></e>
 
-<e>       <p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>prezzo<s n="n"/></r></p></e>
+<e>       <p><l>prix<s n="n"/></l>                     <r>prezzo<s n="n"/></r></p></e>
 
-<e>       <p><l>prix<s n="n"/><s n="m"/><s n="sp"/></l><r>premio<s n="n"/></r></p></e>
-
-<e>       <p><l>prix<s n="n"/><s n="f"/><s n="sp"/></l><r>premio<s n="n"/></r></p></e>
+<e>       <p><l>prix<s n="n"/></l>                     <r>premio<s n="n"/></r></p></e>
 
 <e>       <p><l>probabilité<s n="n"/></l>              <r>probabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
@@ -12009,8 +11953,6 @@
 <e>       <p><l>présidence<s n="n"/></l>               <r>presidenza<s n="n"/></r></p></e>
 
 <e>       <p><l>président<s n="n"/></l>                <r>presidente<s n="n"/></r></p></e>
-
-<e>       <p><l>président<g><b/>du<b/>pays<b/>basque</g><s n="n"/></l><r>lehendakari<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>présomption<s n="n"/></l>              <r>presunzione<s n="n"/></r></p></e>
 
