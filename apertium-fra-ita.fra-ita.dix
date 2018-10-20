@@ -5823,11 +5823,9 @@
 
 <e>       <p><l>bain<s n="n"/></l>                     <r>bagno<s n="n"/></r></p></e>
 
-<e>       <p><l>bain<s n="n"/></l>                     <r>balneazione<s n="n"/><s n="f"/></r></p></e>
-
 <e>       <p><l>baiser<s n="n"/></l>                   <r>bacio<s n="n"/></r></p></e>
 
-<e>       <p><l>balade<s n="n"/><s n="f"/></l>         <r>passeggio<s n="n"/></r></p></e>
+<e>       <p><l>balade<s n="n"/></l>                   <r>passeggiata<s n="n"/></r></p></e>
 
 <e>       <p><l>balance<s n="n"/></l>                  <r>bilancia<s n="n"/></r></p></e>
 
@@ -5840,8 +5838,6 @@
 <e>       <p><l>balle<s n="n"/></l>                    <r>pallottola<s n="n"/></r></p></e>
 
 <e>       <p><l>ballon<s n="n"/></l>                   <r>pallone<s n="n"/></r></p></e>
-
-<e>       <p><l>ballon<s n="n"/><s n="m"/></l>         <r>pallone<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>ballottage<s n="n"/></l>               <r>pareggio<s n="n"/></r></p></e>
 
@@ -5869,7 +5865,7 @@
 
 <e>       <p><l>barbe<s n="n"/></l>                    <r>barba<s n="n"/></r></p></e>
 
-<e>       <p><l>barbiche<s n="n"/></l>                 <r>mento<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>barbiche<s n="n"/></l>                 <r>barbetta<s n="n"/></r></p></e>
 
 <e>       <p><l>barbier<s n="n"/></l>                  <r>barbiere<s n="n"/><s n="m"/></r></p></e>
 
@@ -5883,7 +5879,7 @@
 
 <e>       <p><l>barque<s n="n"/></l>                   <r>barca<s n="n"/></r></p></e>
 
-<e>       <p><l>barrage<s n="n"/></l>                  <r>bacino<s n="n"/></r></p></e>
+<e>       <p><l>barrage<s n="n"/></l>                  <r>sbarramento<s n="n"/></r></p></e>
 
 <e>       <p><l>barre<s n="n"/></l>                    <r>barra<s n="n"/></r></p></e>
 
