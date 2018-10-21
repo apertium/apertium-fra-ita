@@ -96,9 +96,7 @@
     <!-- ******************************
           group adj_symbol
       ****************************** -->
-    <!-- ******************************
-          group adj_symbol
-      ****************************** -->
+
 <e>       <p><l>abondant<s n="adj"/><s n="f"/></l>     <r>abbondante<s n="adj"/></r></p></e>
 
 <e>       <p><l>abondant<s n="adj"/><s n="m"/></l>     <r>abbondante<s n="adj"/></r></p></e>
@@ -5907,7 +5905,7 @@
 
 <e>       <p><l>bateau<s n="n"/></l>                   <r>nave<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>bavardage<s n="n"/><s n="m"/></l>      <r>ciarla<s n="n"/></r></p></e>
+<e>       <p><l>bavardage<s n="n"/></l>                <r>ciarla<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>beauté<s n="n"/></l>                   <r>bellezza<s n="n"/></r></p></e>
 
@@ -5969,8 +5967,6 @@
 
 <e>       <p><l>blocage<s n="n"/></l>                  <r>blocco<s n="n"/></r></p></e>
 
-<e>       <p><l>blog<s n="n"/></l>                     <r>blog<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-
 <e>       <p><l>blog<s n="n"/></l>                     <r>blog<s n="n"/></r></p></e>
 
 <e>       <p><l>blé<s n="n"/></l>                      <r>frumento<s n="n"/></r></p></e>
@@ -5979,7 +5975,7 @@
 
 <e>       <p><l>bois<s n="n"/><s n="m"/><s n="sp"/></l><r>foresta<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>bois<s n="n"/><s n="m"/><s n="sp"/></l><r>legna<s n="n"/></r></p></e>
+<e>       <p><l>bois<s n="n"/><s n="m"/><s n="sp"/></l><r>legna<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>bois<s n="n"/><s n="m"/><s n="sp"/></l><r>legno<s n="n"/><s n="m"/></r></p></e>
 
@@ -6004,8 +6000,6 @@
 <e>       <p><l>bouchée<s n="n"/><s n="f"/></l>        <r>boccone<s n="n"/></r></p></e>
 
 <e>       <p><l>boucle<g><b/>d'oreille</g><s n="n"/><s n="m"/></l><r>orecchino<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>boucle<g><b/>d'oreille</g><s n="n"/><s n="m"/></l><r>pendenza<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>bouclier<s n="n"/></l>                 <r>scudo<s n="n"/></r></p></e>
 
@@ -6107,9 +6101,7 @@
 
 <e>       <p><l>but<s n="n"/></l>                      <r>gol<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
-<e>       <p><l>but<s n="n"/></l>                      <r>goal<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-
-<e>       <p><l>but<s n="n"/><s n="m"/></l>            <r>meta<s n="n"/></r></p></e>
+<e>       <p><l>but<s n="n"/></l>                      <r>meta<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>bâtiment<s n="n"/></l>                 <r>edificio<s n="n"/></r></p></e>
 
@@ -6121,9 +6113,9 @@
 
 <e>       <p><l>bénédiction<s n="n"/></l>              <r>benedizione<s n="n"/></r></p></e>
 
-<e>       <p><l>bénéfice<s n="n"/><s n="f"/></l>       <r>beneficio<s n="n"/></r></p></e>
+<e>       <p><l>bénéfice<s n="n"/></l>                 <r>beneficio<s n="n"/></r></p></e>
 
-<e>       <p><l>bénéfice<s n="n"/><s n="f"/></l>       <r>utile<s n="n"/></r></p></e>
+<e>       <p><l>bénéfice<s n="n"/></l>                 <r>utile<s n="n"/></r></p></e>
 
 <e>       <p><l>bétail<s n="n"/></l>                   <r>bestiame<s n="n"/></r></p></e>
 
@@ -6136,6 +6128,8 @@
 <e>       <p><l>cabinet<s n="n"/></l>                  <r>gabinetto<s n="n"/></r></p></e>
 
 <e>       <p><l>cadavre<s n="n"/></l>                  <r>carcassa<s n="n"/><s n="f"/></r></p></e>
+
+<e>       <p><l>cadavre<s n="n"/></l>                  <r>cadavere<s n="n"/></r></p></e>
 
 <e>       <p><l>cadeau<s n="n"/></l>                   <r>regalo<s n="n"/></r></p></e>
 
@@ -6163,7 +6157,7 @@
 
 <e>       <p><l>calcul<s n="n"/></l>                   <r>calcolo<s n="n"/></r></p></e>
 
-<e>       <p><l>calcul<s n="n"/><s n="m"/></l>         <r>computazione<s n="n"/></r></p></e>
+<e>       <p><l>calcul<s n="n"/></l>                   <r>computazione<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>cale<s n="n"/></l>                     <r>cuneo<s n="n"/><s n="m"/></r></p></e>
 
@@ -6188,8 +6182,6 @@
 <e>       <p><l>campus<s n="n"/></l>                   <r>campus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>caméra<s n="n"/></l>                   <r>camera<s n="n"/><s n="f"/></r></p></e>
-
-<e>       <p><l>caméra<s n="n"/></l>                   <r>cameraman<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>canal<s n="n"/></l>                    <r>canale<s n="n"/></r></p></e>
 
@@ -6261,7 +6253,7 @@
 
 <e>       <p><l>carpe<s n="n"/></l>                    <r>carpa<s n="n"/></r></p></e>
 
-<e>       <p><l>carrière<s n="n"/></l>                 <r>gara<s n="n"/></r></p></e>
+<e>       <p><l>carrière<s n="n"/></l>                 <r>carriera<s n="n"/></r></p></e>
 
 <e>       <p><l>carrière<s n="n"/></l>                 <r>cava<s n="n"/></r></p></e>
 
@@ -6371,10 +6363,6 @@
 
 <e>       <p><l>chambre<s n="n"/></l>                  <r>stanza<s n="n"/></r></p></e>
 
-<e>       <p><l>chambre<s n="n"/></l>                  <r>abitazione<s n="n"/></r></p></e>
-
-<e>       <p><l>chambre<s n="n"/><s n="f"/></l>        <r>dormitorio<s n="n"/></r></p></e>
-
 <e>       <p><l>champ<s n="n"/></l>                    <r>campo<s n="n"/></r></p></e>
 
 <e>       <p><l>champagne<s n="n"/></l>                <r>champagne<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -6473,8 +6461,6 @@
 
 <e>       <p><l>chiffre<s n="n"/></l>                  <r>cifra<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>chiffre<s n="n"/><s n="m"/></l>        <r>cifra<s n="n"/><s n="f"/></r></p></e>
-
 <e>       <p><l>chilien<s n="n"/></l>                  <r>cileno<s n="n"/></r></p></e>
 
 <e>       <p><l>chimiste<s n="n"/><s n="mf"/></l>      <r>chimico<s n="n"/></r></p></e>
@@ -6497,9 +6483,7 @@
 
 <e>       <p><l>chose<s n="n"/></l>                    <r>cosa<s n="n"/></r></p></e>
 
-<e>       <p><l>chou<s n="n"/><s n="m"/></l>           <r>cavolo<s n="n"/></r></p></e>
-
-<e>       <p><l>chou<s n="n"/><s n="m"/></l>           <r>cavolo<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>chou<s n="n"/></l>                     <r>cavolo<s n="n"/></r></p></e>
 
 <e>       <p><l>christianisme<s n="n"/></l>            <r>cristianesimo<s n="n"/></r></p></e>
 
@@ -6507,15 +6491,11 @@
 
 <e>       <p><l>chronologie<s n="n"/></l>              <r>cronologia<s n="n"/></r></p></e>
 
-<e>       <p><l>chronologie<s n="n"/></l>              <r>periodo<s n="n"/><s n="m"/></r></p></e>
-
 <e>       <p><l>chronomètre<s n="n"/></l>              <r>cronometro<s n="n"/></r></p></e>
 
 <e>       <p><l>chrétien<s n="n"/></l>                 <r>cristiano<s n="n"/></r></p></e>
 
 <e>       <p><l>chute<s n="n"/></l>                    <r>caduta<s n="n"/></r></p></e>
-
-<e>       <p><l>chute<s n="n"/></l>                    <r>cataratta<s n="n"/></r></p></e>
 
 <e>       <p><l>châssis<s n="n"/></l>                  <r>telaio<s n="n"/></r></p></e>
 
@@ -6542,8 +6522,6 @@
 <e>       <p><l>cil<s n="n"/><s n="m"/></l>            <r>ciglio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 
 <e>       <p><l>cil<s n="n"/><s n="m"/></l>            <r>ciglio<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-
-<e>       <p><l>cime<s n="n"/><s n="f"/></l>           <r>vertice<s n="n"/></r></p></e>
 
 <e>       <p><l>cime<s n="n"/><s n="f"/></l>           <r>vertice<s n="n"/><s n="m"/></r></p></e>
 
@@ -6595,15 +6573,11 @@
 
 <e>       <p><l>clause<s n="n"/></l>                   <r>clausola<s n="n"/></r></p></e>
 
-<e>       <p><l>clavier<s n="n"/></l>                  <r>tastiera<s n="n"/></r></p></e>
-
 <e>       <p><l>clavier<s n="n"/></l>                  <r>tastiera<s n="n"/><s n="f"/></r></p></e>
 
 <e c="new-category"><p><l>clef<s n="n"/></l>           <r>chiave<s n="n"/></r></p></e>
 
 <e>       <p><l>cliché<s n="n"/></l>                   <r>cliché<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-
-<e>       <p><l>cliché<s n="n"/></l>                   <r>topico<s n="n"/></r></p></e>
 
 <e>       <p><l>client<s n="n"/></l>                   <r>cliente<s n="n"/><s n="mf"/></r></p></e>
 
@@ -6693,8 +6667,6 @@
 
 <e>       <p><l>colline<s n="n"/></l>                  <r>collina<s n="n"/></r></p></e>
 
-<e>       <p><l>colline<s n="n"/><s n="f"/></l>        <r>collina<s n="n"/><s n="f"/></r></p></e>
-
 <e>       <p><l>collision<s n="n"/></l>                <r>collisione<s n="n"/></r></p></e>
 
 <e>       <p><l>collège<s n="n"/></l>                  <r>scuola<s n="n"/><s n="f"/></r></p></e>
@@ -6726,8 +6698,6 @@
 <e>       <p><l>colère<s n="n"/></l>                   <r>rabbia<s n="n"/></r></p></e>
 
 <e>       <p><l>colère<s n="n"/></l>                   <r>ira<s n="n"/></r></p></e>
-
-<e>       <p><l>coma<s n="n"/><s n="m"/></l>           <r>virgola<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>coma<s n="n"/><s n="m"/></l>           <r>coma<s n="n"/><s n="m"/></r></p></e>
 
@@ -7027,8 +6997,6 @@
 
 <e>       <p><l>continent<s n="n"/></l>                <r>continente<s n="n"/></r></p></e>
 
-<e>       <p><l>contingent<s n="n"/></l>               <r>contingente<s n="n"/><s n="mf"/></r></p></e>
-
 <e>       <p><l>continuation<s n="n"/></l>             <r>proseguimento<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>continuation<s n="n"/></l>             <r>continuazione<s n="n"/></r></p></e>
@@ -7063,10 +7031,6 @@
 
 <e>       <p><l>convention<s n="n"/></l>               <r>convenzione<s n="n"/></r></p></e>
 
-<e>       <p><l>convention<s n="n"/><s n="f"/></l>     <r>convenzione<s n="n"/></r></p></e>
-
-<e>       <p><l>convention<s n="n"/><s n="f"/></l>     <r>convenzione<s n="n"/><s n="f"/></r></p></e>
-
 <e>       <p><l>conversation<s n="n"/></l>             <r>conversazione<s n="n"/></r></p></e>
 
 <e>       <p><l>convertibilité<s n="n"/></l>           <r>convertibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -7074,8 +7038,6 @@
 <e>       <p><l>conviction<s n="n"/></l>               <r>convinzione<s n="n"/></r></p></e>
 
 <e>       <p><l>convocation<s n="n"/></l>              <r>convocazione<s n="n"/></r></p></e>
-
-<e>       <p><l>cooperation<s n="n"/></l>              <r>cooperazione<s n="n"/></r></p></e>
 
 <e>       <p><l>coopération<s n="n"/></l>              <r>cooperazione<s n="n"/></r></p></e>
 
@@ -7289,8 +7251,6 @@
 
 <e>       <p><l>curiosité<s n="n"/></l>                <r>curiosità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
-<e>       <p><l>curé<s n="n"/><s n="m"/></l>           <r>cura<s n="n"/><s n="f"/></r></p></e>
-
 <e>       <p><l>curé<s n="n"/><s n="m"/></l>           <r>prete<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>cycle<s n="n"/></l>                    <r>ciclo<s n="n"/></r></p></e>
@@ -7316,8 +7276,6 @@
 <e>       <p><l>célébrité<s n="n"/></l>                <r>celebrità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>céramique<s n="n"/></l>                <r>ceramica<s n="n"/></r></p></e>
-
-<e>       <p><l>cône<s n="n"/></l>                     <r>cono<s n="n"/></r></p></e>
 
 <e>       <p><l>côte<s n="n"/></l>                     <r>costo<s n="n"/><s n="m"/></r></p></e>
 
@@ -7632,8 +7590,6 @@
 <e>       <p><l>douleur<s n="n"/><s n="f"/></l>        <r>dolore<s n="n"/></r></p></e>
 
 <e>       <p><l>doute<s n="n"/><s n="m"/></l>          <r>dubbio<s n="n"/></r></p></e>
-
-<e>       <p><l>doute<s n="n"/><s n="m"/></l>          <r>dubbio<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>douzaine<s n="n"/></l>                 <r>dozzina<s n="n"/></r></p></e>
 
@@ -8089,8 +8045,6 @@
 
 <e>       <p><l>essai<s n="n"/></l>                    <r>prova<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>essai<s n="n"/><s n="m"/></l>          <r>prova<s n="n"/></r></p></e>
-
 <e>       <p><l>essence<s n="n"/></l>                  <r>essenza<s n="n"/></r></p></e>
 
 <e>       <p><l>essence<s n="n"/></l>                  <r>benzina<s n="n"/></r></p></e>
@@ -8237,7 +8191,7 @@
 
 <e>       <p><l>exécution<s n="n"/><s n="f"/></l>      <r>fucilazione<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>fabricant<s n="n"/><s n="f"/></l>      <r>fabbricante<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>fabricant<s n="n"/><s n="f"/></l>      <r>fabbricante<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>fabricant<s n="n"/><s n="m"/></l>      <r>fabbricante<s n="n"/><s n="m"/></r></p></e>
 
@@ -8255,8 +8209,6 @@
 
 <e>       <p><l>facteur<s n="n"/></l>                  <r>fattore<s n="n"/></r></p></e>
 
-<e>       <p><l>facteur<s n="n"/><s n="f"/></l>        <r>postino<s n="n"/><s n="m"/></r></p></e>
-
 <e>       <p><l>facteur<s n="n"/><s n="m"/></l>        <r>postino<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>faction<s n="n"/></l>                  <r>fazione<s n="n"/></r></p></e>
@@ -8272,8 +8224,6 @@
 <e>       <p><l>faim<s n="n"/></l>                     <r>voglia<s n="n"/></r></p></e>
 
 <e>       <p><l>faim<s n="n"/><s n="f"/></l>           <r>fame<s n="n"/></r></p></e>
-
-<e>       <p><l>faim<s n="n"/><s n="f"/></l>           <r>fame<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>faim<s n="n"/><s n="f"/></l>           <r>carestia<s n="n"/></r></p></e>
 
@@ -8361,10 +8311,6 @@
 
 <e>       <p><l>feuille<s n="n"/></l>                  <r>foglio<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>feuille<s n="n"/><s n="f"/></l>        <r>foglia<s n="n"/></r></p></e>
-
-<e>       <p><l>feuille<s n="n"/><s n="f"/></l>        <r>foglio<s n="n"/><s n="m"/></r></p></e>
-
 <e>       <p><l>fiabilité<s n="n"/></l>                <r>attendibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>fiancé<s n="n"/></l>                   <r>fidanzato<s n="n"/></r></p></e>
@@ -8384,19 +8330,20 @@
 <e>       <p><l>filiation<s n="n"/></l>                <r>affiliazione<s n="n"/></r></p></e>
 
 <e>       <p><l>filiation<s n="n"/></l>                <r>filiazione<s n="n"/></r></p></e>
+
 <e>       <p><l>fille<s n="n"/><s n="f"/></l>          <r>figlio<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>film<s n="n"/></l>                     <r>film<s n="n"/></r></p></e>
 
 <e>       <p><l>film<s n="n"/><s n="m"/></l>           <r>pellicola<s n="n"/></r></p></e>
 
-<e>       <p><l>film<s n="n"/><s n="m"/></l>           <r>film<s n="n"/><s n="m"/></r></p></e>
-
 <e>       <p><l>fils<s n="n"/><s n="f"/></l>           <r>figlio<s n="n"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>fils<s n="n"/><s n="m"/><s n="sp"/></l><r>figlio<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
-<e r="RL"><p><l>fils<s n="n"/><s n="m"/><s n="sp"/></l><r>figlio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-<e r="RL"><p><l>fils<s n="n"/><s n="m"/><s n="sp"/></l><r>figlio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 
+<e r="LR"><p><l>fils<s n="n"/><s n="m"/><s n="sp"/></l><r>figlio<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+
+<e r="RL"><p><l>fils<s n="n"/><s n="m"/><s n="sp"/></l><r>figlio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+
+<e r="RL"><p><l>fils<s n="n"/><s n="m"/><s n="sp"/></l><r>figlio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 
 <e>       <p><l>filtration<s n="n"/></l>               <r>filtrazione<s n="n"/></r></p></e>
 
@@ -8404,7 +8351,7 @@
 
 <e>       <p><l>fin<s n="n"/><s n="f"/></l>            <r>finale<s n="n"/></r></p></e>
 
-<e>       <p><l>fin<s n="n"/><s n="f"/></l>            <r>fine<s n="n"/><s n="mf"/></r></p></e>
+<e>       <p><l>fin<s n="n"/><s n="f"/></l>            <r>fine<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>finalisation<s n="n"/></l>             <r>finalizzazione<s n="n"/></r></p></e>
 
@@ -8412,9 +8359,7 @@
 
 <e>       <p><l>finance<s n="n"/></l>                  <r>finanza<s n="n"/></r></p></e>
 
-<e>       <p><l>financement<s n="n"/><s n="m"/></l>    <r>finanziamento<s n="n"/></r></p></e>
-
-<e>       <p><l>financement<s n="n"/><s n="m"/></l>    <r>finanziamento<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>financement<s n="n"/></l>              <r>finanziamento<s n="n"/></r></p></e>
 
 <e>       <p><l>firmament<s n="n"/></l>                <r>firmamento<s n="n"/></r></p></e>
 
@@ -8478,11 +8423,7 @@
 
 <e>       <p><l>fonte<s n="n"/><s n="f"/></l>          <r>disgelo<s n="n"/></r></p></e>
 
-<e>       <p><l>foot<s n="n"/></l>                     <r>calcio<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
-
 <e>       <p><l>foot<s n="n"/></l>                     <r>calcio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-
-<e>       <p><l>foot<s n="n"/></l>                     <r>calcio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 
 <e>       <p><l>football<s n="n"/></l>                 <r>calcio<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
 
@@ -8516,8 +8457,6 @@
 
 <e>       <p><l>forteresse<s n="n"/></l>               <r>fortezza<s n="n"/></r></p></e>
 
-<e>       <p><l>forteresse<s n="n"/></l>               <r>potere<s n="n"/><s n="m"/></r></p></e>
-
 <e>       <p><l>fortune<s n="n"/></l>                  <r>fortuna<s n="n"/></r></p></e>
 
 <e>       <p><l>forum<s n="n"/></l>                    <r>foro<s n="n"/></r></p></e>
@@ -8546,7 +8485,7 @@
 
 <e>       <p><l>fourniture<s n="n"/><s n="f"/></l>     <r>fornitura<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>fourrure<s n="n"/><s n="f"/></l>       <r>pelle<s n="n"/></r></p></e>
+<e>       <p><l>fourrure<s n="n"/><s n="f"/></l>       <r>pelliccia<s n="n"/></r></p></e>
 
 <e>       <p><l>foyer<s n="n"/><s n="m"/></l>          <r>casa<s n="n"/><s n="f"/></r></p></e>
 
@@ -8580,10 +8519,6 @@
 
 <e>       <p><l>français<s n="n"/><s n="m"/><s n="sp"/></l><r>francese<s n="n"/><s n="mf"/></r></p></e>
 
-<e>       <p><l>français<s n="n"/><s n="f"/></l>       <r>gallico<s n="n"/></r></p></e>
-
-<e>       <p><l>français<s n="n"/><s n="m"/><s n="sp"/></l><r>gallico<s n="n"/></r></p></e>
-
 <e>       <p><l>fraternité<s n="n"/></l>               <r>fratellanza<s n="n"/></r></p></e>
 
 <e>       <p><l>fraude<s n="n"/></l>                   <r>frode<s n="n"/><s n="f"/></r></p></e>
@@ -8614,7 +8549,7 @@
 
 <e>       <p><l>fruit<s n="n"/><s n="m"/><s n="pl"/></l>          <r>frutta<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 
-<e>       <p><l>fruits<b/>de<b/>mer<s n="n"/><s n="m"/><s n="pl"/></l><r>frutto<g><b/>di<b/>mare</g><s n="n"/></r></p></e>
+<e>       <p><l>fruits<b/>de<b/>mer<s n="n"/><s n="m"/><s n="pl"/></l><r>frutto<g><b/>di<b/>mare</g><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 
 <e>       <p><l>frustration<s n="n"/></l>              <r>frustrazione<s n="n"/></r></p></e>
 
@@ -8706,9 +8641,7 @@
 
 <e>       <p><l>gauche<s n="n"/></l>                   <r>sinistra<s n="n"/></r></p></e>
 
-<e>       <p><l>gaulois<s n="n"/><s n="f"/></l>        <r>gallico<s n="n"/></r></p></e>
-
-<e>       <p><l>gaulois<s n="n"/><s n="m"/><s n="sp"/></l><r>gallico<s n="n"/></r></p></e>
+<e>       <p><l>gaulois<s n="n"/></l>                  <r>gallico<s n="n"/></r></p></e>
 
 <e>       <p><l>gaz<s n="n"/><s n="m"/><s n="sp"/></l> <r>gas<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
@@ -8716,13 +8649,7 @@
 
 <e>       <p><l>generation<s n="n"/></l>               <r>generazione<s n="n"/></r></p></e>
 
-<e>       <p><l>genou<s n="n"/><s n="m"/></l>          <r>ginocchio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-
-<e>       <p><l>genou<s n="n"/><s n="m"/></l>          <r>ginocchio<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-
-<e>       <p><l>genou<s n="n"/><s n="m"/></l>          <r>ginocchio<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-
-<e>       <p><l>genou<s n="n"/><s n="m"/></l>          <r>ginocchio<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e>       <p><l>genou<s n="n"/></l>                    <r>ginocchio<s n="n"/></r></p></e>
 
 <e>       <p><l>genre<s n="n"/></l>                    <r>genere<s n="n"/></r></p></e>
 
@@ -8826,17 +8753,11 @@
 
 <e>       <p><l>grâce<s n="n"/></l>                    <r>grazia<s n="n"/></r></p></e>
 
-<e>       <p><l>grâce<s n="n"/><s n="f"/></l>          <r>grazia<s n="n"/></r></p></e>
-
-<e>       <p><l>grâce<s n="n"/><s n="f"/></l>          <r>indulto<s n="n"/></r></p></e>
-
-<e>       <p><l>grève<s n="n"/></l>                    <r>sciopero<s n="n"/></r></p></e>
+<e>       <p><l>grâce<s n="n"/><s n="f"/></l>          <r>indulto<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>grève<s n="n"/></l>                    <r>sciopero<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>grêle<s n="n"/><s n="f"/></l>          <r>grandine<s n="n"/></r></p></e>
-
-<e>       <p><l>grêle<s n="n"/><s n="f"/></l>          <r>grandine<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>grêle<s n="n"/></l>                    <r>grandine<s n="n"/></r></p></e>
 
 <e>       <p><l>guerre<s n="n"/></l>                   <r>guerra<s n="n"/></r></p></e>
 
@@ -8858,7 +8779,7 @@
 
 <e>       <p><l>gymnastique<s n="n"/></l>              <r>ginnastica<s n="n"/></r></p></e>
 
-<e>       <p><l>gynécologue<s n="n"/><s n="mf"/></l>   <r>ginecologo<s n="n"/></r></p></e>
+<e>       <p><l>gynécologue<s n="n"/></l>              <r>ginecologo<s n="n"/></r></p></e>
 
 <e>       <p><l>gâteau<s n="n"/></l>                   <r>torta<s n="n"/><s n="f"/></r></p></e>
 
@@ -8872,19 +8793,7 @@
 
 <e>       <p><l>génocide<s n="n"/></l>                 <r>genocidio<s n="n"/></r></p></e>
 
-<e>       <p><l>général<s n="n"/><s n="f"/></l>        <r>generale<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-
-<e>       <p><l>général<s n="n"/><s n="f"/></l>        <r>generale<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
-
-<e>       <p><l>général<s n="n"/><s n="m"/></l>        <r>generale<s n="n"/><s n="GD"/><s n="sg"/></r></p></e>
-
-<e>       <p><l>général<s n="n"/><s n="m"/></l>        <r>generale<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
-
-<e>       <p><l>général<s n="n"/><s n="GD"/></l>       <r>generale<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-
-<e>       <p><l>général<s n="n"/><s n="GD"/></l>       <r>generale<s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
-
-<e>       <p><l>général<s n="n"/><s n="GD"/></l>       <r>generale<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+<e>       <p><l>général<s n="n"/></l>                  <r>generale<s n="n"/></r></p></e>
 
 <e>       <p><l>généralisation<s n="n"/></l>           <r>generalizzazione<s n="n"/></r></p></e>
 
@@ -8906,11 +8815,7 @@
 
 <e>       <p><l>habitabilité<s n="n"/></l>             <r>abitabilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
-<e>       <p><l>habitant<s n="n"/><s n="f"/></l>       <r>abitante<s n="n"/></r></p></e>
-
-<e>       <p><l>habitant<s n="n"/><s n="m"/></l>       <r>abitante<s n="n"/></r></p></e>
-
-<e>       <p><l>habitant<s n="n"/><s n="GD"/></l>      <r>abitante<s n="n"/></r></p></e>
+<e>       <p><l>habitant<s n="n"/></l>                 <r>abitante<s n="n"/></r></p></e>
 
 <e>       <p><l>habitant<s n="n"/><s n="GD"/></l>      <r>abitatore<s n="n"/><s n="m"/></r></p></e>
 
