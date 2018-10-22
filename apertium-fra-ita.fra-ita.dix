@@ -8861,8 +8861,6 @@
 
 <e>       <p><l>hectare<s n="n"/></l>                  <r>ettaro<s n="n"/></r></p></e>
 
-<e>       <p><l>hectare<s n="n"/></l>                  <r>ettaro<s n="n"/><s n="m"/></r></p></e>
-
 <e>       <p><l>herbe<s n="n"/></l>                    <r>erba<s n="n"/></r></p></e>
 
 <e>       <p><l>heure<s n="n"/></l>                    <r>ora<s n="n"/></r></p></e>
@@ -8881,9 +8879,7 @@
 
 <e>       <p><l>hockey<s n="n"/></l>                   <r>hockey<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
-<e>       <p><l>hollandais<s n="n"/><s n="f"/></l>     <r>olandese<s n="n"/><s n="mf"/></r></p></e>
-
-<e>       <p><l>hollandais<s n="n"/><s n="m"/><s n="sp"/></l><r>olandese<s n="n"/><s n="mf"/></r></p></e>
+<e>       <p><l>hollandais<s n="n"/></l>               <r>olandese<s n="n"/></r></p></e>
 
 <e>       <p><l>holocauste<s n="n"/></l>               <r>olocausto<s n="n"/></r></p></e>
 
@@ -8925,8 +8921,6 @@
 
 <e>       <p><l>hormone<s n="n"/></l>                  <r>ormone<s n="n"/></r></p></e>
 
-<e>       <p><l>hormone<s n="n"/></l>                  <r>ormone<s n="n"/><s n="m"/></r></p></e>
-
 <e>       <p><l>horreur<s n="n"/><s n="f"/></l>        <r>orrore<s n="n"/></r></p></e>
 
 <e>       <p><l>hospitalité<s n="n"/></l>              <r>ospitalità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -8936,8 +8930,6 @@
 <e>       <p><l>huile<s n="n"/><s n="f"/></l>          <r>olio<s n="n"/></r></p></e>
 
 <e>       <p><l>humanité<s n="n"/></l>                 <r>umanità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-
-<e>       <p><l>humanité<s n="n"/></l>                 <r>humanità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>humeur<s n="n"/><s n="f"/></l>         <r>umorismo<s n="n"/></r></p></e>
 
@@ -8985,25 +8977,15 @@
 
 <e>       <p><l>hémorragie<s n="n"/></l>               <r>emorragia<s n="n"/></r></p></e>
 
-<e>       <p><l>hépatite<s n="n"/><s n="f"/><s n="pl"/></l><r>epatite<s n="n"/></r></p></e>
-
-<e>       <p><l>hépatite<s n="n"/><s n="f"/><s n="sg"/></l><r>epatite<s n="n"/></r></p></e>
-
-<e>       <p><l>hépatite<s n="n"/><s n="f"/><s n="ND"/></l><r>epatite<s n="n"/></r></p></e>
+<e>       <p><l>hépatite<s n="n"/></l>                 <r>epatite<s n="n"/></r></p></e>
 
 <e>       <p><l>héritage<s n="n"/><s n="m"/></l>       <r>eredità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>héritier<s n="n"/></l>                 <r>erede<s n="n"/><s n="mf"/></r></p></e>
 
-<e>       <p><l>héros<s n="n"/><s n="f"/></l>          <r>eroe<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>héros<s n="n"/></l>                    <r>eroe<s n="n"/></r></p></e>
 
-<e>       <p><l>héros<s n="n"/><s n="m"/><s n="sp"/></l><r>eroe<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>hétérosexuel<s n="n"/><s n="f"/></l>   <r>eterosessuale<s n="n"/></r></p></e>
-
-<e>       <p><l>hétérosexuel<s n="n"/><s n="m"/></l>   <r>eterosessuale<s n="n"/></r></p></e>
-
-<e>       <p><l>hétérosexuel<s n="n"/><s n="GD"/></l>  <r>eterosessuale<s n="n"/></r></p></e>
+<e>       <p><l>hétérosexuel<s n="n"/></l>   <r>eterosessuale<s n="n"/></r></p></e>
 
 <e>       <p><l>hôpital<s n="n"/></l>                  <r>ospedale<s n="n"/></r></p></e>
 
@@ -9025,11 +9007,7 @@
 
 <e>       <p><l>idiosyncrasie<s n="n"/></l>            <r>idiosincrasia<s n="n"/></r></p></e>
 
-<e>       <p><l>idiot<s n="n"/><s n="f"/></l>          <r>idiota<s n="n"/></r></p></e>
-
-<e>       <p><l>idiot<s n="n"/><s n="m"/></l>          <r>idiota<s n="n"/></r></p></e>
-
-<e>       <p><l>idiot<s n="n"/><s n="GD"/></l>         <r>idiota<s n="n"/></r></p></e>
+<e>       <p><l>idiot<s n="n"/></l>                    <r>idiota<s n="n"/></r></p></e>
 
 <e>       <p><l>idole<s n="n"/><s n="f"/></l>          <r>idolo<s n="n"/></r></p></e>
 
@@ -9057,17 +9035,9 @@
 
 <e>       <p><l>immeuble<s n="n"/></l>                 <r>immobile<s n="n"/></r></p></e>
 
-<e>       <p><l>immigrant<s n="n"/><s n="f"/></l>      <r>immigrante<s n="n"/></r></p></e>
+<e>       <p><l>immigrant<s n="n"/></l>                <r>immigrante<s n="n"/></r></p></e>
 
-<e>       <p><l>immigrant<s n="n"/><s n="f"/></l>      <r>immigrato<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>immigrant<s n="n"/><s n="m"/></l>      <r>immigrante<s n="n"/></r></p></e>
-
-<e>       <p><l>immigrant<s n="n"/><s n="m"/></l>      <r>immigrato<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>immigrant<s n="n"/><s n="GD"/></l>     <r>immigrante<s n="n"/></r></p></e>
-
-<e>       <p><l>immigrant<s n="n"/><s n="GD"/></l>     <r>immigrato<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>immigrant<s n="n"/></l>                <r>immigrato<s n="n"/></r></p></e>
 
 <e>       <p><l>immigration<s n="n"/></l>              <r>immigrazione<s n="n"/></r></p></e>
 
@@ -9159,11 +9129,7 @@
 
 <e>       <p><l>indignation<s n="n"/></l>              <r>indignazione<s n="n"/></r></p></e>
 
-<e>       <p><l>indigène<s n="n"/></l>                 <r>indigeno<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>indigène<s n="n"/></l>                 <r>indigeno<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>indigène<s n="n"/></l>                 <r>indigeno<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>indigène<s n="n"/></l>                 <r>indigeno<s n="n"/></r></p></e>
 
 <e>       <p><l>individu<s n="n"/><s n="m"/></l>       <r>individuo<s n="n"/><s n="m"/></r></p></e>
 
@@ -9219,7 +9185,7 @@
 
 <e>       <p><l>inhumation<s n="n"/></l>               <r>inumazione<s n="n"/></r></p></e>
 
-<e>       <p><l>inhumation<s n="n"/><s n="f"/></l>     <r>sepoltura<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>inhumation<s n="n"/></l>               <r>sepoltura<s n="n"/></r></p></e>
 
 <e>       <p><l>initiation<s n="n"/></l>               <r>iniziazione<s n="n"/></r></p></e>
 
@@ -9335,11 +9301,7 @@
 
 <e>       <p><l>internationalisation<s n="n"/></l>     <r>internazionalizzazione<s n="n"/></r></p></e>
 
-<e>       <p><l>internaute<s n="n"/></l>               <r>internauta<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>internaute<s n="n"/></l>               <r>internauta<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>internaute<s n="n"/></l>               <r>internauta<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>internaute<s n="n"/></l>               <r>internauta<s n="n"/></r></p></e>
 
 <e>       <p><l>internet<s n="n"/><s n="m"/></l>       <r>internet<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
@@ -9362,8 +9324,6 @@
 <e>       <p><l>interview<s n="n"/></l>                <r>intervista<s n="n"/></r></p></e>
 
 <e>       <p><l>intestin<s n="n"/></l>                 <r>intestino<s n="n"/></r></p></e>
-
-<e>       <p><l>intestin<s n="n"/></l>                 <r>sfilata<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>intimidation<s n="n"/></l>             <r>intimidazione<s n="n"/></r></p></e>
 
@@ -9401,9 +9361,7 @@
 
 <e>       <p><l>investigation<s n="n"/></l>            <r>ricerca<s n="n"/></r></p></e>
 
-<e>       <p><l>investissement<s n="n"/><s n="m"/></l> <r>investimento<s n="n"/></r></p></e>
-
-<e>       <p><l>investissement<s n="n"/><s n="m"/></l> <r>investimento<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>investissement<s n="n"/></l>           <r>investimento<s n="n"/></r></p></e>
 
 <e c="new-category"><p><l>investisseur<s n="n"/></l>   <r>investitore<s n="n"/></r></p></e>
 
@@ -9411,21 +9369,9 @@
 
 <e>       <p><l>involution<s n="n"/></l>               <r>involuzione<s n="n"/></r></p></e>
 
-<e>       <p><l>irakien<s n="n"/><s n="f"/></l>        <r>iracheno<s n="n"/><s n="GD"/></r></p></e>
+<e>       <p><l>irakien<s n="n"/></l>                  <r>iracheno<s n="n"/></r></p></e>
 
-<e>       <p><l>irakien<s n="n"/><s n="m"/></l>        <r>iracheno<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>irakien<s n="n"/><s n="GD"/></l>       <r>iracheno<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>irakien<s n="n"/><s n="GD"/></l>       <r>iracheno<s n="n"/><s n="f"/></r></p></e>
-
-<e>       <p><l>iranien<s n="n"/><s n="f"/></l>        <r>iraniano<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>iranien<s n="n"/><s n="m"/></l>        <r>iraniano<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>iranien<s n="n"/><s n="GD"/></l>       <r>iraniano<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>iranien<s n="n"/><s n="GD"/></l>       <r>iraniano<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>iranien<s n="n"/></l>                  <r>iraniano<s n="n"/></r></p></e>
 
 <e>       <p><l>iris<s n="n"/></l>                     <r>iride<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
 
@@ -9445,10 +9391,6 @@
 
 <e>       <p><l>islamiste<s n="n"/></l>                <r>islamista<s n="n"/><s n="GD"/></r></p></e>
 
-<e>       <p><l>islamiste<s n="n"/></l>                <r>islamista<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>islamiste<s n="n"/></l>                <r>islamista<s n="n"/><s n="f"/></r></p></e>
-
 <e>       <p><l>isolement<s n="n"/></l>                <r>isolamento<s n="n"/></r></p></e>
 
 <e>       <p><l>issue<s n="n"/></l>                    <r>partenza<s n="n"/></r></p></e>
@@ -9465,9 +9407,7 @@
 
 <e>       <p><l>janvier<s n="n"/></l>                  <r>gennaio<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 
-<e>       <p><l>japonais<s n="n"/><s n="f"/></l>       <r>giapponese<s n="n"/><s n="mf"/></r></p></e>
-
-<e>       <p><l>japonais<s n="n"/><s n="m"/><s n="sp"/></l><r>giapponese<s n="n"/><s n="mf"/></r></p></e>
+<e>       <p><l>japonais<s n="n"/></l>                 <r>giapponese<s n="n"/></r></p></e>
 
 <e>       <p><l>jaquette<s n="n"/></l>                 <r>giacca<s n="n"/></r></p></e>
 
@@ -9485,11 +9425,7 @@
 
 <e>       <p><l>jeu<b/>vidéo<s n="n"/></l>             <r>videogioco<s n="n"/></r></p></e>
 
-<e>       <p><l>jeudi<s n="n"/><s n="m"/><s n="pl"/></l><r>giovedì<s n="n"/></r></p></e>
-
-<e>       <p><l>jeudi<s n="n"/><s n="m"/><s n="sg"/></l><r>giovedì<s n="n"/></r></p></e>
-
-<e>       <p><l>jeudi<s n="n"/><s n="m"/><s n="ND"/></l><r>giovedì<s n="n"/></r></p></e>
+<e>       <p><l>jeudi<s n="n"/></l>                    <r>giovedì<s n="n"/></r></p></e>
 
 <e>       <p><l>jeune<s n="n"/></l>                    <r>giovane<s n="n"/></r></p></e>
 
@@ -9507,25 +9443,13 @@
 
 <e>       <p><l>joueur<s n="n"/></l>                   <r>giocatore<s n="n"/></r></p></e>
 
-<e>       <p><l>joueur<g><b/>de<b/>tennis</g><s n="n"/><s n="GD"/></l><r>tennista<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>joueur<g><b/>de<b/>tennis</g><s n="n"/><s n="GD"/></l><r>tennista<s n="n"/><s n="f"/></r></p></e>
-
-<e>       <p><l>joueur<g><b/>de<b/>tennis</g><s n="n"/><s n="f"/></l><r>tennista<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>joueur<g><b/>de<b/>tennis</g><s n="n"/><s n="m"/></l><r>tennista<s n="n"/><s n="GD"/></r></p></e>
+<e>       <p><l>joueur<g><b/>de<b/>tennis</g><s n="n"/></l> <r>tennista<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>jour<s n="n"/></l>                     <r>giorno<s n="n"/></r></p></e>
 
 <e>       <p><l>journal<s n="n"/></l>                  <r>giornale<s n="n"/></r></p></e>
 
 <e>       <p><l>journalisme<s n="n"/></l>              <r>giornalismo<s n="n"/></r></p></e>
-
-<e>       <p><l>journaliste<s n="n"/></l>              <r>giornalista<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>journaliste<s n="n"/></l>              <r>giornalista<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>journaliste<s n="n"/></l>              <r>giornalista<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>journaliste<s n="n"/></l>              <r>giornalista<s n="n"/></r></p></e>
 
@@ -9536,8 +9460,6 @@
 <e>       <p><l>juge<s n="n"/></l>                     <r>giudice<s n="n"/></r></p></e>
 
 <e>       <p><l>juge-arbitre<s n="n"/></l>             <r>arbitro<s n="n"/></r></p></e>
-
-<e>       <p><l>juge-arbitre<s n="n"/></l>             <r>arbitro<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>jugement<s n="n"/></l>                 <r>giudizio<s n="n"/></r></p></e>
 
@@ -9578,8 +9500,6 @@
 <e>       <p><l>kiosque<s n="n"/></l>                  <r>chiosco<s n="n"/></r></p></e>
 
 <e>       <p><l>km<s n="n"/></l>                       <r>km<s n="n"/></r></p></e>
-
-<e>       <p><l>kyste<s n="n"/></l>                    <r>cisti<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>kyste<s n="n"/></l>                    <r>ciste<s n="n"/><s n="f"/></r></p></e>
 
@@ -9683,11 +9603,7 @@
 
 <e>       <p><l>lieue<s n="n"/></l>                    <r>lega<s n="n"/></r></p></e>
 
-<e>       <p><l>lieutenant<s n="n"/><s n="f"/></l>     <r>tenente<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>lieutenant<s n="n"/><s n="m"/></l>     <r>tenente<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>lieutenant<s n="n"/><s n="GD"/></l>    <r>tenente<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>lieutenant<s n="n"/></l>               <r>tenente<s n="n"/></r></p></e>
 
 <e>       <p><l>ligament<s n="n"/></l>                 <r>legamento<s n="n"/></r></p></e>
 
@@ -9757,8 +9673,6 @@
 
 <e>       <p><l>logement<s n="n"/></l>                 <r>alloggio<s n="n"/></r></p></e>
 
-<e>       <p><l>logement<s n="n"/><s n="m"/></l>       <r>alloggio<s n="n"/><s n="m"/></r></p></e>
-
 <e>       <p><l>logiciel<s n="n"/></l>                 <r>software<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>logique<s n="n"/></l>                  <r>logica<s n="n"/></r></p></e>
@@ -9801,11 +9715,7 @@
 
 <e>       <p><l>lumière<s n="n"/><s n="f"/></l>        <r>lampada<s n="n"/></r></p></e>
 
-<e>       <p><l>lundi<s n="n"/><s n="m"/><s n="pl"/></l><r>lunedì<s n="n"/></r></p></e>
-
-<e>       <p><l>lundi<s n="n"/><s n="m"/><s n="sg"/></l><r>lunedì<s n="n"/></r></p></e>
-
-<e>       <p><l>lundi<s n="n"/><s n="m"/><s n="ND"/></l><r>lunedì<s n="n"/></r></p></e>
+<e>       <p><l>lundi<s n="n"/></l>                    <r>lunedì<s n="n"/></r></p></e>
 
 <e>       <p><l>lune<s n="n"/></l>                     <r>luna<s n="n"/></r></p></e>
 
