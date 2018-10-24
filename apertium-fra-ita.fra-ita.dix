@@ -9771,15 +9771,9 @@
 
 <e>       <p><l>magasin<s n="n"/><s n="m"/></l>        <r>negozio<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>magazine<s n="n"/><s n="m"/></l>       <r>rivista<s n="n"/></r></p></e>
+<e>       <p><l>magazine<s n="n"/></l>                 <r>rivista<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>maghrébin<s n="n"/><s n="f"/></l>      <r>magrebino<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>maghrébin<s n="n"/><s n="m"/></l>      <r>magrebino<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>maghrébin<s n="n"/><s n="GD"/></l>     <r>magrebino<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>maghrébin<s n="n"/><s n="GD"/></l>     <r>magrebino<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>maghrébin<s n="n"/></l>                <r>magrebino<s n="n"/></r></p></e>
 
 <e>       <p><l>magie<s n="n"/></l>                    <r>magia<s n="n"/></r></p></e>
 
@@ -9801,9 +9795,7 @@
 
 <e>       <p><l>maison<g><b/>d'édition</g><s n="n"/></l><r>editoriale<s n="n"/></r></p></e>
 
-<e>       <p><l>majorité<s n="n"/><s n="f"/><s n="pl"/></l><r>maggioranza<s n="n"/></r></p></e>
-
-<e>       <p><l>majorité<s n="n"/><s n="f"/><s n="sg"/></l><r>maggioranza<s n="n"/></r></p></e>
+<e>       <p><l>majorité<s n="n"/></l>                 <r>maggioranza<s n="n"/></r></p></e>
 
 <e>       <p><l>mal<s n="n"/></l>                      <r>danno<s n="n"/></r></p></e>
 
@@ -9867,11 +9859,7 @@
 
 <e>       <p><l>marbre<s n="n"/></l>                   <r>marmo<s n="n"/></r></p></e>
 
-<e>       <p><l>marchand<s n="n"/><s n="f"/></l>       <r>commerciante<s n="n"/></r></p></e>
-
-<e>       <p><l>marchand<s n="n"/><s n="m"/></l>       <r>commerciante<s n="n"/></r></p></e>
-
-<e>       <p><l>marchand<s n="n"/><s n="GD"/></l>      <r>commerciante<s n="n"/></r></p></e>
+<e>       <p><l>marchand<s n="n"/></l>                 <r>commerciante<s n="n"/></r></p></e>
 
 <e>       <p><l>marchandise<s n="n"/></l>              <r>mercanzia<s n="n"/></r></p></e>
 
@@ -9911,13 +9899,7 @@
 
 <e>       <p><l>marmite<s n="n"/></l>                  <r>pentola<s n="n"/></r></p></e>
 
-<e>       <p><l>marocain<s n="n"/><s n="f"/></l>       <r>marocchino<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>marocain<s n="n"/><s n="m"/></l>       <r>marocchino<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>marocain<s n="n"/><s n="GD"/></l>      <r>marocchino<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>marocain<s n="n"/><s n="GD"/></l>      <r>marocchino<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>marocain<s n="n"/></l>                 <r>marocchino<s n="n"/></r></p></e>
 
 <e>       <p><l>marque<s n="n"/></l>                   <r>marca<s n="n"/></r></p></e>
 
@@ -9935,11 +9917,7 @@
 
 <e>       <p><l>martien<s n="n"/></l>                  <r>marziano<s n="n"/></r></p></e>
 
-<e>       <p><l>martyr<s n="n"/><s n="f"/></l>         <r>martire<s n="n"/></r></p></e>
-
-<e>       <p><l>martyr<s n="n"/><s n="m"/></l>         <r>martire<s n="n"/></r></p></e>
-
-<e>       <p><l>martyr<s n="n"/><s n="GD"/></l>        <r>martire<s n="n"/></r></p></e>
+<e>       <p><l>martyr<s n="n"/></l>                   <r>martire<s n="n"/></r></p></e>
 
 <e>       <p><l>marxisme<s n="n"/></l>                 <r>marxismo<s n="n"/></r></p></e>
 
@@ -9967,8 +9945,6 @@
 
 <e>       <p><l>matin<s n="n"/><s n="m"/></l>          <r>mattina<s n="n"/></r></p></e>
 
-<e>       <p><l>matin<s n="n"/><s n="m"/></l>          <r>domani<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-
 <e>       <p><l>matinée<s n="n"/></l>                  <r>domani<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>matière<s n="n"/></l>                  <r>materia<s n="n"/></r></p></e>
@@ -9991,9 +9967,7 @@
 
 <e>       <p><l>maçon<s n="n"/><s n="f"/></l>          <r>muratore<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>maçon<s n="n"/><s n="m"/></l>          <r>muratore<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>maçon<s n="n"/><s n="GD"/></l>         <r>muratore<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>maçon<s n="n"/></l>                    <r>muratore<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>maître<s n="n"/></l>                   <r>maestro<s n="n"/></r></p></e>
 
@@ -10029,17 +10003,11 @@
 
 <e>       <p><l>menuisier<s n="n"/></l>                <r>falegname<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>mer<s n="n"/><s n="f"/></l>            <r>mare<s n="n"/></r></p></e>
-
 <e>       <p><l>mer<s n="n"/><s n="f"/></l>            <r>mare<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>mercatique<s n="n"/><s n="f"/></l>     <r>marketing<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
-<e>       <p><l>mercredi<s n="n"/><s n="m"/><s n="pl"/></l><r>mercoledì<s n="n"/></r></p></e>
-
-<e>       <p><l>mercredi<s n="n"/><s n="m"/><s n="sg"/></l><r>mercoledì<s n="n"/></r></p></e>
-
-<e>       <p><l>mercredi<s n="n"/><s n="m"/><s n="ND"/></l><r>mercoledì<s n="n"/></r></p></e>
+<e>       <p><l>mercredi<s n="n"/></l>                 <r>mercoledì<s n="n"/></r></p></e>
 
 <e>       <p><l>merde<s n="n"/></l>                    <r>merda<s n="n"/></r></p></e>
 
@@ -10103,11 +10071,7 @@
 
 <e>       <p><l>mine<g><b/>de<b/>sel</g><s n="n"/></l> <r>salina<s n="n"/></r></p></e>
 
-<e>       <p><l>mineur<s n="n"/><s n="f"/></l>         <r>minore<s n="n"/><s n="mf"/></r></p></e>
-
-<e>       <p><l>mineur<s n="n"/><s n="m"/></l>         <r>minore<s n="n"/><s n="mf"/></r></p></e>
-
-<e>       <p><l>mineur<s n="n"/><s n="GD"/></l>        <r>minore<s n="n"/><s n="mf"/></r></p></e>
+<e>       <p><l>mineur<s n="n"/></l>                   <r>minore<s n="n"/></r></p></e>
 
 <e>       <p><l>miniature<s n="n"/></l>                <r>miniatura<s n="n"/></r></p></e>
 
@@ -10169,11 +10133,7 @@
 
 <e>       <p><l>module<s n="n"/></l>                   <r>modulo<s n="n"/></r></p></e>
 
-<e>       <p><l>modèle<s n="n"/></l>                   <r>modello<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>modèle<s n="n"/></l>                   <r>modello<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>modèle<s n="n"/></l>                   <r>modello<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>modèle<s n="n"/></l>                   <r>modello<s n="n"/></r></p></e>
 
 <e>       <p><l>moelle<s n="n"/></l>                   <r>midollo<s n="n"/><s n="m"/></r></p></e>
 
@@ -10216,8 +10176,6 @@
 <e>       <p><l>monopole<s n="n"/></l>                 <r>monopolio<s n="n"/></r></p></e>
 
 <e>       <p><l>monsieur<s n="n"/><s n="m"/></l>       <r>signore<s n="n"/></r></p></e>
-
-<e>       <p><l>monsieur<s n="n"/></l>                 <r>dono<s n="n"/></r></p></e>
 
 <e>       <p><l>monstre<s n="n"/></l>                  <r>mostro<s n="n"/></r></p></e>
 
@@ -10277,9 +10235,7 @@
 
 <e>       <p><l>moulin<s n="n"/></l>                   <r>mulino<s n="n"/></r></p></e>
 
-<e>       <p><l>moustache<s n="n"/></l>                <r>baffo<s n="n"/></r></p></e>
-
-<e>       <p><l>moustache<s n="n"/><s n="f"/></l>      <r>baffo<s n="n"/></r></p></e>
+<e>       <p><l>moustache<s n="n"/></l>                <r>baffo<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>moustique<s n="n"/></l>                <r>zanzara<s n="n"/><s n="f"/></r></p></e>
 
@@ -10288,8 +10244,6 @@
 <e>       <p><l>mouton<s n="n"/></l>                   <r>agnello<s n="n"/></r></p></e>
 
 <e>       <p><l>mouvement<s n="n"/></l>                <r>movimento<s n="n"/></r></p></e>
-
-<e>       <p><l>mouvement<s n="n"/></l>                <r>movimento<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>moyen<s n="n"/></l>                    <r>mezzo<s n="n"/></r></p></e>
 
@@ -10305,13 +10259,7 @@
 
 <e>       <p><l>munition<s n="n"/></l>                 <r>munizione<s n="n"/></r></p></e>
 
-<e>       <p><l>mur<s n="n"/></l>                      <r>muro<s n="n"/><s n="GD"/><s n="pl"/></r></p></e>
-
-<e>       <p><l>mur<s n="n"/></l>                      <r>muro<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-
-<e>       <p><l>mur<s n="n"/></l>                      <r>muro<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-
-<e>       <p><l>mur<s n="n"/></l>                      <r>muro<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e>       <p><l>mur<s n="n"/></l>                      <r>muro<s n="n"/></r></p></e>
 
 <e>       <p><l>mur<s n="n"/><s n="m"/></l>            <r>parete<s n="n"/></r></p></e>
 
@@ -10369,7 +10317,7 @@
 
 <e>       <p><l>mélange<s n="n"/><s n="m"/></l>        <r>miscuglio<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>mélange<s n="n"/><s n="m"/></l>        <r>miscela<s n="n"/></r></p></e>
+<e>       <p><l>mélange<s n="n"/><s n="m"/></l>        <r>miscela<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>mélodie<s n="n"/></l>                  <r>melodia<s n="n"/></r></p></e>
 
@@ -10389,7 +10337,7 @@
 
 <e>       <p><l>métaphore<s n="n"/></l>                <r>metafora<s n="n"/></r></p></e>
 
-<e>       <p><l>méthode<s n="n"/></l>                  <r>metodo<s n="n"/></r></p></e>
+<e>       <p><l>méthode<s n="n"/></l>                  <r>metodo<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>métro<s n="n"/></l>                    <r>metro<s n="n"/></r></p></e>
 
