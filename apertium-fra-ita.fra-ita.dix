@@ -13159,7 +13159,7 @@
 
 <e>       <p><l>tuerie<s n="n"/></l>                   <r>macellazione<s n="n"/></r></p></e>
 
-<e>       <p><l>tumeur<s n="n"/><s n="f"/></l>         <r>tumore<s n="n"/></r></p></e>
+<e>       <p><l>tumeur<s n="n"/><s n="f"/></l>         <r>tumore<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>tunique<s n="n"/></l>                  <r>tunica<s n="n"/></r></p></e>
 
@@ -13243,8 +13243,6 @@
 
 <e>       <p><l>v<s n="n"/><s n="m"/></l>              <r>v<s n="n"/></r></p></e>
 
-<e>       <p><l>vaccin<s n="n"/><s n="m"/></l>         <r>vaccino<s n="n"/></r></p></e>
-
 <e>       <p><l>vaccin<s n="n"/><s n="m"/></l>         <r>vaccino<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>vaccination<s n="n"/></l>              <r>vaccinazione<s n="n"/></r></p></e>
@@ -13261,7 +13259,7 @@
 
 <e>       <p><l>valet<s n="n"/><s n="m"/></l>          <r>domestico<s n="n"/></r></p></e>
 
-<e>       <p><l>valeur<s n="n"/><s n="f"/></l>         <r>valore<s n="n"/></r></p></e>
+<e>       <p><l>valeur<s n="n"/><s n="f"/></l>         <r>valore<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>validation<s n="n"/></l>               <r>validazione<s n="n"/></r></p></e>
 
@@ -13321,8 +13319,6 @@
 
 <e>       <p><l>verger<s n="n"/><s n="m"/></l>         <r>orto<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>verger<s n="n"/></l>                   <r>orto<s n="n"/></r></p></e>
-
 <e>       <p><l>verre<s n="n"/></l>                    <r>bicchiere<s n="n"/></r></p></e>
 
 <e>       <p><l>verre<s n="n"/></l>                    <r>vetro<s n="n"/></r></p></e>
@@ -13365,13 +13361,9 @@
 
 <e>       <p><l>vidéo<s n="n"/><s n="f"/></l>          <r>video<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
-<e>       <p><l>vidéo<s n="n"/></l>                    <r>video<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-
 <e>       <p><l>vie<s n="n"/></l>                      <r>vita<s n="n"/></r></p></e>
 
-<e>       <p><l>vieillard<s n="n"/><s n="m"/><s n="pl"/></l><r>anziano<s n="n"/></r></p></e>
-
-<e>       <p><l>vieillard<s n="n"/><s n="m"/><s n="sg"/></l><r>anziano<s n="n"/></r></p></e>
+<e>       <p><l>vieillard<s n="n"/></l>                <r>anziano<s n="n"/></r></p></e>
 
 <e c="new-category"><p><l>vierge<s n="n"/></l>         <r>vergine<s n="n"/></r></p></e>
 
@@ -13393,7 +13385,7 @@
 
 <e>       <p><l>vinaigre<s n="n"/></l>                 <r>aceto<s n="n"/></r></p></e>
 
-<e>       <p><l>violation<s n="n"/></l>                <r>stupro<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>violation<s n="n"/><s n="f"/></l>      <r>stupro<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>violation<s n="n"/></l>                <r>violazione<s n="n"/></r></p></e>
 
@@ -13409,11 +13401,9 @@
 
 <e>       <p><l>virgule<s n="n"/><s n="f"/></l>        <r>virgola<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>virgule<s n="n"/><s n="f"/></l>        <r>coma<s n="n"/><s n="m"/></r></p></e>
-
 <e>       <p><l>virus<s n="n"/></l>                    <r>virus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
-<e>       <p><l>visage<s n="n"/><s n="m"/></l>         <r>faccia<s n="n"/></r></p></e>
+<e>       <p><l>visage<s n="n"/><s n="m"/></l>         <r>faccia<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>visage<s n="n"/></l>                   <r>viso<s n="n"/></r></p></e>
 
@@ -13425,11 +13415,7 @@
 
 <e>       <p><l>visitation<s n="n"/></l>               <r>Visitazione<s n="n"/></r></p></e>
 
-<e>       <p><l>visiteur<s n="n"/><s n="f"/></l>       <r>visitatore<s n="n"/><s n="mf"/></r></p></e>
-
-<e>       <p><l>visiteur<s n="n"/><s n="m"/></l>       <r>visitatore<s n="n"/><s n="mf"/></r></p></e>
-
-<e>       <p><l>visiteur<s n="n"/><s n="GD"/></l>      <r>visitatore<s n="n"/><s n="mf"/></r></p></e>
+<e>       <p><l>visiteur<s n="n"/></l>                 <r>visitatore<s n="n"/></r></p></e>
 
 <e>       <p><l>visualisation<s n="n"/></l>            <r>visualizzazione<s n="n"/></r></p></e>
 
