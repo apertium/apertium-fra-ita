@@ -11497,8 +11497,6 @@
 
 <e>       <p><l>propriétaire<s n="n"/></l>             <r>proprietario<s n="n"/></r></p></e>
 
-<e>       <p><l>propriétaire<s n="n"/><s n="mf"/></l>  <r>proprietario<s n="n"/></r></p></e>
-
 <e>       <p><l>propriété<s n="n"/></l>                <r>proprietà<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>propriété<s n="n"/></l>                <r>podere<s n="n"/><s n="m"/></r></p></e>
@@ -11511,19 +11509,11 @@
 
 <e>       <p><l>prostituée<s n="n"/></l>               <r>prostituta<s n="n"/></r></p></e>
 
-<e>       <p><l>protagoniste<s n="n"/></l>             <r>protagonista<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>protagoniste<s n="n"/></l>             <r>protagonista<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>protagoniste<s n="n"/></l>             <r>protagonista<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>protagoniste<s n="n"/></l>             <r>protagonista<s n="n"/></r></p></e>
 
 <e>       <p><l>protection<s n="n"/></l>               <r>protezione<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>protestant<s n="n"/><s n="f"/></l>     <r>protestante<s n="n"/></r></p></e>
-
-<e>       <p><l>protestant<s n="n"/><s n="m"/></l>     <r>protestante<s n="n"/></r></p></e>
-
-<e>       <p><l>protestant<s n="n"/><s n="GD"/></l>    <r>protestante<s n="n"/></r></p></e>
+<e>       <p><l>protestant<s n="n"/></l>               <r>protestante<s n="n"/></r></p></e>
 
 <e>       <p><l>protestation<s n="n"/></l>             <r>protesta<s n="n"/></r></p></e>
 
@@ -11548,8 +11538,6 @@
 <e>       <p><l>proximité<s n="n"/></l>                <r>vicinanza<s n="n"/></r></p></e>
 
 <e>       <p><l>proximité<s n="n"/></l>                <r>prossimità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-
-<e>       <p><l>proximité<s n="n"/></l>                <r>cercanía<s n="n"/></r></p></e>
 
 <e>       <p><l>prudence<s n="n"/></l>                 <r>prudenza<s n="n"/></r></p></e>
 
@@ -11617,11 +11605,7 @@
 
 <e>       <p><l>prêtre<s n="n"/></l>                   <r>sacerdote<s n="n"/></r></p></e>
 
-<e>       <p><l>psychiatre<s n="n"/></l>               <r>psichiatra<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>psychiatre<s n="n"/></l>               <r>psichiatra<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>psychiatre<s n="n"/></l>               <r>psichiatra<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>psychiatre<s n="n"/></l>               <r>psichiatra<s n="n"/></r></p></e>
 
 <e>       <p><l>psychiatrie<s n="n"/></l>              <r>psichiatria<s n="n"/></r></p></e>
 
@@ -11659,7 +11643,7 @@
 
 <e>       <p><l>pulvérisation<s n="n"/></l>            <r>polverizzazione<s n="n"/></r></p></e>
 
-<e>       <p><l>punition<s n="n"/><s n="f"/></l>       <r>castigo<s n="n"/></r></p></e>
+<e>       <p><l>punition<s n="n"/><s n="f"/></l>       <r>castigo<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>punition<s n="n"/><s n="f"/></l>       <r>punizione<s n="n"/><s n="f"/></r></p></e>
 
@@ -11745,13 +11729,11 @@
 
 <e>       <p><l>question<s n="n"/></l>                 <r>problema<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>question<s n="n"/></l>                 <r>interrogativo<s n="n"/></r></p></e>
+<e>       <p><l>question<s n="n"/></l>                 <r>interrogativo<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>question<s n="n"/></l>                 <r>domanda<s n="n"/></r></p></e>
 
 <e>       <p><l>queue<s n="n"/><s n="f"/></l>          <r>coda<s n="n"/></r></p></e>
-
-<e>       <p><l>quotidien<s n="n"/></l>                <r>diario<s n="n"/></r></p></e>
 
 <e>       <p><l>quotidien<s n="n"/></l>                <r>quotidiano<s n="n"/></r></p></e>
 
@@ -11821,10 +11803,6 @@
 
 <e>       <p><l>recensement<s n="n"/></l>              <r>censo<s n="n"/></r></p></e>
 
-<e>       <p><l>recensement<s n="n"/></l>              <r>padrone<s n="n"/><s n="f"/></r></p></e>
-
-<e>       <p><l>recensement<s n="n"/></l>              <r>padrone<s n="n"/><s n="m"/></r></p></e>
-
 <e>       <p><l>recensement<s n="n"/></l>              <r>inventario<s n="n"/></r></p></e>
 
 <e>       <p><l>recette<s n="n"/></l>                  <r>ricavo<s n="n"/><s n="m"/></r></p></e>
@@ -11843,13 +11821,9 @@
 
 <e>       <p><l>reconciliation<s n="n"/></l>           <r>riconciliazione<s n="n"/></r></p></e>
 
-<e>       <p><l>reconnaissance<s n="n"/></l>           <r>visita<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>reconnaissance<s n="n"/></l>           <r>riconoscenza<s n="n"/></r></p></e>
 
-<e>       <p><l>reconnaissance<s n="n"/></l>           <r>ricognizione<s n="n"/><s n="f"/></r></p></e>
-
-<e>       <p><l>reconnaissance<s n="n"/><s n="f"/></l> <r>visita<s n="n"/><s n="f"/></r></p></e>
-
-<e>       <p><l>reconnaissance<s n="n"/><s n="f"/></l> <r>ricognizione<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>reconnaissance<s n="n"/></l>           <r>ricognizione<s n="n"/></r></p></e>
 
 <e>       <p><l>reconstitution<s n="n"/></l>           <r>ricostituzione<s n="n"/></r></p></e>
 
@@ -11907,11 +11881,9 @@
 
 <e>       <p><l>relativité<s n="n"/></l>               <r>relatività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
-<e>       <p><l>religieux<s n="n"/><s n="f"/></l>      <r>religioso<s n="n"/></r></p></e>
+<e>       <p><l>religieux<s n="n"/></l>                <r>religioso<s n="n"/></r></p></e>
 
-<e>       <p><l>religieux<s n="n"/><s n="m"/><s n="sp"/></l><r>religioso<s n="n"/></r></p></e>
-
-<e>       <p><l>religieux<s n="n"/><s n="f"/></l>      <r>monaco<s n="n"/></r></p></e>
+<e>       <p><l>religieux<s n="n"/></l>                <r>monaco<s n="n"/></r></p></e>
 
 <e>       <p><l>religion<s n="n"/></l>                 <r>religione<s n="n"/></r></p></e>
 
@@ -11955,11 +11927,7 @@
 
 <e>       <p><l>reproduction<s n="n"/></l>             <r>riproduzione<s n="n"/></r></p></e>
 
-<e>       <p><l>représentant<s n="n"/><s n="f"/></l>   <r>rappresentante<s n="n"/><s n="mf"/></r></p></e>
-
-<e>       <p><l>représentant<s n="n"/><s n="m"/></l>   <r>rappresentante<s n="n"/><s n="mf"/></r></p></e>
-
-<e>       <p><l>représentant<s n="n"/><s n="GD"/></l>  <r>rappresentante<s n="n"/><s n="mf"/></r></p></e>
+<e>       <p><l>représentant<s n="n"/></l>             <r>rappresentante<s n="n"/></r></p></e>
 
 <e>       <p><l>représentation<s n="n"/></l>           <r>rappresentazione<s n="n"/></r></p></e>
 
@@ -11980,8 +11948,6 @@
 <e>       <p><l>responsable<s n="n"/></l>              <r>responsabile<s n="n"/></r></p></e>
 
 <e>       <p><l>ressource<s n="n"/><s n="f"/></l>      <r>risorsa<s n="n"/><s n="f"/></r></p></e>
-
-<e>       <p><l>ressource<s n="n"/><s n="f"/></l>      <r>ricorso<s n="n"/></r></p></e>
 
 <e>       <p><l>restant<s n="n"/></l>                  <r>resto<s n="n"/></r></p></e>
 
@@ -12039,7 +12005,7 @@
 
 <e>       <p><l>rire<s n="n"/><s n="m"/></l>           <r>risata<s n="n"/></r></p></e>
 
-<e>       <p><l>rire<s n="vblex"/></l>                <r>ridere<s n="vblex"/></r></p></e>
+<e>       <p><l>rire<s n="vblex"/></l>                 <r>ridere<s n="vblex"/></r></p></e>
 
 <e>       <p><l>risque<s n="n"/></l>                   <r>rischio<s n="n"/></r></p></e>
 
@@ -12073,13 +12039,7 @@
 
 <e>       <p><l>roman<s n="n"/><s n="m"/></l>          <r>romanzo<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>romancier<s n="n"/><s n="f"/></l>      <r>romanziere<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>romancier<s n="n"/><s n="m"/></l>      <r>romanziere<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>romancier<s n="n"/><s n="GD"/></l>     <r>romanziere<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>romancier<s n="n"/><s n="GD"/></l>     <r>romanziere<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>romancier<s n="n"/></l>                <r>romanziere<s n="n"/></r></p></e>
 
 <e>       <p><l>romanisation<s n="n"/></l>             <r>romanizzazione<s n="n"/></r></p></e>
 
@@ -12207,7 +12167,7 @@
 
 <e>       <p><l>régate<s n="n"/></l>                   <r>regata<s n="n"/></r></p></e>
 
-<e>       <p><l>régime<s n="n"/><s n="m"/></l>         <r>dieta<s n="n"/></r></p></e>
+<e>       <p><l>régime<s n="n"/><s n="m"/></l>         <r>dieta<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>régime<s n="n"/></l>                   <r>regime<s n="n"/></r></p></e>
 
@@ -12263,9 +12223,9 @@
 
 <e>       <p><l>réquisition<s n="n"/></l>              <r>requisizione<s n="n"/></r></p></e>
 
-<e>       <p><l>réseau<s n="n"/><s n="m"/></l>         <r>copertura<s n="n"/></r></p></e>
+<e>       <p><l>réseau<s n="n"/><s n="m"/></l>         <r>copertura<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>réseau<s n="n"/><s n="m"/></l>         <r>rete<s n="n"/></r></p></e>
+<e>       <p><l>réseau<s n="n"/><s n="m"/></l>         <r>rete<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>résidence<s n="n"/></l>                <r>residenza<s n="n"/></r></p></e>
 
@@ -12317,7 +12277,7 @@
 
 <e>       <p><l>sabre<s n="n"/></l>                    <r>sciabola<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>sac<s n="n"/><s n="m"/></l>            <r>borsa<s n="n"/></r></p></e>
+<e>       <p><l>sac<s n="n"/><s n="m"/></l>            <r>borsa<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>sac<s n="n"/></l>                      <r>borsello<s n="n"/></r></p></e>
 
@@ -12331,7 +12291,7 @@
 
 <e>       <p><l>saint<s n="n"/></l>                    <r>santo<s n="n"/></r></p></e>
 
-<e>       <p><l>saisie<s n="n"/><s n="f"/></l>         <r>embargo<s n="n"/></r></p></e>
+<e>       <p><l>saisie<s n="n"/><s n="f"/></l>         <r>embargo<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>saison<s n="n"/></l>                   <r>stagione<s n="n"/></r></p></e>
 
@@ -12507,7 +12467,7 @@
 
 <e>       <p><l>signe<s n="n"/></l>                    <r>segno<s n="n"/></r></p></e>
 
-<e>       <p><l>signification<s n="n"/><s n="f"/></l>  <r>significato<s n="n"/></r></p></e>
+<e>       <p><l>signification<s n="n"/><s n="f"/></l>  <r>significato<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>signification<s n="n"/></l>            <r>significazione<s n="n"/></r></p></e>
 
@@ -12521,11 +12481,7 @@
 
 <e>       <p><l>simplification<s n="n"/></l>           <r>semplificazione<s n="n"/></r></p></e>
 
-<e>       <p><l>simulateur<s n="n"/></l>               <r>simulatore<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>simulateur<s n="n"/></l>               <r>simulatore<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>simulateur<s n="n"/></l>               <r>simulatore<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>simulateur<s n="n"/></l>               <r>simulatore<s n="n"/></r></p></e>
 
 <e>       <p><l>simulation<s n="n"/></l>               <r>simulazione<s n="n"/></r></p></e>
 
@@ -12539,7 +12495,7 @@
 
 <e>       <p><l>siège<s n="n"/></l>                    <r>assedio<s n="n"/></r></p></e>
 
-<e>       <p><l>siège<s n="n"/><s n="m"/></l>          <r>sede<s n="n"/></r></p></e>
+<e>       <p><l>siège<s n="n"/><s n="m"/></l>          <r>sede<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>ski<s n="n"/></l>                      <r>sci<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
@@ -12571,11 +12527,11 @@
 
 <e>       <p><l>soin<s n="n"/><s n="m"/></l>           <r>prete<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>soir<s n="n"/><s n="m"/></l>           <r>pomeriggio<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>soir<s n="n"/><s n="m"/></l>           <r>sera<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>soirée<s n="n"/></l>                   <r>notte<s n="n"/></r></p></e>
+<e>       <p><l>soirée<s n="n"/></l>                   <r>serata<s n="n"/></r></p></e>
 
-<e>       <p><l>soja<s n="n"/></l>                     <r>soia<s n="n"/></r></p></e>
+<e>       <p><l>soja<s n="n"/></l>                     <r>soia<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>sol<s n="n"/></l>                      <r>suolo<s n="n"/></r></p></e>
 
@@ -12731,7 +12687,7 @@
 
 <e>       <p><l>stimulation<s n="n"/><s n="f"/></l>    <r>incentivazione<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>stimulation<s n="n"/><s n="f"/></l>    <r>stimolo<s n="n"/></r></p></e>
+<e>       <p><l>stimulation<s n="n"/><s n="f"/></l>    <r>stimolo<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>stock<s n="n"/></l>                    <r>stock<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
@@ -12763,9 +12719,9 @@
 
 <e>       <p><l>successeur<s n="n"/></l>               <r>successore<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>succès<s n="n"/><s n="m"/><s n="sp"/></l><r>successo<s n="n"/></r></p></e>
+<e>       <p><l>succès<s n="n"/></l>                   <r>successo<s n="n"/></r></p></e>
 
-<e>       <p><l>succès<s n="n"/><s n="m"/><s n="sp"/></l><r>esito<s n="n"/></r></p></e>
+<e>       <p><l>succès<s n="n"/></l>                   <r>esito<s n="n"/></r></p></e>
 
 <e>       <p><l>sucre<s n="n"/></l>                    <r>zucchero<s n="n"/></r></p></e>
 
@@ -12781,15 +12737,9 @@
 
 <e>       <p><l>suicide<s n="n"/></l>                  <r>suicidio<s n="n"/></r></p></e>
 
-<e>       <p><l>suicidé<s n="n"/><s n="f"/></l>        <r>suicida<s n="n"/><s n="GD"/></r></p></e>
+<e>       <p><l>suicidé<s n="n"/></l>                  <r>suicida<s n="n"/></r></p></e>
 
-<e>       <p><l>suicidé<s n="n"/><s n="m"/></l>        <r>suicida<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>suicidé<s n="n"/><s n="GD"/></l>       <r>suicida<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>suicidé<s n="n"/><s n="GD"/></l>       <r>suicida<s n="n"/><s n="f"/></r></p></e>
-
-<e>       <p><l>suisse<s n="n"/><s n="mf"/></l>        <r>svizzero<s n="n"/></r></p></e>
+<e>       <p><l>suisse<s n="n"/></l>                   <r>svizzero<s n="n"/></r></p></e>
 
 <e>       <p><l>suite<s n="n"/></l>                    <r>proseguimento<s n="n"/><s n="m"/></r></p></e>
 
@@ -12821,7 +12771,7 @@
 
 <e>       <p><l>surréalisme<s n="n"/></l>              <r>surrealismo<s n="n"/></r></p></e>
 
-<e>       <p><l>sursaut<s n="n"/></l>                  <r>scossa<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>sursaut<s n="n"/><s n="m"/></l>                  <r>scossa<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>sursis<s n="n"/><s n="m"/></l>         <r>proroga<s n="n"/></r></p></e>
 
@@ -12851,9 +12801,7 @@
 
 <e>       <p><l>syndicat<s n="n"/></l>                 <r>sindacato<s n="n"/></r></p></e>
 
-<e>       <p><l>syndrome<s n="n"/></l>                 <r>sindrome<s n="n"/></r></p></e>
-
-<e>       <p><l>syndrome<s n="n"/></l>                 <r>sindrome<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>syndrome<s n="n"/><s n="m"/></l>       <r>sindrome<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>syntaxe<s n="n"/><s n="f"/><s n="pl"/></l><r>sintassi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
@@ -12945,11 +12893,11 @@
 
 <e>       <p><l>tapisserie<s n="n"/></l>               <r>tappezzeria<s n="n"/></r></p></e>
 
-<e c="tapices"><p><l>tapisserie<s n="n"/><s n="f"/></l><r>arazzo<s n="n"/></r></p></e>
+<e c="tapices"><p><l>tapisserie<s n="n"/><s n="f"/></l><r>arazzo<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>tare<s n="n"/></l>                     <r>tara<s n="n"/></r></p></e>
 
-<e>       <p><l>tarif<s n="n"/><s n="m"/></l>          <r>tariffa<s n="n"/></r></p></e>
+<e>       <p><l>tarif<s n="n"/><s n="m"/></l>          <r>tariffa<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>tas<s n="n"/><s n="m"/><s n="sp"/></l> <r>mucchio<s n="n"/></r></p></e>
 
@@ -12961,13 +12909,11 @@
 
 <e>       <p><l>taxation<s n="n"/></l>                 <r>tassazione<s n="n"/></r></p></e>
 
-<e>       <p><l>taxe<s n="n"/></l>                     <r>tasso<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>taxe<s n="n"/></l>                     <r>tasso<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>taxe<s n="n"/></l>                     <r>tassa<s n="n"/></r></p></e>
 
 <e>       <p><l>taxi<s n="n"/></l>                     <r>taxi<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
-<e>       <p><l>technicien<s n="n"/></l>               <r>tecnico<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>technicien<s n="n"/></l>               <r>tecnico<s n="n"/></r></p></e>
 
 <e>       <p><l>technologie<s n="n"/></l>              <r>tecnologia<s n="n"/></r></p></e>
 
@@ -12987,9 +12933,9 @@
 
 <e>       <p><l>tentation<s n="n"/></l>                <r>tentazione<s n="n"/></r></p></e>
 
-<e>       <p><l>tentative<s n="n"/></l>                <r>tentativo<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>tentative<s n="n"/><s n="f"/></l>      <r>tentativo<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>tentative<s n="n"/><s n="f"/></l>      <r>intento<s n="n"/></r></p></e>
+<e>       <p><l>tentative<s n="n"/><s n="f"/></l>      <r>intento<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>terme<s n="n"/></l>                    <r>termine<s n="n"/></r></p></e>
 
@@ -13059,7 +13005,7 @@
 
 <e>       <p><l>toge<s n="n"/></l>                     <r>toga<s n="n"/></r></p></e>
 
-<e>       <p><l>toilette<s n="n"/><s n="f"/></l>       <r>bagno<s n="n"/></r></p></e>
+<e>       <p><l>toilette<s n="n"/><s n="f"/></l>       <r>bagno<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>toilette<s n="n"/><s n="f"/></l>       <r>balneazione<s n="n"/><s n="f"/></r></p></e>
 
@@ -13081,21 +13027,13 @@
 
 <e>       <p><l>tour<s n="n"/><s n="f"/></l>           <r>torre<s n="n"/></r></p></e>
 
-<e>       <p><l>tour<s n="n"/></l>                     <r>turno<s n="n"/></r></p></e>
-
-<e>       <p><l>tour<s n="n"/><s n="m"/></l>           <r>calotta<s n="n"/></r></p></e>
+<e>       <p><l>tour<s n="n"/><s n="m"/></l>           <r>turno<s n="n"/></r></p></e>
 
 <e>       <p><l>tourbe<s n="n"/></l>                   <r>torba<s n="n"/></r></p></e>
 
 <e>       <p><l>tourisme<s n="n"/></l>                 <r>turismo<s n="n"/></r></p></e>
 
-<e>       <p><l>tourisme<s n="n"/></l>                 <r>autovettura<s n="n"/><s n="f"/></r></p></e>
-
-<e>       <p><l>touriste<s n="n"/></l>                 <r>turista<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>touriste<s n="n"/></l>                 <r>turista<s n="n"/><s n="f"/></r></p></e>
-
-<e>       <p><l>touriste<s n="n"/></l>                 <r>turista<s n="n"/><s n="GD"/></r></p></e>
+<e>       <p><l>touriste<s n="n"/></l>                 <r>turista<s n="n"/></r></p></e>
 
 <e>       <p><l>tourmente<s n="n"/></l>                <r>tormenta<s n="n"/></r></p></e>
 
@@ -13123,11 +13061,7 @@
 
 <e>       <p><l>trafic<s n="n"/></l>                   <r>traffico<s n="n"/></r></p></e>
 
-<e>       <p><l>trafiquant<s n="n"/><s n="f"/></l>     <r>trafficante<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>trafiquant<s n="n"/><s n="m"/></l>     <r>trafficante<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>trafiquant<s n="n"/><s n="GD"/></l>    <r>trafficante<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>trafiquant<s n="n"/></l>               <r>trafficante<s n="n"/></r></p></e>
 
 <e>       <p><l>tragédie<s n="n"/></l>                 <r>tragedia<s n="n"/></r></p></e>
 
