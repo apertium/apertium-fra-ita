@@ -10903,8 +10903,6 @@
 
 <e>       <p><l>partie<s n="n"/><s n="f"/></l>         <r>parte<s n="n"/></r></p></e>
 
-<e>       <p><l>partie<s n="n"/><s n="m"/></l>         <r>parto<s n="n"/></r></p></e>
-
 <e>       <p><l>partition<s n="n"/></l>                <r>partizione<s n="n"/></r></p></e>
 
 <e>       <p><l>partition<s n="n"/></l>                <r>spartizione<s n="n"/></r></p></e>
@@ -10925,11 +10923,7 @@
 
 <e>       <p><l>pathologie<s n="n"/></l>               <r>patologia<s n="n"/></r></p></e>
 
-<e>       <p><l>patient<s n="n"/><s n="f"/></l>        <r>paziente<s n="n"/></r></p></e>
-
-<e>       <p><l>patient<s n="n"/><s n="m"/></l>        <r>paziente<s n="n"/></r></p></e>
-
-<e>       <p><l>patient<s n="n"/><s n="GD"/></l>       <r>paziente<s n="n"/></r></p></e>
+<e>       <p><l>patient<s n="n"/></l>                  <r>paziente<s n="n"/></r></p></e>
 
 <e>       <p><l>patinage<s n="n"/></l>                 <r>pattinaggio<s n="n"/></r></p></e>
 
@@ -10949,11 +10943,7 @@
 
 <e>       <p><l>pavillon<s n="n"/></l>                 <r>bandiera<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>payement<s n="n"/></l>                 <r>concime<s n="n"/></r></p></e>
-
-<e>       <p><l>payement<s n="n"/></l>                 <r>abbonamento<s n="n"/></r></p></e>
-
-<e>       <p><l>payement<s n="n"/></l>                 <r>concimazione<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>payement<s n="n"/></l>                 <r>pagamento<s n="n"/></r></p></e>
 
 <e>       <p><l>pays<s n="n"/><s n="m"/><s n="sp"/></l><r>paese<s n="n"/></r></p></e>
 
@@ -10967,10 +10957,6 @@
 
 <e>       <p><l>peinture<s n="n"/></l>                 <r>vernice<s n="n"/></r></p></e>
 
-<e>       <p><l>peinture<s n="n"/></l>                 <r>prodotto<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>peinture<b/>murale<s n="n"/><s n="f"/></l><r>murale<s n="n"/></r></p></e>
-
 <e>       <p><l>pelle<s n="n"/></l>                    <r>pala<s n="n"/></r></p></e>
 
 <e>       <p><l>pelouse<s n="n"/><s n="f"/></l>        <r>prato<s n="n"/></r></p></e>
@@ -10982,8 +10968,6 @@
 <e>       <p><l>pensionnaire<s n="n"/></l>             <r>pensionato<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>pensée<s n="n"/><s n="f"/></l>         <r>pensiero<s n="n"/></r></p></e>
-
-<e>       <p><l>pente<s n="n"/><s n="f"/></l>          <r>orecchino<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>pente<s n="n"/><s n="f"/></l>          <r>pendenza<s n="n"/><s n="f"/></r></p></e>
 
@@ -11019,13 +11003,7 @@
 
 <e>       <p><l>perruque<s n="n"/></l>                 <r>parrucca<s n="n"/></r></p></e>
 
-<e>       <p><l>persan<s n="n"/><s n="f"/></l>         <r>persiano<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>persan<s n="n"/><s n="m"/></l>         <r>persiano<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>persan<s n="n"/><s n="GD"/></l>        <r>persiano<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>persan<s n="n"/><s n="GD"/></l>        <r>persiano<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>persan<s n="n"/></l>                   <r>persiano<s n="n"/></r></p></e>
 
 <e>       <p><l>persienne<s n="n"/></l>                <r>persiana<s n="n"/></r></p></e>
 
@@ -11041,11 +11019,7 @@
 
 <e>       <p><l>personnel<s n="n"/></l>                <r>personale<s n="n"/></r></p></e>
 
-<e>       <p><l>personnel<s n="n"/><s n="m"/></l>      <r>planning<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>personnel<s n="n"/><s n="m"/></l>      <r>soletta<s n="n"/></r></p></e>
-
-<e>       <p><l>personnel<s n="n"/><s n="m"/></l>      <r>maestranze<s n="n"/></r></p></e>
+<e>       <p><l>personnel<s n="n"/><s n="m"/></l>      <r>maestranze<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>perspective<s n="n"/></l>              <r>prospettiva<s n="n"/></r></p></e>
 
@@ -11061,11 +11035,7 @@
 
 <e>       <p><l>pessimisme<s n="n"/></l>               <r>pessimismo<s n="n"/></r></p></e>
 
-<e>       <p><l>pessimiste<s n="n"/></l>               <r>pessimista<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>pessimiste<s n="n"/></l>               <r>pessimista<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>pessimiste<s n="n"/></l>               <r>pessimista<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>pessimiste<s n="n"/></l>               <r>pessimista<s n="n"/></r></p></e>
 
 <e>       <p><l>peste<s n="n"/></l>                    <r>peste<s n="n"/></r></p></e>
 
@@ -11074,8 +11044,6 @@
 <e>       <p><l>petit<b/>déjeuner<s n="n"/></l>        <r>colazione<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>peuple<s n="n"/></l>                   <r>popolo<s n="n"/></r></p></e>
-
-<e>       <p><l>peur<s n="n"/><s n="f"/></l>           <r>paura<s n="n"/></r></p></e>
 
 <e>       <p><l>peur<s n="n"/><s n="f"/></l>           <r>paura<s n="n"/><s n="f"/></r></p></e>
 
@@ -11113,11 +11081,7 @@
 
 <e>       <p><l>phénomène<s n="n"/></l>                <r>fenomeno<s n="n"/></r></p></e>
 
-<e>       <p><l>pianiste<s n="n"/></l>                 <r>pianista<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>pianiste<s n="n"/></l>                 <r>pianista<s n="n"/><s n="f"/></r></p></e>
-
-<e>       <p><l>pianiste<s n="n"/></l>                 <r>pianista<s n="n"/><s n="GD"/></r></p></e>
+<e>       <p><l>pianiste<s n="n"/></l>                 <r>pianista<s n="n"/></r></p></e>
 
 <e>       <p><l>piano<s n="n"/></l>                    <r>pianoforte<s n="n"/></r></p></e>
 
@@ -11133,11 +11097,7 @@
 
 <e>       <p><l>pilier<s n="n"/></l>                   <r>pilastro<s n="n"/></r></p></e>
 
-<e>       <p><l>pilote<s n="n"/></l>                   <r>pilota<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>pilote<s n="n"/></l>                   <r>pilota<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>pilote<s n="n"/></l>                   <r>pilota<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>pilote<s n="n"/></l>                   <r>pilota<s n="n"/></r></p></e>
 
 <e>       <p><l>pin<s n="n"/></l>                      <r>pino<s n="n"/></r></p></e>
 
@@ -11153,11 +11113,7 @@
 
 <e>       <p><l>pipe<s n="n"/></l>                     <r>pipa<s n="n"/></r></p></e>
 
-<e>       <p><l>pirate<s n="n"/></l>                   <r>pirata<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>pirate<s n="n"/></l>                   <r>pirata<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>pirate<s n="n"/></l>                   <r>pirata<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>pirate<s n="n"/></l>                   <r>pirata<s n="n"/></r></p></e>
 
 <e>       <p><l>piraterie<s n="n"/></l>                <r>pirateria<s n="n"/></r></p></e>
 
@@ -11170,6 +11126,8 @@
 <e>       <p><l>pizza<s n="n"/></l>                    <r>pizza<s n="n"/></r></p></e>
 
 <e>       <p><l>pièce<s n="n"/></l>                    <r>pezzo<s n="n"/><s n="m"/></r></p></e>
+
+<e>       <p><l>pièce<s n="n"/></l>                    <r>stanza<s n="n"/></r></p></e>
 
 <e>       <p><l>piège<s n="n"/><s n="m"/></l>          <r>trappola<s n="n"/></r></p></e>
 
@@ -11271,17 +11229,13 @@
 
 <e>       <p><l>pointe<s n="n"/><s n="f"/></l>         <r>punta<s n="n"/></r></p></e>
 
-<e>       <p><l>pointe<s n="n"/><s n="f"/></l>         <r>merletto<s n="n"/></r></p></e>
-
 <e>       <p><l>poison<s n="n"/></l>                   <r>veleno<s n="n"/></r></p></e>
 
 <e>       <p><l>poisson<s n="n"/></l>                  <r>pesce<s n="n"/></r></p></e>
 
 <e>       <p><l>poitrine<s n="n"/><s n="f"/></l>       <r>petto<s n="n"/></r></p></e>
 
-<e>       <p><l>poivre<s n="n"/><s n="m"/></l>         <r>pepe<s n="n"/></r></p></e>
-
-<e>       <p><l>poivre<s n="n"/><s n="m"/></l>         <r>pepe<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>poivre<s n="n"/></l>                   <r>pepe<s n="n"/></r></p></e>
 
 <e>       <p><l>poivron<s n="n"/></l>                  <r>peperone<s n="n"/></r></p></e>
 
@@ -11291,31 +11245,11 @@
 
 <e>       <p><l>police<s n="n"/><s n="f"/></l>         <r>polizia<s n="n"/></r></p></e>
 
-<e>       <p><l>police<s n="n"/><s n="f"/></l>         <r>poliziotto<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>police<s n="n"/><s n="f"/></l>         <r>poliziotto<s n="n"/><s n="f"/></r></p></e>
-
-<e>       <p><l>police<s n="n"/><s n="f"/></l>         <r>poliziotto<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>policier<s n="n"/><s n="f"/></l>       <r>polizia<s n="n"/></r></p></e>
-
-<e>       <p><l>policier<s n="n"/><s n="f"/></l>       <r>poliziotto<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>policier<s n="n"/><s n="m"/></l>       <r>polizia<s n="n"/></r></p></e>
-
-<e>       <p><l>policier<s n="n"/><s n="m"/></l>       <r>poliziotto<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>policier<s n="n"/><s n="GD"/></l>      <r>polizia<s n="n"/></r></p></e>
-
-<e>       <p><l>policier<s n="n"/><s n="GD"/></l>      <r>poliziotto<s n="n"/><s n="f"/></r></p></e>
-
-<e>       <p><l>policier<s n="n"/><s n="GD"/></l>      <r>poliziotto<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>policier<s n="n"/></l>                 <r>poliziotto<s n="n"/></r></p></e>
 
 <e>       <p><l>politicien<s n="n"/></l>               <r>politico<s n="n"/></r></p></e>
 
-<e>       <p><l>politique<s n="n"/></l>                <r>politico<s n="n"/></r></p></e>
-
-<e>       <p><l>politique<s n="n"/><s n="f"/><s n="sg"/></l> <r>politica<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e>       <p><l>politique<s n="n"/></l>                <r>politica<s n="n"/></r></p></e>
 
 <e>       <p><l>pollen<s n="n"/></l>                   <r>polline<s n="n"/></r></p></e>
 
@@ -11335,7 +11269,7 @@
 
 <e>       <p><l>pomme<g><b/>de<b/>terre</g><s n="n"/></l> <r>patata<s n="n"/></r></p></e>
 
-<e>       <p><l>pompe<s n="n"/></l>                    <r>bomba<s n="n"/></r></p></e>
+<e>       <p><l>pompe<s n="n"/></l>                    <r>pompa<s n="n"/></r></p></e>
 
 <e>       <p><l>pompier<s n="n"/></l>                  <r>vigile<g><b/>del<b/>fuoco</g><s n="n"/><s n="m"/></r></p></e>
 
@@ -11367,11 +11301,7 @@
 
 <e>       <p><l>portrait<s n="n"/></l>                 <r>ritratto<s n="n"/></r></p></e>
 
-<e>       <p><l>portée<s n="n"/><s n="f"/></l>         <r>raggio<s n="n"/></r></p></e>
-
 <e>       <p><l>portée<s n="n"/><s n="f"/></l>         <r>portata<s n="n"/><s n="f"/></r></p></e>
-
-<e>       <p><l>portée<s n="n"/><s n="f"/></l>         <r>pentagramma<s n="n"/></r></p></e>
 
 <e>       <p><l>position<s n="n"/></l>                 <r>posizione<s n="n"/></r></p></e>
 
@@ -11415,7 +11345,7 @@
 
 <e>       <p><l>poupée<s n="n"/></l>                   <r>bambola<s n="n"/></r></p></e>
 
-<e>       <p><l>poupée<s n="n"/><s n="f"/></l>         <r>pupazzo<s n="n"/></r></p></e>
+<e>       <p><l>poupée<s n="n"/><s n="f"/></l>         <r>pupazzo<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>pourcentage<s n="n"/></l>              <r>percentuale<s n="n"/><s n="f"/></r></p></e>
 
@@ -11429,17 +11359,11 @@
 
 <e>       <p><l>poème<s n="n"/></l>                    <r>poema<s n="n"/></r></p></e>
 
-<e>       <p><l>poète<s n="n"/><s n="f"/></l>          <r>poeta<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>poète<s n="n"/><s n="m"/></l>          <r>poeta<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>poète<s n="n"/><s n="GD"/></l>         <r>poeta<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>poète<s n="n"/><s n="GD"/></l>         <r>poeta<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>poète<s n="n"/></l>                    <r>poeta<s n="n"/></r></p></e>
 
 <e>       <p><l>poésie<s n="n"/></l>                   <r>poesia<s n="n"/></r></p></e>
 
-<e>       <p><l>poêle<s n="n"/></l>                    <r>paella<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+<e>       <p><l>poêle<s n="n"/></l>                    <r>padella<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>pratique<s n="n"/></l>                 <r>pratica<s n="n"/></r></p></e>
 
@@ -11463,9 +11387,7 @@
 
 <e>       <p><l>principe<s n="n"/></l>                 <r>principio<s n="n"/></r></p></e>
 
-<e>       <p><l>printemps<s n="n"/><s n="m"/></l>      <r>primavera<s n="n"/></r></p></e>
-
-<e>       <p><l>printemps<s n="n"/><s n="m"/><s n="sp"/></l><r>primavera<s n="n"/></r></p></e>
+<e>       <p><l>printemps<s n="n"/><s n="m"/></l>      <r>primavera<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>priorité<s n="n"/></l>                 <r>priorità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
@@ -11515,13 +11437,7 @@
 
 <e>       <p><l>professeur<s n="n"/><s n="mf"/></l>    <r>professore<s n="n"/></r></p></e>
 
-<e>       <p><l>professionnel<s n="n"/><s n="f"/></l>  <r>professionista<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>professionnel<s n="n"/><s n="m"/></l>  <r>professionista<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>professionnel<s n="n"/><s n="GD"/></l> <r>professionista<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>professionnel<s n="n"/><s n="GD"/></l> <r>professionista<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>professionnel<s n="n"/></l>            <r>professionista<s n="n"/></r></p></e>
 
 <e>       <p><l>professorat<s n="n"/></l>              <r>corpo<g><b/>insegnante</g><s n="n"/></r></p></e>
 
@@ -11557,8 +11473,6 @@
 
 <e>       <p><l>promotion<s n="n"/></l>                <r>promozione<s n="n"/></r></p></e>
 
-<e>       <p><l>promotion<s n="n"/><s n="f"/></l>      <r>promozione<s n="n"/><s n="f"/></r></p></e>
-
 <e>       <p><l>promulgation<s n="n"/><s n="m"/></l>   <r>promulgazione<s n="n"/></r></p></e>
 
 <e>       <p><l>pronom<s n="n"/></l>                   <r>pronome<s n="n"/></r></p></e>
@@ -11569,11 +11483,7 @@
 
 <e>       <p><l>propagation<s n="n"/></l>              <r>propagazione<s n="n"/></r></p></e>
 
-<e>       <p><l>prophète<s n="n"/><s n="f"/></l>       <r>profeta<s n="n"/></r></p></e>
-
-<e>       <p><l>prophète<s n="n"/><s n="m"/></l>       <r>profeta<s n="n"/></r></p></e>
-
-<e>       <p><l>prophète<s n="n"/><s n="GD"/></l>      <r>profeta<s n="n"/></r></p></e>
+<e>       <p><l>prophète<s n="n"/></l>                 <r>profeta<s n="n"/></r></p></e>
 
 <e>       <p><l>proportion<s n="n"/></l>               <r>proporzione<s n="n"/></r></p></e>
 
