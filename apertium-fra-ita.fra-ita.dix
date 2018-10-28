@@ -10339,11 +10339,11 @@
 
 <e>       <p><l>méthode<s n="n"/></l>                  <r>metodo<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>métro<s n="n"/></l>                    <r>metro<s n="n"/></r></p></e>
+<e>       <p><l>métro<s n="n"/></l>                    <r>metro<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>météo<s n="n"/><s n="f"/><s n="sp"/></l><r>clima<s n="n"/></r></p></e>
+<e>       <p><l>météo<s n="n"/></l>                    <r>clima<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>météorite<s n="n"/><s n="f"/></l>      <r>meteorite<s n="n"/></r></p></e>
+<e>       <p><l>météorite<s n="n"/><s n="f"/></l>      <r>meteorite<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>météorologie<s n="n"/></l>             <r>meteorologia<s n="n"/></r></p></e>
 
@@ -10405,9 +10405,7 @@
 
 <e>       <p><l>neutralité<s n="n"/></l>               <r>neutralità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
-<e>       <p><l>nez<s n="n"/><s n="m"/><s n="sp"/></l> <r>naso<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>nez<s n="n"/><s n="m"/><s n="sp"/></l> <r>narice<s n="n"/></r></p></e>
+<e>       <p><l>nez<s n="n"/></l>                      <r>naso<s n="n"/></r></p></e>
 
 <e>       <p><l>nicotine<s n="n"/></l>                 <r>nicotina<s n="n"/></r></p></e>
 
@@ -10422,6 +10420,8 @@
 <e>       <p><l>noblesse<s n="n"/></l>                 <r>nobiltà<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>noeud<s n="n"/></l>                    <r>nodo<s n="n"/></r></p></e>
+
+<e>       <p><l>nœud<s n="n"/></l>                    <r>nodo<s n="n"/></r></p></e>
 
 <e>       <p><l>noir<s n="n"/></l>                     <r>nero<s n="n"/></r></p></e>
 
@@ -10481,15 +10481,13 @@
 
 <e>       <p><l>noël<s n="n"/><s n="m"/><s n="sp"/></l><r>natale<s n="n"/><s n="m"/></r></p></e>
 
-<e>       <p><l>nuage<s n="n"/><s n="m"/></l>          <r>nuvola<s n="n"/></r></p></e>
+<e>       <p><l>nuage<s n="n"/><s n="m"/></l>          <r>nuvola<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>nuage<s n="n"/><s n="m"/></l>          <r>nube<s n="n"/></r></p></e>
+<e>       <p><l>nuage<s n="n"/><s n="m"/></l>          <r>nube<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>nuance<s n="n"/><s n="f"/></l>         <r>sfumatura<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>nuit<s n="n"/></l>                     <r>notte<s n="n"/></r></p></e>
-
-<e>       <p><l>nuit<s n="n"/></l>                     <r>sera<s n="n"/></r></p></e>
 
 <e>       <p><l>numéro<s n="n"/></l>                   <r>numero<s n="n"/></r></p></e>
 
@@ -10632,8 +10630,6 @@
 <e>       <p><l>opportunité<s n="n"/></l>              <r>opportunità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>opposition<s n="n"/></l>               <r>opposizione<s n="n"/></r></p></e>
-
-<e>       <p><l>opposition<s n="n"/></l>               <r>concorso<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>optimisation<s n="n"/></l>             <r>ottimizzazione<s n="n"/></r></p></e>
 
@@ -10813,11 +10809,9 @@
 
 <e>       <p><l>pape<s n="n"/></l>                     <r>papa<s n="n"/></r></p></e>
 
-<e>       <p><l>papier<s n="n"/></l>                   <r>carta<s n="n"/></r></p></e>
-
 <e>       <p><l>papier<s n="n"/></l>                   <r>carta<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>papillon<s n="n"/><s n="m"/></l>       <r>farfalla<s n="n"/></r></p></e>
+<e>       <p><l>papillon<s n="n"/><s n="m"/></l>       <r>farfalla<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>paquet<s n="n"/></l>                   <r>pacchetto<s n="n"/></r></p></e>
 
@@ -10843,19 +10837,13 @@
 
 <e>       <p><l>paralysie<s n="n"/><s n="f"/><s n="sg"/></l><r>paralisi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
-<e>       <p><l>paralysie<s n="n"/></l>                <r>arresto<s n="n"/><s n="m"/></r></p></e>
-
 <e>       <p><l>paralysie<s n="n"/><s n="f"/><s n="ND"/></l><r>paralisi<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>paramètre<s n="n"/></l>                <r>parametro<s n="n"/></r></p></e>
 
 <e>       <p><l>paranoïa<s n="n"/></l>                 <r>paranoia<s n="n"/></r></p></e>
 
-<e>       <p><l>parapluie<s n="n"/><s n="m"/><s n="pl"/></l><r>ombrello<s n="n"/></r></p></e>
-
-<e>       <p><l>parapluie<s n="n"/><s n="m"/><s n="sg"/></l><r>ombrello<s n="n"/></r></p></e>
-
-<e>       <p><l>parapluie<s n="n"/><s n="m"/><s n="ND"/></l><r>ombrello<s n="n"/></r></p></e>
+<e>       <p><l>parapluie<s n="n"/></l>                <r>ombrello<s n="n"/></r></p></e>
 
 <e>       <p><l>parc<s n="n"/></l>                     <r>parco<s n="n"/></r></p></e>
 
@@ -10901,11 +10889,7 @@
 
 <e>       <p><l>partialité<s n="n"/></l>               <r>faziosità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
-<e>       <p><l>participant<s n="n"/><s n="f"/></l>    <r>partecipante<s n="n"/></r></p></e>
-
-<e>       <p><l>participant<s n="n"/><s n="m"/></l>    <r>partecipante<s n="n"/></r></p></e>
-
-<e>       <p><l>participant<s n="n"/><s n="GD"/></l>   <r>partecipante<s n="n"/></r></p></e>
+<e>       <p><l>participant<s n="n"/></l>              <r>partecipante<s n="n"/></r></p></e>
 
 <e>       <p><l>participation<s n="n"/></l>            <r>partecipazione<s n="n"/></r></p></e>
 
