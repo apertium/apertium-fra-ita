@@ -13501,17 +13501,13 @@
 
 <e>       <p><l>véracité<s n="n"/></l>                 <r>veridicità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
-<e>       <p><l>vérité<s n="n"/><s n="f"/><s n="sg"/></l><r>verità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
-
-<e>       <p><l>vérités<s n="n"/><s n="f"/><s n="pl"/></l><r>verità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+<e>       <p><l>vérité<s n="n"/><s n="f"/></l>         <r>verità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>vétérinaire<s n="n"/><s n="mf"/></l>   <r>veterinario<s n="n"/></r></p></e>
 
-<e>       <p><l>vêtement<s n="n"/><s n="m"/></l>       <r>abbigliamento<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>vêtement<s n="n"/></l>                 <r>abbigliamento<s n="n"/></r></p></e>
 
-<e>       <p><l>vêtement<s n="n"/><s n="m"/><s n="sg"/></l><r>vestito<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>vêtement<s n="n"/><s n="m"/><s n="pl"/></l><r>vestito<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>vêtement<s n="n"/></l>                 <r>vestito<s n="n"/></r></p></e>
 
 <e>       <p><l>water-polo<s n="n"/></l>               <r>pallanuoto<s n="n"/><s n="f"/></r></p></e>
 
@@ -13529,7 +13525,7 @@
 
 <e>       <p><l>zinc<s n="n"/></l>                     <r>zinco<s n="n"/></r></p></e>
 
-<e>       <p><l>zone<s n="n"/></l>                     <r>zona<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>zone<s n="n"/></l>                     <r>zona<s n="n"/></r></p></e>
 
 <e>       <p><l>zone<s n="n"/></l>                     <r>area<s n="n"/></r></p></e>
 
@@ -13539,25 +13535,21 @@
 
 <e>       <p><l>âme<s n="n"/></l>                      <r>anima<s n="n"/></r></p></e>
 
-<e>       <p><l>âne<s n="n"/><s n="m"/></l>            <r>somaro<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>âne<s n="n"/><s n="m"/></l>            <r>somaro<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>âne<s n="n"/><s n="m"/></l>            <r>somaro<s n="n"/><s n="f"/></r></p></e>
-
-<e>       <p><l>âne<s n="n"/><s n="f"/></l>            <r>somaro<s n="n"/><s n="GD"/></r></p></e>
+<e>       <p><l>âne<s n="n"/></l>                      <r>asino<s n="n"/></r></p></e>
 
 <e>       <p><l>âne<s n="n"/></l>                      <r>somaro<s n="n"/></r></p></e>
 
 <e>       <p><l>ébullition<s n="n"/></l>               <r>ebollizione<s n="n"/></r></p></e>
 
-<e>       <p><l>écart<s n="n"/><s n="m"/></l>          <r>separazione<s n="n"/></r></p></e>
+<e>       <p><l>écart<s n="n"/><s n="m"/></l>          <r>separazione<s n="n"/><s n="f"/></r></p></e>
 
-<e>       <p><l>échafaudage<s n="n"/></l>              <r>impalcatura<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>échafaudage<s n="n"/><s n="m"/></l>    <r>impalcatura<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>échange<s n="n"/></l>                  <r>baratto<s n="n"/></r></p></e>
 
-<e>       <p><l>échantillon<s n="n"/><s n="m"/></l>    <r>dimostrazione<s n="n"/></r></p></e>
+<e>       <p><l>échange<s n="n"/></l>                  <r>scambio<s n="n"/></r></p></e>
+
+<e>       <p><l>échantillon<s n="n"/><s n="m"/></l>    <r>dimostrazione<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>échantillonnage<s n="n"/></l>          <r>campionamento<s n="n"/></r></p></e>
 
@@ -13577,19 +13569,15 @@
 
 <e>       <p><l>école<s n="n"/></l>                    <r>scuola<s n="n"/></r></p></e>
 
+<e>       <p><l>écolier<s n="n"/></l>                  <r>scolare<s n="n"/></r></p></e>
+
 <e>       <p><l>écolier<s n="n"/></l>                  <r>collegiale<s n="n"/></r></p></e>
 
-<e>       <p><l>écolier<s n="n"/><s n="GD"/></l>       <r>scolare<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>écolier<s n="n"/><s n="GD"/></l>       <r>scolare<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>écolier<s n="n"/></l>                  <r>scolare<s n="n"/></r></p></e>
 
 <e>       <p><l>économie<s n="n"/></l>                 <r>economia<s n="n"/></r></p></e>
 
-<e>       <p><l>économiste<s n="n"/></l>               <r>economista<s n="n"/><s n="GD"/></r></p></e>
-
-<e>       <p><l>économiste<s n="n"/></l>               <r>economista<s n="n"/><s n="m"/></r></p></e>
-
-<e>       <p><l>économiste<s n="n"/></l>               <r>economista<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>économiste<s n="n"/></l>               <r>economista<s n="n"/></r></p></e>
 
 <e>       <p><l>écosystème<s n="n"/></l>               <r>ecosistema<s n="n"/></r></p></e>
 
@@ -13611,7 +13599,7 @@
 
 <e>       <p><l>édition<s n="n"/></l>                  <r>edizione<s n="n"/></r></p></e>
 
-<e>       <p><l>édito<s n="n"/><s n="m"/></l>          <r>editoriale<s n="n"/></r></p></e>
+<e>       <p><l>édito<s n="n"/></l>                    <r>editoriale<s n="n"/></r></p></e>
 
 <e>       <p><l>éditorial<s n="n"/><s n="m"/></l>      <r>editoriale<s n="n"/></r></p></e>
 
@@ -13687,9 +13675,7 @@
 
 <e>       <p><l>époque<s n="n"/></l>                   <r>epoca<s n="n"/></r></p></e>
 
-<e>       <p><l>époux<s n="n"/><s n="f"/></l>          <r>sposo<s n="n"/></r></p></e>
-
-<e>       <p><l>époux<s n="n"/><s n="m"/><s n="sp"/></l><r>sposo<s n="n"/></r></p></e>
+<e>       <p><l>époux<s n="n"/></l>                    <r>sposo<s n="n"/></r></p></e>
 
 <e>       <p><l>épreuve<s n="n"/></l>                  <r>prova<s n="n"/></r></p></e>
 
@@ -13761,7 +13747,7 @@
 
 <e>       <p><l>évacuation<s n="n"/></l>               <r>evacuazione<s n="n"/></r></p></e>
 
-<e>       <p><l>évacuation<s n="n"/></l>               <r>evacuamento<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>évacuation<s n="n"/><s n="f"/></l>     <r>evacuamento<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>évaluation<s n="n"/></l>               <r>valutazione<s n="n"/></r></p></e>
 
