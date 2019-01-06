@@ -688,6 +688,8 @@
 
 <e>       <p><l>commun<s n="adj"/><s n="GD"/></l>      <r>comune<s n="adj"/></r></p></e>
 
+<e>       <p><l>communautaire<s n="adj"/></l>          <r>comunitario<s n="adj"/></r></p></e>
+
 <e>       <p><l>communiste<s n="adj"/></l>             <r>comunista<s n="adj"/><s n="GD"/></r></p></e>
 
 <e>       <p><l>communiste<s n="adj"/></l>             <r>comunista<s n="adj"/><s n="m"/></r></p></e>
@@ -696,9 +698,13 @@
 
 <e>       <p><l>compatible<s n="adj"/></l>             <r>compatibile<s n="adj"/></r></p></e>
 
+<e>       <p><l>compétitif<s n="adj"/></l>             <r>competitivo<s n="adj"/></r></p></e>
+
 <e>       <p><l>complexe<s n="adj"/><s n="mf"/></l>    <r>complesso<s n="adj"/></r></p></e>
 
 <e>       <p><l>compréhensible<s n="adj"/></l>         <r>comprensibile<s n="adj"/></r></p></e>
+
+<e>       <p><l>concret<s n="adj"/></l>                <r>concreto<s n="adj"/></r></p></e>
 
 <e>       <p><l>conflictuel<s n="adj"/></l>            <r>conflittuale<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -1483,6 +1489,8 @@
 
 <e>       <p><l>habituel<s n="adj"/><s n="GD"/></l>    <r>abituale<s n="adj"/></r></p></e>
 
+<e>       <p><l>haut<s n="adj"/></l>                   <r>alto<s n="adj"/></r></p></e>
+
 <e>       <p><l>hebdomadaire<s n="adj"/></l>           <r>settimanale<s n="adj"/></r></p></e>
 
 <e>       <p><l>hermétique<s n="adj"/><s n="mf"/></l>  <r>ermetico<s n="adj"/></r></p></e>
@@ -1496,6 +1504,8 @@
 <e>       <p><l>historique<s n="adj"/></l>             <r>storico<s n="adj"/></r></p></e>
 
 <e>       <p><l>historique<s n="adj"/><s n="mf"/></l>  <r>storico<s n="adj"/></r></p></e>
+
+<e>       <p><l>homophobe<s n="adj"/></l>             <r>omofobo<s n="adj"/></r></p></e>
 
 <e>       <p><l>hongrois<s n="adj"/><s n="f"/></l>     <r>ungherese<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -1538,6 +1548,8 @@
 <e>       <p><l>idéal<s n="adj"/><s n="m"/></l>        <r>ideale<s n="adj"/></r></p></e>
 
 <e>       <p><l>idéal<s n="adj"/><s n="GD"/></l>       <r>ideale<s n="adj"/></r></p></e>
+
+<e>       <p><l>ignoble<s n="adj"/></l>                <r>ignobile<s n="adj"/></r></p></e>
 
 <e>       <p><l>illégal<s n="adj"/><s n="f"/></l>      <r>illegale<s n="adj"/></r></p></e>
 
@@ -1612,6 +1624,8 @@
 <e>       <p><l>inconditionnel<s n="adj"/><s n="m"/></l><r>incondizionale<s n="adj"/></r></p></e>
 
 <e>       <p><l>inconditionnel<s n="adj"/><s n="GD"/></l><r>incondizionale<s n="adj"/></r></p></e>
+
+<e>       <p><l>incontrôlé<s n="adj"/></l>              <r>incontrollato<s n="adj"/></r></p></e>
 
 <e>       <p><l>indien<s n="adj"/></l>                 <r>indio<s n="adj"/></r></p></e>
 
@@ -2005,6 +2019,8 @@
 
 <e>       <p><l>malin<s n="adj"/></l>                  <r>astuto<s n="adj"/></r></p></e>
 
+<e>       <p><l>malsain<s n="adj"/></l>                <r>malsano<s n="adj"/></r></p></e>
+
 <e>       <p><l>manuscrit<s n="adj"/></l>              <r>manoscritto<s n="adj"/></r></p></e>
 
 <e>       <p><l>marginal<s n="adj"/><s n="f"/></l>     <r>marginale<s n="adj"/></r></p></e>
@@ -2293,6 +2309,8 @@
 <e>       <p><l>néolibéral<s n="adj"/><s n="m"/></l>   <r>neoliberale<s n="adj"/></r></p></e>
 
 <e>       <p><l>néolibéral<s n="adj"/><s n="GD"/></l>  <r>neoliberale<s n="adj"/></r></p></e>
+
+<e>       <p><l>nocif<s n="adj"/></l>                  <r>nocivo<s n="adj"/></r></p></e>
 
 <e>       <p><l>objectif<s n="adj"/></l>               <r>obiettivo<s n="adj"/></r></p></e>
 
@@ -2682,6 +2700,8 @@
 
 <e>       <p><l>périphérique<s n="adj"/><s n="mf"/></l><r>periferico<s n="adj"/></r></p></e>
 
+<e>       <p><l>portuaire<s n="adj"/><s n="mf"/></l>   <r>portuale<s n="adj"/></r></p></e>
+
 <e>       <p><l>quantitatif<s n="adj"/></l>            <r>quantitativo<s n="adj"/></r></p></e>
 
 <e>       <p><l>quatorzième<s n="adj"/><s n="mf"/></l> <r>quattordicesimo<s n="adj"/></r></p></e>
@@ -3028,6 +3048,8 @@
 <e>       <p><l>stupide<s n="adj"/><s n="mf"/></l>     <r>stupido<s n="adj"/></r></p></e>
 
 <e>       <p><l>stérile<s n="adj"/></l>                <r>sterile<s n="adj"/></r></p></e>
+
+<e>       <p><l>strict<s n="adj"/></l>                 <r>rigoroso<s n="adj"/></r></p></e>
 
 <e>       <p><l>subjectif<s n="adj"/></l>              <r>soggettivo<s n="adj"/></r></p></e>
 
@@ -3957,6 +3979,8 @@
 
 <e>       <p><l>favorablement<s n="adv"/></l>          <r>favorevolmente<s n="adv"/></r></p></e>
 
+<e>       <p><l>fermement<s n="adv"/></l>              <r>fermamente<s n="adv"/></r></p></e>
+ 
 <e>       <p><l>fidèlement<s n="adv"/></l>             <r>fedelmente<s n="adv"/></r></p></e>
 
 <e>       <p><l>finalement<s n="adv"/></l>             <r>finalmente<s n="adv"/></r></p></e>
@@ -4434,6 +4458,8 @@
 <e>       <p><l>soigneusement<s n="adv"/></l>          <r>accuratamente<s n="adv"/></r></p></e>
 
 <e>       <p><l>soigneusement<s n="adv"/></l>          <r>certosinamente<s n="adv"/></r></p></e>
+
+<e>       <p><l>solennellement<s n="adv"/></l>          <r>solennemente<s n="adv"/></r></p></e>
 
 <e>       <p><l>souvent<s n="adv"/></l>                <r>spesso<s n="adv"/></r></p></e>
 
@@ -5361,6 +5387,8 @@
 <e>       <p><l>analyste<s n="n"/></l>                 <r>analista<s n="n"/></r></p></e>
 
 <e>       <p><l>anarchisme<s n="n"/></l>               <r>anarchismo<s n="n"/></r></p></e>
+
+<e>       <p><l>anathème<s n="n"/></l>                 <r>anatema<s n="n"/></r></p></e>
 
 <e>       <p><l>anchois<s n="n"/><s n="m"/><s n="sp"/></l><r>acciuga<s n="n"/></r></p></e>
 
@@ -6613,6 +6641,8 @@
 
 <e>       <p><l>cochon<s n="n"/><s n="m"/></l>         <r>porco<s n="n"/></r></p></e>
 
+<e>       <p><l>concitoyen<s n="n"/><s n="m"/></l>         <r>concittadino<s n="n"/></r></p></e>
+
 <e>       <p><l>cocktail<s n="n"/></l>                 <r>cocktail<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>code<s n="n"/></l>                     <r>codice<s n="n"/></r></p></e>
@@ -6830,6 +6860,8 @@
 <e>       <p><l>concert<s n="n"/></l>                  <r>trattativa<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>concertation<s n="n"/></l>             <r>concertazione<s n="n"/></r></p></e>
+
+<e>       <p><l>conception<s n="n"/></l>               <r>concezione<s n="n"/></r></p></e>
 
 <e>       <p><l>concession<s n="n"/></l>               <r>concessione<s n="n"/></r></p></e>
 
@@ -8609,6 +8641,8 @@
 
 <e>       <p><l>garage<s n="n"/></l>                   <r>garage<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
+<e>       <p><l>garant<s n="n"/></l>                   <r>garante<s n="n"/></r></p></e>
+
 <e>       <p><l>garantie<s n="n"/></l>                 <r>garanzia<s n="n"/></r></p></e>
 
 <e>       <p><l>garde<s n="n"/></l>                    <r>guardia<s n="n"/></r></p></e>
@@ -8893,6 +8927,8 @@
 
 <e c="F? en francés?"><p><l>homophobie<s n="n"/></l>   <r>omofobia<s n="n"/></r></p></e>
 
+<e>       <p><l>homophobe<s n="n"/></l>                <r>omofobo<s n="n"/></r></p></e>
+
 <e>       <p><l>homosexualité<s n="n"/></l>            <r>omosessualità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>homosexuel<s n="n"/><s n="f"/></l>     <r>omosessuale<s n="n"/></r></p></e>
@@ -8928,6 +8964,8 @@
 <e>       <p><l>hostilité<s n="n"/></l>                <r>ostilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>huile<s n="n"/><s n="f"/></l>          <r>olio<s n="n"/></r></p></e>
+
+<e>       <p><l>humanisme<s n="n"/></l>                 <r>umanesimo<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>humanité<s n="n"/></l>                 <r>umanità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
@@ -9110,6 +9148,8 @@
 <e>       <p><l>incompréhension<s n="n"/></l>          <r>incomprensione<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>incorporation<s n="n"/></l>            <r>incorporazione<s n="n"/></r></p></e>
+
+<e>       <p><l>inculpation<s n="n"/></l>              <r>accusa<s n="n"/></r></p></e>
 
 <e>       <p><l>index<s n="n"/><s n="m"/><s n="sp"/></l><r>indice<s n="n"/></r></p></e>
 
@@ -10911,6 +10951,8 @@
 
 <e>       <p><l>pas<s n="n"/><s n="m"/><s n="sp"/></l> <r>attraversamento<s n="n"/></r></p></e>
 
+<e>       <p><l>passage<s n="n"/></l>                  <r>passaggio<s n="n"/></r></p></e>
+
 <e>       <p><l>passeport<s n="n"/></l>                <r>passaporto<s n="n"/></r></p></e>
 
 <e>       <p><l>passion<s n="n"/></l>                  <r>passione<s n="n"/></r></p></e>
@@ -12409,6 +12451,8 @@
 
 <e>       <p><l>sensation<s n="n"/></l>                <r>sensazione<s n="n"/></r></p></e>
 
+<e>       <p><l>sensibilisation<s n="n"/></l>          <r>sensibilizzazione<s n="n"/></r></p></e>
+
 <e>       <p><l>sensibilité<s n="n"/></l>              <r>sensibilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>sensualité<s n="n"/></l>               <r>sensualità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -12679,6 +12723,8 @@
 
 <e>       <p><l>statue<s n="n"/></l>                   <r>statua<s n="n"/></r></p></e>
 
+<e>       <p><l>statut<s n="n"/></l>                   <r>statuto<s n="n"/></r></p></e>
+
 <e>       <p><l>steward<s n="n"/><s n="mf"/></l>       <r>cameriere<s n="n"/></r></p></e>
 
 <e>       <p><l>stimulant<s n="n"/></l>                <r>incentivo<s n="n"/></r></p></e>
@@ -12849,6 +12895,8 @@
 
 <e>       <p><l>séquence<s n="n"/></l>                 <r>sequenza<s n="n"/></r></p></e>
 
+<e>       <p><l>stéréotype<s n="n"/></l>                 <r>stereotipo<s n="n"/></r></p></e>
+
 <e>       <p><l>série<s n="n"/></l>                    <r>serie<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>sûreté<s n="n"/></l>                   <r>sicurezza<s n="n"/></r></p></e>
@@ -13008,6 +13056,8 @@
 <e>       <p><l>toilette<s n="n"/><s n="f"/></l>       <r>bagno<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>toilette<s n="n"/><s n="f"/></l>       <r>balneazione<s n="n"/><s n="f"/></r></p></e>
+
+<e>       <p><l>tolérance<s n="n"/></l>                 <r>tolleranza<s n="n"/></r></p></e>
 
 <e>       <p><l>ton<s n="n"/></l>                      <r>tono<s n="n"/></r></p></e>
 
@@ -13366,6 +13416,8 @@
 <e>       <p><l>vieillard<s n="n"/></l>                <r>anziano<s n="n"/></r></p></e>
 
 <e c="new-category"><p><l>vierge<s n="n"/></l>         <r>vergine<s n="n"/></r></p></e>
+
+<e>       <p><l>vigilance<s n="n"/></l>                <r>vigilanza<s n="n"/></r></p></e>
 
 <e>       <p><l>vigile<s n="n"/><s n="m"/></l>         <r>sorvegliante<s n="n"/><s n="m"/></r></p></e>
 
@@ -16828,6 +16880,8 @@
 
 <e>       <p><l>aller<s n="vblex"/></l>                <r>andare<s n="vblex"/></r></p></e>
 
+<e>       <p><l>allier<s n="vblex"/></l>                <r>legare<s n="vblex"/></r></p></e>
+
 <e>       <p><l>allouer<s n="vblex"/></l>              <r>concedere<s n="vblex"/></r></p></e>
 
 <e>       <p><l>allumer<s n="vblex"/></l>              <r>accendere<s n="vblex"/></r></p></e>
@@ -16996,6 +17050,8 @@
 
 <e>       <p><l>battre<s n="vblex"/></l>               <r>battere<s n="vblex"/></r></p></e>
 
+<e>       <p><l>bénéficier<s n="vblex"/></l>           <r>beneficiare<s n="vblex"/></r></p></e>
+
 <e>       <p><l>bloquer<s n="vblex"/></l>              <r>bloccare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>boire<s n="vblex"/></l>                <r>bere<s n="vblex"/></r></p></e>
@@ -17117,6 +17173,8 @@
 <e>       <p><l>coller<s n="vblex"/></l>               <r>attaccare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>coller<s n="vblex"/></l>               <r>incollare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>combattre<s n="vblex"/></l>             <r>combattere<s n="vblex"/></r></p></e>
 
 <e>       <p><l>combiner<s n="vblex"/></l>             <r>combinare<s n="vblex"/></r></p></e>
 
@@ -17325,6 +17383,8 @@
 <e>       <p><l>danser<s n="vblex"/></l>               <r>ballare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>dater<s n="vblex"/></l>                <r>datare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>débattre<s n="vblex"/></l>             <r>dibattere<s n="vblex"/></r></p></e>
 
 <e>       <p><l>demander<s n="vblex"/></l>             <r>chiedere<s n="vblex"/></r></p></e>
 
@@ -17555,6 +17615,8 @@
 <e>       <p><l>empêcher<s n="vblex"/></l>             <r>impedire<s n="vblex"/></r></p></e>
 
 <e>       <p><l>encaisser<s n="vblex"/></l>            <r>mettere<s n="vblex"/></r></p></e>
+
+<e>       <p><l>enchaîner<s n="vblex"/></l>            <r>incatenare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>enchanter<s n="vblex"/></l>            <r>incantare<s n="vblex"/></r></p></e>
 
@@ -17811,6 +17873,8 @@
 <e>       <p><l>impliquer<s n="vblex"/></l>            <r>implicare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>importer<s n="vblex"/></l>             <r>importare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>imposer<s n="vblex"/></l>              <r>imporre<s n="vblex"/></r></p></e>
 
 <e>       <p><l>impressionner<s n="vblex"/></l>        <r>impressionare<s n="vblex"/></r></p></e>
 
@@ -18460,6 +18524,8 @@
 
 <e>       <p><l>reperdre<s n="vblex"/></l>             <r>perdere<s n="vblex"/></r></p></e>
 
+<e>       <p><l>reposer<s n="vblex"/></l>              <r>riposare<s n="vblex"/></r></p></e>
+
 <e>       <p><l>repousser<s n="vblex"/></l>            <r>rifiutare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>représenter<s n="vblex"/></l>          <r>rappresentare<s n="vblex"/></r></p></e>
@@ -18692,6 +18758,8 @@
 
 <e>       <p><l>stimuler<s n="vblex"/></l>             <r>impulsare<s n="vblex"/></r></p></e>
 
+<e>       <p><l>subir<s n="vblex"/></l>                <r>subire<s n="vblex"/></r></p></e>
+
 <e>       <p><l>substituer<s n="vblex"/></l>           <r>sostituire<s n="vblex"/></r></p></e>
 
 <e>       <p><l>subventionner<s n="vblex"/></l>        <r>sovvenzionare<s n="vblex"/></r></p></e>
@@ -18855,6 +18923,8 @@
 <e>       <p><l>valoir<s n="vblex"/></l>               <r>valere<s n="vblex"/></r></p></e>
 
 <e>       <p><l>varier<s n="vblex"/></l>               <r>variare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>veiller<s n="vblex"/></l>               <r>vegliare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>vendre<s n="vblex"/></l>               <r>vendere<s n="vblex"/></r></p></e>
 
