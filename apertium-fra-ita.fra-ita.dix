@@ -1525,6 +1525,8 @@
 
 <e>       <p><l>hostile<s n="adj"/></l>                <r>ostile<s n="adj"/></r></p></e>
 
+<e>       <p><l>humiliant<s n="adj"/></l>              <r>umiliante<s n="adj"/></r></p></e>
+
 <e>       <p><l>humain<s n="adj"/></l>                 <r>umano<s n="adj"/></r></p></e>
 
 <e>       <p><l>humanitaire<s n="adj"/><s n="mf"/></l> <r>umanitario<s n="adj"/></r></p></e>
@@ -3960,6 +3962,8 @@
 <e>       <p><l>excessivement<s n="adv"/></l>          <r>eccessivamente<s n="adv"/></r></p></e>
 
 <e>       <p><l>exclusivement<s n="adv"/></l>          <r>esclusivamente<s n="adv"/></r></p></e>
+
+<e>       <p><l>explicitement<s n="adv"/></l>           <r>esplicitamente<s n="adv"/></r></p></e>
 
 <e>       <p><l>expressément<s n="adv"/></l>           <r>espressamente<s n="adv"/></r></p></e>
 
@@ -10921,6 +10925,8 @@
 
 <e>       <p><l>partage<s n="n"/></l>                  <r>riparto<s n="n"/></r></p></e>
 
+<e>       <p><l>partenaire<s n="n"/></l>               <r>partner<s n="n"/></r></p></e>
+
 <e>       <p><l>partenariat<s n="n"/><s n="m"/></l>    <r>cooperazione<s n="n"/></r></p></e>
 
 <e>       <p><l>parti<s n="n"/></l>                    <r>partito<s n="n"/></r></p></e>
@@ -12026,6 +12032,8 @@
 <e>       <p><l>revolver<s n="n"/></l>                 <r>rivoltella<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>revue<s n="n"/></l>                    <r>rivista<s n="n"/></r></p></e>
+
+<e>       <p><l>rejet<s n="n"/></l>                    <r>rifiuto<s n="n"/></r></p></e>
 
 <e>       <p><l>rhumb<s n="n"/></l>                    <r>rotta<s n="n"/><s n="f"/></r></p></e>
 
