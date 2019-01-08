@@ -1124,6 +1124,8 @@
 
 <e>       <p><l>européen<s n="adj"/></l>               <r>europeo<s n="adj"/></r></p></e>
 
+<e>       <p><l>ethnique<s n="adj"/></l>               <r>etnico<s n="adj"/></r></p></e>
+
 <e>       <p><l>ex<s n="adj"/></l>                     <r>ex<s n="adj"/></r></p></e>
 
 <e>       <p><l>exact<s n="adj"/></l>                  <r>esatto<s n="adj"/></r></p></e>
@@ -1489,6 +1491,8 @@
 
 <e>       <p><l>habituel<s n="adj"/><s n="GD"/></l>    <r>abituale<s n="adj"/></r></p></e>
 
+<e>       <p><l>handicapé<s n="adj"/></l>              <r>handicappato<s n="adj"/></r></p></e>
+
 <e>       <p><l>haut<s n="adj"/></l>                   <r>alto<s n="adj"/></r></p></e>
 
 <e>       <p><l>hebdomadaire<s n="adj"/></l>           <r>settimanale<s n="adj"/></r></p></e>
@@ -1598,6 +1602,8 @@
 <e>       <p><l>inacceptable<s n="adj"/></l>           <r>inaccettabile<s n="adj"/></r></p></e>
 
 <e>       <p><l>inaccoutumé<s n="adj"/></l>            <r>insolito<s n="adj"/></r></p></e>
+
+<e>       <p><l>inadmissible<s n="adj"/></l>            <r>inammissibile<s n="adj"/></r></p></e>
 
 <e>       <p><l>inaugural<s n="adj"/><s n="f"/></l>    <r>inaugurale<s n="adj"/></r></p></e>
 
@@ -2470,6 +2476,8 @@
 
 <e>       <p><l>plein<s n="adj"/></l>                  <r>pieno<s n="adj"/></r></p></e>
 
+<e>       <p><l>plénier<s n="adj"/></l>                <r>plenario<s n="adj"/></r></p></e>
+
 <e>       <p><l>pluriannuel<s n="adj"/><s n="f"/></l>  <r>pluriennale<s n="adj"/></r></p></e>
 
 <e>       <p><l>pluriannuel<s n="adj"/><s n="m"/></l>  <r>pluriennale<s n="adj"/></r></p></e>
@@ -2501,6 +2509,8 @@
 <e>       <p><l>policier<s n="adj"/><s n="GD"/></l>    <r>poliziesco<s n="adj"/><s n="f"/></r></p></e>
 
 <e>       <p><l>politique<s n="adj"/><s n="mf"/></l>   <r>politico<s n="adj"/></r></p></e>
+
+<e>       <p><l>polonais<s n="adj"/><s n="mf"/></l>    <r>polacco<s n="adj"/></r></p></e>
 
 <e>       <p><l>ponctuel<s n="adj"/><s n="f"/></l>     <r>puntuale<s n="adj"/></r></p></e>
 
@@ -2761,6 +2771,12 @@
 <e>       <p><l>religieux<s n="adj"/><s n="m"/><s n="sp"/></l><r>religioso<s n="adj"/></r></p></e>
 
 <e>       <p><l>renouvelable<s n="adj"/></l>           <r>rinnovabile<s n="adj"/></r></p></e>
+
+<e>       <p><l>résident<s n="adj"/></l>               <r>residente<s n="adj"/></r></p></e>
+
+<e>       <p><l>ressortissant<s n="adj"/></l>          <r>cittadino<s n="adj"/></r></p></e>
+
+<e>       <p><l>respectif<s n="adj"/></l>              <r>rispettivo<s n="adj"/></r></p></e>
 
 <e>       <p><l>responsable<s n="adj"/></l>            <r>responsabile<s n="adj"/></r></p></e>
 
@@ -3055,6 +3071,8 @@
 
 <e>       <p><l>subjectif<s n="adj"/></l>              <r>soggettivo<s n="adj"/></r></p></e>
 
+<e>       <p><l>substantiel<s n="adj"/></l>            <r>sostanziale<s n="adj"/></r></p></e>
+
 <e>       <p><l>subtil<s n="adj"/><s n="f"/></l>       <r>sottile<s n="adj"/></r></p></e>
 
 <e>       <p><l>subtil<s n="adj"/><s n="m"/></l>       <r>sottile<s n="adj"/></r></p></e>
@@ -3183,6 +3201,8 @@
 
 <e>       <p><l>théâtral<s n="adj"/><s n="GD"/></l>    <r>teatrale<s n="adj"/></r></p></e>
 
+<e>       <p><l>tiède<s n="adj"/></l>                  <r>tiepido<s n="adj"/></r></p></e>
+
 <e>       <p><l>timide<s n="adj"/><s n="mf"/></l>      <r>timido<s n="adj"/></r></p></e>
 
 <e>       <p><l>total<s n="adj"/><s n="f"/></l>        <r>totale<s n="adj"/></r></p></e>
@@ -3252,6 +3272,8 @@
 <e>       <p><l>typique<s n="adj"/><s n="mf"/></l>     <r>tipico<s n="adj"/></r></p></e>
 
 <e>       <p><l>téléphonique<s n="adj"/><s n="mf"/></l><r>telefonico<s n="adj"/></r></p></e>
+
+<e>       <p><l>tzigane<s n="adj"/></l>                <r>zingaro<s n="adj"/></r></p></e>
 
 <e>       <p><l>ultime<s n="adj"/><s n="mf"/></l>      <r>ultimo<s n="adj"/></r></p></e>
 
@@ -6585,6 +6607,8 @@
 
 <e>       <p><l>cité<s n="n"/></l>                     <r>città<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
+<e>       <p><l>citoyenneté<s n="n"/></l>              <r>cittadinanza<s n="n"/></r></p></e>
+
 <e>       <p><l>civil<s n="n"/><s n="f"/></l>          <r>civile<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>civil<s n="n"/><s n="m"/></l>          <r>civile<s n="n"/><s n="m"/></r></p></e>
@@ -9237,6 +9261,8 @@
 
 <e>       <p><l>injection<s n="n"/></l>                <r>iniezione<s n="n"/></r></p></e>
 
+<e>       <p><l>injure<s n="n"/></l>                   <r>ingiuria<s n="n"/></r></p></e>
+
 <e>       <p><l>injustice<s n="n"/></l>                <r>ingiustizia<s n="n"/></r></p></e>
 
 <e>       <p><l>innocence<s n="n"/></l>                <r>innocenza<s n="n"/></r></p></e>
@@ -10957,6 +10983,8 @@
 
 <e>       <p><l>pas<s n="n"/><s n="m"/><s n="sp"/></l> <r>attraversamento<s n="n"/></r></p></e>
 
+<e>       <p><l>pasteur<s n="n"/></l>                  <r>pastore<s n="n"/></r></p></e>
+
 <e>       <p><l>passage<s n="n"/></l>                  <r>passaggio<s n="n"/></r></p></e>
 
 <e>       <p><l>passeport<s n="n"/></l>                <r>passaporto<s n="n"/></r></p></e>
@@ -11757,6 +11785,8 @@
 
 <e>       <p><l>pêcheur<s n="n"/></l>                  <r>pescatore<s n="n"/></r></p></e>
 
+<e>       <p><l>"pieu"<s n="n"/></l>                   <r>pio<s n="n"/></r></p></e>
+
 <e>       <p><l>pôle<s n="n"/></l>                     <r>polo<s n="n"/></r></p></e>
 
 <e>       <p><l>qualification<s n="n"/></l>            <r>qualificazione<s n="n"/></r></p></e>
@@ -11834,6 +11864,8 @@
 <e>       <p><l>rapidité<s n="n"/></l>                 <r>rapidità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>rapport<s n="n"/></l>                  <r>relazione<s n="n"/><s n="f"/></r></p></e>
+
+<e>       <p><l>rapporteur<s n="n"/></l>               <r>relatore<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>rapprochement<s n="n"/><s n="f"/></l>  <r>avvicinamento<s n="n"/></r></p></e>
 
@@ -11986,6 +12018,10 @@
 <e>       <p><l>requin<s n="n"/></l>                   <r>squalo<s n="n"/></r></p></e>
 
 <e>       <p><l>requête<s n="n"/><s n="f"/></l>        <r>incarico<s n="n"/></r></p></e>
+
+<e>       <p><l>résident<s n="n"/></l>                 <r>residente<s n="n"/></r></p></e>
+
+<e>       <p><l>ressortissant<s n="n"/></l>            <r>cittadino<s n="n"/></r></p></e>
 
 <e>       <p><l>respect<s n="n"/></l>                  <r>rispetto<s n="n"/></r></p></e>
 
@@ -13499,7 +13535,9 @@
 
 <e>       <p><l>vodka<s n="n"/><s n="f"/></l>          <r>vodka<s n="n"/></r></p></e>
 
-<e>       <p><l>voeu<s n="n"/></l>                     <r>voto<s n="n"/></r></p></e>
+<e>       <p><l>voeu<s n="n"/></l>                     <r>augurio<s n="n"/></r></p></e>
+
+<e>       <p><l>vœu<s n="n"/></l>                      <r>augurio<s n="n"/></r></p></e>
 
 <e>       <p><l>voie<s n="n"/></l>                     <r>via<s n="n"/></r></p></e>
 
@@ -18504,6 +18542,8 @@
 
 <e>       <p><l>remarquer<s n="vblex"/></l>            <r>osservare<s n="vblex"/></r></p></e>
 
+<e>       <p><l>remercier<s n="vblex"/></l>             <r>ringraziare<s n="vblex"/></r></p></e>
+
 <e>       <p><l>remettre<s n="vblex"/></l>             <r>mettere<s n="vblex"/></r></p></e>
 
 <e>       <p><l>remettre<g><b/>en<b/>question</g><s n="vblex"/></l><r>questionare<s n="vblex"/></r></p></e>
@@ -18536,9 +18576,13 @@
 
 <e>       <p><l>repousser<s n="vblex"/></l>            <r>rifiutare<s n="vblex"/></r></p></e>
 
+<e>       <p><l>reprendre<s n="vblex"/></l>            <r>riprendere<s n="vblex"/></r></p></e>
+
 <e>       <p><l>représenter<s n="vblex"/></l>          <r>rappresentare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>requérir<s n="vblex"/></l>             <r>richiedere<s n="vblex"/></r></p></e>
+
+<e>       <p><l>résider<s n="vblex"/></l>              <r>risiedere<s n="vblex"/></r></p></e>
 
 <e>       <p><l>respirer<s n="vblex"/></l>             <r>respirare<s n="vblex"/></r></p></e>
 
