@@ -1084,6 +1084,8 @@
 
 <e>       <p><l>déterminant<s n="adj"/><s n="GD"/></l> <r>determinante<s n="adj"/></r></p></e>
 
+<e>       <p><l>dévastateur<s n="adj"/></l>            <r>devastatore<s n="adj"/></r></p></e>
+
 <e>       <p><l>ecclésiastique<s n="adj"/><s n="mf"/></l><r>ecclesiastico<s n="adj"/></r></p></e>
 
 <e>       <p><l>effectif<s n="adj"/></l>               <r>effettivo<s n="adj"/></r></p></e>
@@ -2079,6 +2081,8 @@
 
 <e>       <p><l>maximal<s n="adj"/></l>                <r>massimo<s n="adj"/></r></p></e>
 
+<e>       <p><l>médiatique<s n="adj"/></l>             <r>mediatico<s n="adj"/></r></p></e>
+
 <e>       <p><l>meilleur<s n="adj"/><s n="f"/></l>     <r>migliore<s n="adj"/></r></p></e>
 
 <e>       <p><l>meilleur<s n="adj"/><s n="m"/></l>     <r>migliore<s n="adj"/></r></p></e>
@@ -2351,6 +2355,8 @@
 <e>       <p><l>ombilical<s n="adj"/><s n="GD"/></l>   <r>ombelicale<s n="adj"/></r></p></e>
 
 <e>       <p><l>onzième<s n="adj"/><s n="mf"/></l>     <r>undicesimo<s n="adj"/></r></p></e>
+
+<e>       <p><l>"opérationnel"<s n="adj"/></l>         <r>operativo<s n="adj"/></r></p></e>
 
 <e>       <p><l>opposé<s n="adj"/></l>                 <r>opposto<s n="adj"/></r></p></e>
 
@@ -2682,6 +2688,8 @@
 
 <e>       <p><l>psychique<s n="adj"/><s n="mf"/></l>   <r>psichico<s n="adj"/></r></p></e>
 
+<e>       <p><l>psychologique<s n="adj"/></l>          <r>psicologico<s n="adj"/></r></p></e>
+
 <e>       <p><l>public<s n="adj"/></l>                 <r>pubblico<s n="adj"/></r></p></e>
 
 <e>       <p><l>publicitaire<s n="adj"/><s n="mf"/></l><r>pubblicitario<s n="adj"/></r></p></e>
@@ -2771,6 +2779,8 @@
 <e>       <p><l>religieux<s n="adj"/><s n="m"/><s n="sp"/></l><r>religioso<s n="adj"/></r></p></e>
 
 <e>       <p><l>renouvelable<s n="adj"/></l>           <r>rinnovabile<s n="adj"/></r></p></e>
+
+<e>       <p><l>récurrent<s n="adj"/></l>              <r>ricorrente<s n="adj"/></r></p></e>
 
 <e>       <p><l>résident<s n="adj"/></l>               <r>residente<s n="adj"/></r></p></e>
 
@@ -3166,6 +3176,8 @@
 <e>       <p><l>terminal<s n="adj"/><s n="m"/></l>     <r>terminale<s n="adj"/></r></p></e>
 
 <e>       <p><l>terminal<s n="adj"/><s n="GD"/></l>    <r>terminale<s n="adj"/></r></p></e>
+
+<e>       <p><l>terrible<s n="adj"/></l>               <r>terribile<s n="adj"/></r></p></e>
 
 <e>       <p><l>territorial<s n="adj"/><s n="f"/></l>  <r>territoriale<s n="adj"/></r></p></e>
 
@@ -3719,9 +3731,13 @@
 
 <e>       <p><l>carrément<s n="adv"/></l>              <r>francamente<s n="adv"/></r></p></e>
 
+<e>       <p><l>carence<s n="adv"/></l>                <r>carenza<s n="adv"/></r></p></e>
+ 
 <e>       <p><l>catégoriquement<s n="adv"/></l>        <r>categoricamente<s n="adv"/></r></p></e>
 
 <e>       <p><l>certainement<s n="adv"/></l>           <r>sicuramente<s n="adv"/></r></p></e>
+
+<e>       <p><l>chaleureusement<s n="adv"/></l>        <r>calorosamente<s n="adv"/></r></p></e>
 
 <e>       <p><l>chaque<b/>semaine<s n="adv"/></l>      <r>settimanalmente<s n="adv"/></r></p></e>
 
@@ -6683,7 +6699,11 @@
 
 <e>       <p><l>coeur<s n="n"/></l>                    <r>cuore<s n="n"/></r></p></e>
 
+<e>       <p><l>cœur<s n="n"/></l>                     <r>cuore<s n="n"/></r></p></e>
+
 <e>       <p><l>coeur<s n="n"/></l>                    <r>coro<s n="n"/></r></p></e>
+
+<e>       <p><l>cœur<s n="n"/></l>                    <r>coro<s n="n"/></r></p></e>
 
 <e>       <p><l>coexistence<s n="n"/></l>              <r>coesistenza<s n="n"/></r></p></e>
 
@@ -7567,6 +7587,8 @@
 
 <e>       <p><l>diversification<s n="n"/></l>          <r>diversificazione<s n="n"/></r></p></e>
 
+<e>       <p><l>divergence<s n="n"/></l>               <r>divergenza<s n="n"/></r></p></e>
+
 <e>       <p><l>diversité<s n="n"/></l>                <r>diversità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>divertissement<s n="n"/><s n="m"/></l> <r>divertimento<s n="n"/><s n="m"/></r></p></e>
@@ -8074,6 +8096,8 @@
 <e>       <p><l>escalade<s n="n"/></l>                 <r>arrampicata<s n="n"/></r></p></e>
 
 <e>       <p><l>escalier<s n="n"/><s n="m"/></l>       <r>scala<s n="n"/></r></p></e>
+
+<e>       <p><l>esclavage<s n="n"/><s n="mf"/></l>     <r>schiavitù<s n="n"/></r></p></e>
 
 <e>       <p><l>esclave<s n="n"/><s n="mf"/></l>       <r>schiavo<s n="n"/></r></p></e>
 
@@ -9022,6 +9046,8 @@
 <e>       <p><l>hymne<s n="n"/></l>                    <r>inno<s n="n"/></r></p></e>
 
 <e>       <p><l>hyperactivité<s n="n"/></l>            <r>iperattività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+
+<e>       <p><l>hypocrisie<s n="n"/></l>              <r>ipocrisia<s n="n"/></r></p></e>
 
 <e>       <p><l>hypothermie<s n="n"/></l>              <r>ipotermia<s n="n"/></r></p></e>
 
@@ -18292,6 +18318,8 @@
 
 <e>       <p><l>perpétrer<s n="vblex"/></l>            <r>perpetrare<s n="vblex"/></r></p></e>
 
+<e>       <p><l>perpétuer<s n="vblex"/></l>            <r>perpetuare<s n="vblex"/></r></p></e>
+
 <e>       <p><l>perturber<s n="vblex"/></l>            <r>perturbare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>peser<s n="vblex"/></l>                <r>pesare<s n="vblex"/></r></p></e>
@@ -18580,6 +18608,8 @@
 
 <e>       <p><l>représenter<s n="vblex"/></l>          <r>rappresentare<s n="vblex"/></r></p></e>
 
+<e>       <p><l>reproduire<s n="vblex"/></l>           <r>riprodurre<s n="vblex"/></r></p></e>
+
 <e>       <p><l>requérir<s n="vblex"/></l>             <r>richiedere<s n="vblex"/></r></p></e>
 
 <e>       <p><l>résider<s n="vblex"/></l>              <r>risiedere<s n="vblex"/></r></p></e>
@@ -18611,6 +18641,8 @@
 <e>       <p><l>revenir<s n="vblex"/></l>              <r>tornare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>riposter<s n="vblex"/></l>             <r>replicare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>risquer<s n="vblex"/></l>             <r>rischiare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>rompre<s n="vblex"/></l>               <r>rompere<s n="vblex"/></r></p></e>
 
