@@ -1148,6 +1148,8 @@
 
 <e c="new-category"><p><l>exemplaire<s n="adj"/></l>   <r>esemplare<s n="adj"/></r></p></e>
 
+<e>       <p><l>exigeant<s n="adj"/></l>               <r>esigente<s n="adj"/></r></p></e>
+
 <e>       <p><l>exigible<s n="adj"/></l>               <r>esigibile<s n="adj"/></r></p></e>
 
 <e>       <p><l>existant<s n="adj"/><s n="f"/></l>     <r>esistente<s n="adj"/></r></p></e>
@@ -1769,6 +1771,8 @@
 
 <e>       <p><l>intense<s n="adj"/><s n="mf"/></l>     <r>intenso<s n="adj"/></r></p></e>
 
+<e>       <p><l>intérimaire<s n="adj"/></l>            <r>interinale<s n="adj"/></r></p></e>
+
 <e>       <p><l>intermédiaire<s n="adj"/><s n="mf"/></l><r>intermediario<s n="adj"/></r></p></e>
 
 <e>       <p><l>international<s n="adj"/><s n="f"/></l><r>internazionale<s n="adj"/></r></p></e>
@@ -1776,6 +1780,8 @@
 <e>       <p><l>international<s n="adj"/><s n="m"/></l><r>internazionale<s n="adj"/></r></p></e>
 
 <e>       <p><l>international<s n="adj"/><s n="GD"/></l><r>internazionale<s n="adj"/></r></p></e>
+
+<e>       <p><l>interne<s n="adj"/></l>                  <r>interno<s n="adj"/></r></p></e>
 
 <e>       <p><l>interprofessionnel<s n="adj"/><s n="f"/></l><r>interprofessionale<s n="adj"/></r></p></e>
 
@@ -1916,6 +1922,10 @@
 <e>       <p><l>latéral<s n="adj"/><s n="GD"/></l>     <r>laterale<s n="adj"/></r></p></e>
 
 <e>       <p><l>laïque<s n="adj"/><s n="mf"/></l>      <r>laico<s n="adj"/></r></p></e>
+
+<e>       <p><l>laxiste<s n="adj"/><s n="mf"/></l>      <r>lassista<s n="adj"/></r></p></e>
+
+<e>       <p><l>légitime<s n="adj"/></l>               <r>legittimo<s n="adj"/></r></p></e>
 
 <e>       <p><l>lent<s n="adj"/></l>                   <r>lento<s n="adj"/></r></p></e>
 
@@ -2127,6 +2137,8 @@
 
 <e>       <p><l>minuscule<s n="adj"/><s n="mf"/></l>   <r>minuscolo<s n="adj"/></r></p></e>
 
+<e>       <p><l>misérable<s n="adj"/></l>              <r>miserabile<s n="adj"/></r></p></e>
+
 <e>       <p><l>mobile<s n="adj"/></l>                 <r>mobile<s n="adj"/></r></p></e>
 
 <e>       <p><l>modal<s n="adj"/><s n="f"/></l>        <r>modale<s n="adj"/></r></p></e>
@@ -2176,6 +2188,8 @@
 <e>       <p><l>mortel<s n="adj"/><s n="GD"/></l>      <r>mortale<s n="adj"/></r></p></e>
 
 <e>       <p><l>moyen<s n="adj"/></l>                  <r>mezzo<s n="adj"/></r></p></e>
+
+<e>       <p><l>multilatéral<s n="adj"/></l>           <r>multilaterale<s n="adj"/></r></p></e>
 
 <e>       <p><l>multiculturel<s n="adj"/><s n="f"/></l><r>multiculturale<s n="adj"/></r></p></e>
 
@@ -3378,6 +3392,8 @@
 
 <e>       <p><l>vieux<s n="adj"/><s n="m"/><s n="sp"/></l><r>vecchio<s n="adj"/></r></p></e>
 
+<e>       <p><l>vigilant<s n="adj"/></l>                  <r>vigilante<s n="adj"/></r></p></e>
+
 <e>       <p><l>vingtième<s n="adj"/><s n="mf"/></l>   <r>ventesimo<s n="adj"/></r></p></e>
 
 <e>       <p><l>violent<s n="adj"/></l>                <r>violento<s n="adj"/></r></p></e>
@@ -3730,8 +3746,6 @@
 <e>       <p><l>brutalement<s n="adv"/></l>            <r>brutalmente<s n="adv"/></r></p></e>
 
 <e>       <p><l>carrément<s n="adv"/></l>              <r>francamente<s n="adv"/></r></p></e>
-
-<e>       <p><l>carence<s n="adv"/></l>                <r>carenza<s n="adv"/></r></p></e>
  
 <e>       <p><l>catégoriquement<s n="adv"/></l>        <r>categoricamente<s n="adv"/></r></p></e>
 
@@ -5026,6 +5040,8 @@
 
 <e>       <p><l>abolition<s n="n"/></l>                <r>abolizione<s n="n"/></r></p></e>
 
+<e>       <p><l>abomination<s n="n"/></l>              <r>abominio<s n="n"/><s n="f"/></r></p></e>
+
 <e>       <p><l>abondance<s n="n"/></l>                <r>pletora<s n="n"/></r></p></e>
 
 <e>       <p><l>abondance<s n="n"/></l>                <r>abbondanza<s n="n"/></r></p></e>
@@ -5833,6 +5849,8 @@
 
 <e>       <p><l>avatar<s n="n"/></l>                   <r>avatar<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 
+<e>       <p><l>avenir<s n="n"/></l>                    <r>futuro<s n="n"/></r></p></e>
+
 <e>       <p><l>averse<s n="n"/><s n="f"/></l>         <r>acquazzone<s n="n"/></r></p></e>
 
 <e>       <p><l>aversion<s n="n"/></l>                 <r>avversione<s n="n"/></r></p></e>
@@ -6032,6 +6050,8 @@
 <e>       <p><l>blague<s n="n"/><s n="f"/></l>         <r>barzelletta<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>blanc<s n="n"/></l>                    <r>bianco<s n="n"/></r></p></e>
+
+<e>       <p><l>blanchiment<s n="n"/></l>              <r>riciclaggio<s n="n"/></r></p></e>
 
 <e>       <p><l>blessé<s n="n"/></l>                   <r>ferito<s n="n"/></r></p></e>
 
@@ -6316,6 +6336,8 @@
 <e>       <p><l>carbone<s n="n"/></l>                  <r>carbonio<s n="n"/></r></p></e>
 
 <e>       <p><l>cardinal<s n="n"/></l>                 <r>cardinale<s n="n"/></r></p></e>
+
+<e>       <p><l>carence<s n="n"/></l>                  <r>carenza<s n="n"/></r></p></e>
 
 <e>       <p><l>caricature<s n="n"/></l>               <r>caricatura<s n="n"/></r></p></e>
 
@@ -7171,6 +7193,8 @@
 
 <e>       <p><l>cotisation<s n="n"/></l>               <r>quotazione<s n="n"/></r></p></e>
 
+<e>       <p><l>coton<s n="n"/></l>                    <r>cotone<s n="n"/></r></p></e>
+
 <e>       <p><l>cou<s n="n"/></l>                      <r>collo<s n="n"/></r></p></e>
 
 <e>       <p><l>couche<s n="n"/></l>                   <r>corteccia<s n="n"/></r></p></e>
@@ -7799,6 +7823,8 @@
 
 <e>       <p><l>délai<s n="n"/></l>                    <r>ritardo<s n="n"/></r></p></e>
 
+<e>       <p><l>délation<s n="n"/></l>                 <r>delazione<s n="n"/></r></p></e>
+
 <e>       <p><l>délibération<s n="n"/></l>             <r>deliberazione<s n="n"/></r></p></e>
 
 <e>       <p><l>délinquance<s n="n"/></l>              <r>delinquenza<s n="n"/></r></p></e>
@@ -7931,6 +7957,8 @@
 
 <e>       <p><l>détonation<s n="n"/></l>               <r>detonazione<s n="n"/></r></p></e>
 
+<e>       <p><l>détresse<s n="n"/></l>                 <r>sconforto<s n="n"/></r></p></e>
+
 <e>       <p><l>dévaluation<s n="n"/></l>              <r>svalutazione<s n="n"/></r></p></e>
 
 <e>       <p><l>dévastation<s n="n"/></l>              <r>devastazione<s n="n"/></r></p></e>
@@ -8023,6 +8051,8 @@
 
 <e>       <p><l>encolure<s n="n"/><s n="f"/></l>       <r>collo<s n="n"/></r></p></e>
 
+<e>       <p><l>encouragement<s n="n"/></l>            <r>incoraggiamento<s n="n"/></r></p></e>
+
 <e>       <p><l>encyclopédie<s n="n"/></l>             <r>enciclopedia<s n="n"/></r></p></e>
 
 <e>       <p><l>endettement<s n="n"/></l>              <r>indebitamento<s n="n"/></r></p></e>
@@ -8090,6 +8120,8 @@
 <e>       <p><l>envoi<s n="n"/></l>                    <r>spedizione<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>éponge<s n="n"/></l>                   <r>spugna<s n="n"/></r></p></e>
+
+<e>       <p><l>éradication<s n="n"/></l>              <r>estirpazione<s n="n"/></r></p></e>
 
 <e>       <p><l>erreur<s n="n"/><s n="f"/></l>         <r>errore<s n="n"/></r></p></e>
 
@@ -8372,6 +8404,8 @@
 <e>       <p><l>ferme<s n="n"/></l>                    <r>tenuta<s n="n"/></r></p></e>
 
 <e>       <p><l>fermentation<s n="n"/></l>             <r>fermentazione<s n="n"/></r></p></e>
+
+<e>       <p><l>fermeté<s n="n"/></l>                  <r>fermezza<s n="n"/></r></p></e>
 
 <e>       <p><l>fermeture<s n="n"/></l>                <r>clausura<s n="n"/></r></p></e>
 
@@ -9047,7 +9081,7 @@
 
 <e>       <p><l>hyperactivité<s n="n"/></l>            <r>iperattività<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
-<e>       <p><l>hypocrisie<s n="n"/></l>              <r>ipocrisia<s n="n"/></r></p></e>
+<e>       <p><l>hypocrisie<s n="n"/></l>               <r>ipocrisia<s n="n"/></r></p></e>
 
 <e>       <p><l>hypothermie<s n="n"/></l>              <r>ipotermia<s n="n"/></r></p></e>
 
@@ -10195,6 +10229,8 @@
 
 <e>       <p><l>mise<g><b/>hors<b/>course</g><s n="n"/></l><r>esclusione<s n="n"/></r></p></e>
 
+<e>       <p><l>misère<s n="n"/></l>                   <r>miseria<s n="n"/></r></p></e>
+
 <e>       <p><l>missile<s n="n"/><s n="f"/></l>        <r>missile<s n="n"/></r></p></e>
 
 <e>       <p><l>mission<s n="n"/></l>                  <r>missione<s n="n"/></r></p></e>
@@ -11053,6 +11089,8 @@
 
 <e>       <p><l>peau<s n="n"/><s n="f"/></l>           <r>pelle<s n="n"/></r></p></e>
 
+<e>       <p><l>péché<s n="n"/></l>                    <r>peccato<s n="n"/></r></p></e>
+
 <e>       <p><l>peine<s n="n"/></l>                    <r>pena<s n="n"/></r></p></e>
 
 <e>       <p><l>peintre<s n="n"/><s n="mf"/></l>       <r>pittore<s n="n"/></r></p></e>
@@ -11545,6 +11583,8 @@
 
 <e>       <p><l>profil<s n="n"/></l>                   <r>profilo<s n="n"/></r></p></e>
 
+<e>       <p><l>profit<s n="n"/></l>                   <r>profitto<s n="n"/></r></p></e>
+
 <e>       <p><l>profondeur<s n="n"/></l>               <r>profondità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>programmation<s n="n"/></l>            <r>programmazione<s n="n"/></r></p></e>
@@ -11814,6 +11854,8 @@
 <e>       <p><l>"pieu"<s n="n"/></l>                   <r>pio<s n="n"/></r></p></e>
 
 <e>       <p><l>pôle<s n="n"/></l>                     <r>polo<s n="n"/></r></p></e>
+
+<e>       <p><l>progression<s n="n"/></l>              <r>progressione<s n="n"/></r></p></e>
 
 <e>       <p><l>qualification<s n="n"/></l>            <r>qualificazione<s n="n"/></r></p></e>
 
@@ -12835,6 +12877,8 @@
 
 <e>       <p><l>successeur<s n="n"/></l>               <r>successore<s n="n"/><s n="m"/></r></p></e>
 
+<e>       <p><l>subvention<s n="n"/></l>               <r>sovvenzione<s n="n"/></r></p></e>
+
 <e>       <p><l>succès<s n="n"/></l>                   <r>successo<s n="n"/></r></p></e>
 
 <e>       <p><l>succès<s n="n"/></l>                   <r>esito<s n="n"/></r></p></e>
@@ -12876,6 +12920,8 @@
 <e>       <p><l>supporter<s n="n"/><s n="mf"/></l>     <r>amatore<s n="n"/></r></p></e>
 
 <e>       <p><l>supposition<s n="n"/></l>              <r>supposizione<s n="n"/></r></p></e>
+
+<e>       <p><l>suppression<s n="n"/></l>              <r>soppressione<s n="n"/></r></p></e>
 
 <e>       <p><l>supériorité<s n="n"/></l>              <r>superiorità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
@@ -17594,6 +17640,8 @@
 
 <e>       <p><l>définir<s n="vblex"/></l>              <r>definire<s n="vblex"/></r></p></e>
 
+<e>       <p><l>dégager<s n="vblex"/></l>              <r>emanare<s n="vblex"/></r></p></e>
+
 <e>       <p><l>dégrader<s n="vblex"/></l>             <r>degradare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>déguster<s n="vblex"/></l>             <r>degustare<s n="vblex"/></r></p></e>
@@ -17713,6 +17761,8 @@
 <e>       <p><l>entasser<s n="vblex"/></l>             <r>ammucchiare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>entendre<s n="vblex"/></l>             <r>sentire<s n="vblex"/></r></p></e>
+
+<e>       <p><l>enterrer<s n="vblex"/></l>             <r>seppellire<s n="vblex"/></r></p></e>
 
 <e>       <p><l>enthousiasmer<s n="vblex"/></l>        <r>entusiasmare<s n="vblex"/></r></p></e>
 
@@ -18118,6 +18168,8 @@
 
 <e>       <p><l>maintenir<s n="vblex"/></l>            <r>mantenere<s n="vblex"/></r></p></e>
 
+<e>       <p><l>maîtriser<s n="vblex"/></l>            <r>dominare<s n="vblex"/></r></p></e>
+
 <e>       <p><l>mandater<s n="vblex"/></l>             <r>delegare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>manger<s n="vblex"/></l>               <r>mangiare<s n="vblex"/></r></p></e>
@@ -18211,6 +18263,8 @@
 <e>       <p><l>naviguer<s n="vblex"/></l>             <r>navigare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>naître<s n="vblex"/></l>               <r>nascere<s n="vblex"/></r></p></e>
+
+<e>       <p><l>négocier<s n="vblex"/></l>             <r>negoziare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>neutraliser<s n="vblex"/></l>          <r>neutralizzare<s n="vblex"/></r></p></e>
 
@@ -18321,6 +18375,8 @@
 <e>       <p><l>perpétuer<s n="vblex"/></l>            <r>perpetuare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>perturber<s n="vblex"/></l>            <r>perturbare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>persuader<s n="vblex"/></l>            <r>persuadere<s n="vblex"/></r></p></e>
 
 <e>       <p><l>peser<s n="vblex"/></l>                <r>pesare<s n="vblex"/></r></p></e>
 
@@ -18554,6 +18610,8 @@
 
 <e>       <p><l>regretter<s n="vblex"/></l>            <r>lamentare<s n="vblex"/></r></p></e>
 
+<e>       <p><l>réguler<s n="vblex"/></l>              <r>regolare<s n="vblex"/></r></p></e>
+
 <e>       <p><l>rejeter<s n="vblex"/></l>              <r>rifiutare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>rejoindre<s n="vblex"/></l>            <r>prendere<s n="vblex"/></r></p></e>
@@ -18704,6 +18762,10 @@
 
 <e>       <p><l>résoudre<s n="vblex"/></l>             <r>risolvere<s n="vblex"/></r></p></e>
 
+<e>       <p><l>respecter<s n="vblex"/></l>             <r>rispettare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>responsabiliser<s n="vblex"/></l>      <r>responsabilizzare<s n="vblex"/></r></p></e>
+
 <e>       <p><l>résulter<s n="vblex"/></l>             <r>risultare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>résumer<s n="vblex"/></l>              <r>riassumere<s n="vblex"/></r></p></e>
@@ -18841,6 +18903,8 @@
 <e>       <p><l>statuer<s n="vblex"/></l>              <r>decidere<s n="vblex"/></r></p></e>
 
 <e>       <p><l>stimuler<s n="vblex"/></l>             <r>impulsare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>stopper<s n="vblex"/></l>             <r>fermare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>subir<s n="vblex"/></l>                <r>subire<s n="vblex"/></r></p></e>
 
