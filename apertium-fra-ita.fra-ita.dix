@@ -96,12 +96,21 @@
     <!-- ******************************
           group adj_symbol
       ****************************** -->
+<e>       <p><l>aberrant<s n="adj"/></l>               <r>aberrante<s n="adj"/></r></p></e>
+
+<e>       <p><l>abject<s n="adj"/></l>                 <r>abietto<s n="adj"/></r></p></e>
+
+<e>       <p><l>abominable<s n="adj"/></l>             <r>abominevole<s n="adj"/></r></p></e>
+
+<e>       <p><l>abordable<s n="adj"/></l>              <r>accessibile<s n="adj"/></r></p></e>
 
 <e>       <p><l>abondant<s n="adj"/><s n="f"/></l>     <r>abbondante<s n="adj"/></r></p></e>
 
 <e>       <p><l>abondant<s n="adj"/><s n="m"/></l>     <r>abbondante<s n="adj"/></r></p></e>
 
 <e>       <p><l>abondant<s n="adj"/><s n="GD"/></l>    <r>abbondante<s n="adj"/></r></p></e>
+
+<e>       <p><l>absent<s n="adj"/></l>                 <r>assente<s n="adj"/></r></p></e>
 
 <e>       <p><l>absolu<s n="adj"/></l>                 <r>assoluto<s n="adj"/></r></p></e>
 
@@ -115,21 +124,23 @@
 
 <e>       <p><l>abstrait<s n="adj"/></l>               <r>astratto<s n="adj"/></r></p></e>
 
-<e>       <p><l>absurde<s n="adj"/><s n="mf"/></l>     <r>assurdo<s n="adj"/></r></p></e>
+<e>       <p><l>absurde<s n="adj"/></l>                <r>assurdo<s n="adj"/></r></p></e>
+
+<e>       <p><l>abusif<s n="adj"/></l>                 <r>abusivo<s n="adj"/></r></p></e>
 
 <e>       <p><l>académique<s n="adj"/><s n="mf"/></l>  <r>accademico<s n="adj"/></r></p></e>
 
 <e>       <p><l>acceptable<s n="adj"/></l>             <r>accettabile<s n="adj"/></r></p></e>
 
+<e>       <p><l>accessible<s n="adj"/></l>             <r>accessibile<s n="adj"/></r></p></e>
+
 <e>       <p><l>accessoire<s n="adj"/><s n="mf"/></l>  <r>accessorio<s n="adj"/></r></p></e>
 
-<e>       <p><l>accidentel<s n="adj"/><s n="f"/></l>   <r>accidentale<s n="adj"/></r></p></e>
-
-<e>       <p><l>accidentel<s n="adj"/><s n="m"/></l>   <r>accidentale<s n="adj"/></r></p></e>
-
-<e>       <p><l>accidentel<s n="adj"/><s n="GD"/></l>  <r>accidentale<s n="adj"/></r></p></e>
+<e>       <p><l>accidentel<s n="adj"/></l>             <r>accidentale<s n="adj"/></r></p></e>
 
 <e>       <p><l>accélérateur<s n="adj"/></l>           <r>acceleratore<s n="adj"/></r></p></e>
+
+<e>       <p><l>accueillant<s n="adj"/></l>            <r>accogliente<s n="adj"/></r></p></e>
 
 <e>       <p><l>acide<s n="adj"/><s n="mf"/></l>       <r>acido<s n="adj"/></r></p></e>
 
@@ -163,7 +174,13 @@
 
 <e c="new-category"><p><l>administratif<s n="adj"/></l><r>amministrativo<s n="adj"/></r></p></e>
 
+<e>       <p><l>adéquat<s n="adj"/></l>                <r>adeguato<s n="adj"/></r></p></e>
+
 <e>       <p><l>admirable<s n="adj"/></l>              <r>ammirevole<s n="adj"/></r></p></e>
+
+<e>       <p><l>admissible<s n="adj"/></l>             <r>ammissibile<s n="adj"/></r></p></e>
+
+<e>       <p><l>adoptif<s n="adj"/></l>                <r>adottivo<s n="adj"/></r></p></e>
 
 <e>       <p><l>adorable<s n="adj"/></l>               <r>adorabile<s n="adj"/></r></p></e>
 
@@ -172,6 +189,8 @@
 <e>       <p><l>adroit<s n="adj"/><s n="m"/></l>       <r>abile<s n="adj"/></r></p></e>
 
 <e>       <p><l>adroit<s n="adj"/><s n="GD"/></l>      <r>abile<s n="adj"/></r></p></e>
+
+<e>       <p><l>adulte<s n="adj"/></l>                 <r>adulto<s n="adj"/></r></p></e>
 
 <e>       <p><l>adverse<s n="adj"/><s n="mf"/></l>     <r>avverso<s n="adj"/></r></p></e>
 
@@ -185,6 +204,10 @@
 
 <e>       <p><l>affirmatif<s n="adj"/></l>             <r>affermativo<s n="adj"/></r></p></e>
 
+<e>       <p><l>affreux<s n="adj"/></l>                <r>orribile<s n="adj"/></r></p></e>
+
+<e>       <p><l>africain<s n="adj"/></l>               <r>africano<s n="adj"/></r></p></e>
+
 <e>       <p><l>agile<s n="adj"/></l>                  <r>agile<s n="adj"/></r></p></e>
 
 <e>       <p><l>agressif<s n="adj"/></l>               <r>aggressivo<s n="adj"/></r></p></e>
@@ -195,11 +218,19 @@
 
 <e>       <p><l>agricole<s n="adj"/></l>               <r>agricolo<s n="adj"/><s n="GD"/></r></p></e>
 
+<e>       <p><l>ahurissant<s n="adj"/></l>             <r>sbalorditivo<s n="adj"/></r></p></e>
+
+<e>       <p><l>aigu<s n="adj"/></l>                   <r>acuto<s n="adj"/></r></p></e>
+
 <e>       <p><l>aiguisé<s n="adj"/></l>                <r>affilato<s n="adj"/></r></p></e>
+
+<e>       <p><l>aimable<s n="adj"/></l>                <r>garbato<s n="adj"/></r></p></e>
 
 <e>       <p><l>aisé<s n="adj"/><s n="f"/></l>         <r>facile<s n="adj"/></r></p></e>
 
 <e>       <p><l>aisé<s n="adj"/><s n="m"/></l>         <r>facile<s n="adj"/></r></p></e>
+
+<e>       <p><l>alarmant<s n="adj"/></l>                <r>allarmante<s n="adj"/></r></p></e>
 
 <e>       <p><l>alcoolique<s n="adj"/><s n="mf"/></l>  <r>alcolico<s n="adj"/></r></p></e>
 
@@ -209,13 +240,21 @@
 
 <e>       <p><l>allant<s n="adj"/></l>                 <r>attivo<s n="adj"/></r></p></e>
 
+<e>       <p><l>alléchant<s n="adj"/></l>              <r>allettante<s n="adj"/></r></p></e>
+
 <e c="new-category"><p><l>allemand<s n="adj"/></l>     <r>tedesco<s n="adj"/></r></p></e>
 
 <e>       <p><l>alphabétique<s n="adj"/><s n="mf"/></l><r>alfabetico<s n="adj"/></r></p></e>
 
 <e>       <p><l>alpin<s n="adj"/></l>                  <r>alpino<s n="adj"/></r></p></e>
 
+<e>       <p><l>alternatif<s n="adj"/></l>              <r>alternativo<s n="adj"/></r></p></e>
+
 <e>       <p><l>alterne<s n="adj"/><s n="mf"/></l>     <r>alternato<s n="adj"/></r></p></e>
+
+<e>       <p><l>aléatoire<s n="adj"/></l>              <r>aleatorio<s n="adj"/></r></p></e>
+
+<e>       <p><l>ambigu<s n="adj"/></l>                <r>ambiguo<s n="adj"/></r></p></e>
 
 <e>       <p><l>ambitieux<s n="adj"/></l>              <r>ambizioso<s n="adj"/></r></p></e>
 
@@ -3574,9 +3613,7 @@
     <!-- ******************************
           group adv_symbol
       ****************************** -->
-    <!-- ******************************
-          group adv_symbol
-      ****************************** -->
+
 <e>       <p><l>a<b/>posteriori<s n="adv"/></l>        <r>a<b/>posteriori<s n="adv"/></r></p></e>
 
 <e>       <p><l>a<b/>priori<s n="adv"/></l>            <r>a<b/>priori<s n="adv"/></r></p></e>
@@ -3586,6 +3623,8 @@
 <e>       <p><l>absolument<s n="adv"/></l>             <r>assolutamente<s n="adv"/></r></p></e>
 
 <e>       <p><l>absolument<b/>pas<s n="adv"/></l>      <r>in<b/>assoluto<s n="adv"/></r></p></e>
+
+<e>       <p><l>abusivement<s n="adv"/></l>            <r>abusivamente<s n="adv"/></r></p></e>
 
 <e>       <p><l>accidentellement<s n="adv"/></l>       <r>accidentalmente<s n="adv"/></r></p></e>
 
@@ -4971,9 +5010,7 @@
     <!-- ******************************
           group n_symbol
       ****************************** -->
-    <!-- ******************************
-          group n_symbol
-      ****************************** -->
+   
 <e>       <p><l>BBVA<s n="n"/></l>                     <r>BBVA<s n="n"/></r></p></e>
 
 <e>       <p><l>BCE<s n="n"/><s n="acr"/></l>          <r>Bce<s n="n"/></r></p></e>
@@ -5058,6 +5095,8 @@
 
 <e>       <p><l>aborigène<s n="n"/></l>                <r>aborigeno<s n="n"/><s n="GD"/></r></p></e>
 
+<e>       <p><l>aboutissement<s n="n"/></l>            <r>culmine<s n="n"/></r></p></e>
+
 <e>       <p><l>abri<s n="n"/></l>                     <r>riparo<s n="n"/></r></p></e>
 
 <e>       <p><l>abrogation<s n="n"/></l>               <r>abrogazione<s n="n"/></r></p></e>
@@ -5078,6 +5117,8 @@
 
 <e>       <p><l>abstraction<s n="n"/></l>              <r>astrazione<s n="n"/></r></p></e>
 
+<e>       <p><l>absurdité<s n="n"/></l>                <r>assurdità<s n="n"/></r></p></e>
+
 <e>       <p><l>abus<s n="n"/><s n="m"/><s n="sp"/></l><r>abuso<s n="n"/></r></p></e>
 
 <e>       <p><l>abîme<s n="n"/></l>                    <r>baratro<s n="n"/></r></p></e>
@@ -5096,6 +5137,8 @@
 
 <e>       <p><l>accessibilité<s n="n"/></l>            <r>accessibilità<s n="n"/></r></p></e>
 
+<e>       <p><l>accession<s n="n"/></l>                <r>ascesa<s n="n"/></r></p></e>
+
 <e>       <p><l>accessoire<s n="n"/></l>               <r>accessorio<s n="n"/></r></p></e>
 
 <e>       <p><l>accident<s n="n"/></l>                 <r>incidente<s n="n"/></r></p></e>
@@ -5103,6 +5146,8 @@
 <e>       <p><l>acclamation<s n="n"/></l>              <r>acclamazione<s n="n"/></r></p></e>
 
 <e>       <p><l>acclimatation<s n="n"/></l>            <r>acclimatazione<s n="n"/></r></p></e>
+
+<e>       <p><l>accompagnement<s n="n"/></l>           <r>accompagnamento<s n="n"/></r></p></e>
 
 <e>       <p><l>accomplissement<s n="n"/></l>          <r>compimento<s n="n"/></r></p></e>
 
@@ -5132,6 +5177,8 @@
 
 <e>       <p><l>accumulation<s n="n"/></l>             <r>cumulo<s n="n"/><s n="m"/></r></p></e>
 
+<e>       <p><l>accusation<s n="n"/></l>               <r>accusa<s n="n"/></r></p></e>
+
 <e>       <p><l>accès<s n="n"/></l>                    <r>accesso<s n="n"/></r></p></e>
 
 <e>       <p><l>accélération<s n="n"/></l>             <r>accelerazione<s n="n"/></r></p></e>
@@ -5142,11 +5189,17 @@
 
 <e>       <p><l>achat<s n="n"/></l>                    <r>spesa<s n="n"/><s n="f"/></r></p></e>
 
+<e>       <p><l>acheminement<s n="n"/></l>             <r>inoltro<s n="n"/></r></p></e>
+
 <e>       <p><l>acheteur<s n="n"/></l>                 <r>committente<s n="n"/></r></p></e>
 
 <e>       <p><l>acheteur<s n="n"/></l>                 <r>acquirente<s n="n"/></r></p></e>
 
 <e>       <p><l>acheteur<s n="n"/></l>                 <r>compratore<s n="n"/></r></p></e>
+
+<e>       <p><l>achèvement<s n="n"/></l>               <r>completamento<s n="n"/></r></p></e>
+
+<e>       <p><l>achoppement<s n="n"/></l>              <r>scoglio<s n="n"/></r></p></e>
 
 <e c="new-category"><p><l>acide<s n="n"/></l>          <r>acido<s n="n"/></r></p></e>
 
@@ -5196,11 +5249,15 @@
 
 <e>       <p><l>addition<s n="n"/></l>                 <r>addizione<s n="n"/></r></p></e>
 
+<e>       <p><l>adduction<s n="n"/></l>                <r>derivazione<s n="n"/></r></p></e>
+
 <e>       <p><l>adhésion<s n="n"/></l>                 <r>adesione<s n="n"/></r></p></e>
 
 <e>       <p><l>adjectif<s n="n"/></l>                 <r>aggettivo<s n="n"/></r></p></e>
 
 <e>       <p><l>adjudication<s n="n"/></l>             <r>aggiudicazione<s n="n"/></r></p></e>
+
+<e>       <p><l>ajustement<s n="n"/></l>               <r>adattamento<s n="n"/></r></p></e>
 
 <e>       <p><l>administrateur<s n="n"/></l>           <r>amministratore<s n="n"/></r></p></e>
 
@@ -5224,6 +5281,8 @@
 
 <e>       <p><l>adrénaline<s n="n"/></l>               <r>adrenalina<s n="n"/></r></p></e>
 
+<e>       <p><l>adulte<s n="n"/></l>                   <r>adulto<s n="n"/></r></p></e>
+
 <e>       <p><l>adultère<s n="n"/></l>                 <r>adulterio<s n="n"/></r></p></e>
 
 <e>       <p><l>adverbe<s n="n"/></l>                  <r>avverbio<s n="n"/></r></p></e>
@@ -5231,6 +5290,10 @@
 <e>       <p><l>adversaire<s n="n"/><s n="mf"/></l>    <r>avversario<s n="n"/></r></p></e>
 
 <e>       <p><l>adversaire<s n="n"/><s n="mf"/></l>    <r>oppositore<s n="n"/></r></p></e>
+
+<e>       <p><l>adversité<s n="n"/></l>                <r>avversità<s n="n"/></r></p></e>
+
+<e>       <p><l>affaiblissement<s n="n"/></l>          <r>indebolimento<s n="n"/></r></p></e>
 
 <e>       <p><l>affaire<s n="n"/></l>                  <r>affare<s n="n"/></r></p></e>
 
@@ -5252,7 +5315,13 @@
 
 <e>       <p><l>affrontement<s n="n"/></l>             <r>scontro<s n="n"/></r></p></e>
 
+<e>       <p><l>africain<s n="n"/></l>                 <r>africano<s n="n"/></r></p></e>
+
 <e>       <p><l>agence<s n="n"/></l>                   <r>agenzia<s n="n"/></r></p></e>
+
+<e>       <p><l>agencement<s n="n"/></l>               <r>sistemazione<s n="n"/></r></p></e>
+
+<e>       <p><l>agenda<s n="n"/></l>                  <r>agenda<s n="n"/></r></p></e>
 
 <e>       <p><l>agent<s n="n"/></l>                    <r>agente<s n="n"/></r></p></e>
 
@@ -5265,6 +5334,8 @@
 <e>       <p><l>agilité<s n="n"/></l>                  <r>agilità<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
 
 <e>       <p><l>agitation<s n="n"/></l>                <r>agitazione<s n="n"/></r></p></e>
+
+<e>       <p><l>agitateur<s n="n"/></l>                <r>agitatore<s n="n"/></r></p></e>
 
 <e>       <p><l>agneau<s n="n"/><s n="m"/></l>         <r>agnello<s n="n"/></r></p></e>
 
@@ -5289,6 +5360,8 @@
 <e>       <p><l>aigle<s n="n"/><s n="mf"/></l>         <r>aquila<s n="n"/></r></p></e>
 
 <e>       <p><l>aiguille<s n="n"/><s n="f"/></l>       <r>ago<s n="n"/><s n="m"/></r></p></e>
+
+<e>       <p><l>aiguillon<s n="n"/><s n="f"/></l>      <r>pungiglione<s n="n"/><s n="m"/></r></p></e>
 
 <e>       <p><l>ail<s n="n"/></l>                      <r>aglio<s n="n"/></r></p></e>
 
@@ -5338,6 +5411,8 @@
 
 <e>       <p><l>allant<s n="n"/><s n="m"/></l>         <r>disposizione<s n="n"/></r></p></e>
 
+<e>       <p><l>allégement<s n="n"/></l>               <r>riduzione<s n="n"/><s n="f"/></r></p></e>
+
 <e c="new-category"><p><l>allemand<s n="n"/></l>       <r>tedesco<s n="n"/></r></p></e>
 
 <e>       <p><l>allergie<s n="n"/></l>                 <r>allergia<s n="n"/></r></p></e>
@@ -5347,6 +5422,10 @@
 <e>       <p><l>alliance<s n="n"/></l>                 <r>alleanza<s n="n"/></r></p></e>
 
 <e>       <p><l>allié<s n="n"/></l>                    <r>alleato<s n="n"/></r></p></e>
+
+<e>       <p><l>allocation<s n="n"/></l>               <r>sussidio<s n="n"/><s n="m"/></r></p></e>
+
+<e>       <p><l>allongement<s n="n"/></l>              <r>allungamento<s n="n"/></r></p></e>
 
 <e>       <p><l>allure<s n="n"/><s n="f"/></l>         <r>aspetto<s n="n"/></r></p></e>
 
@@ -5363,6 +5442,10 @@
 <e>       <p><l>alphabétisation<s n="n"/></l>          <r>alfabetizzazione<s n="n"/></r></p></e>
 
 <e>       <p><l>altercation<s n="n"/><s n="f"/></l>    <r>conflitto<s n="n"/></r></p></e>
+
+<e>       <p><l>alternance<s n="n"/></l>              <r>alternanza<s n="n"/></r></p></e>
+
+<e>       <p><l>alternatif<s n="n"/></l>              <r>alternativo<s n="n"/></r></p></e>
 
 <e>       <p><l>altitude<s n="n"/></l>                 <r>altitudine<s n="n"/></r></p></e>
 
@@ -13958,24 +14041,7 @@
     <!-- ******************************
           group np_symbol
       ****************************** -->
-    <!-- ******************************
-          group np_symbol
-      ****************************** -->
-    <!-- ******************************
-          group np_symbol
-      ****************************** -->
-    <!-- ******************************
-          group np_symbol
-      ****************************** -->
-    <!-- ******************************
-          group np_symbol
-      ****************************** -->
-    <!-- ******************************
-          group np_symbol
-      ****************************** -->
-    <!-- ******************************
-          group np_symbol
-      ****************************** -->
+
 <e>       <p><l>ABC<s n="np"/></l>                     <r>ABC<s n="np"/></r></p></e>
 
 <e>       <p><l>Abad<s n="np"/></l>                    <r>Abad<s n="np"/></r></p></e>
@@ -16147,24 +16213,7 @@
     <!-- ******************************
           group num_symbol
       ****************************** -->
-    <!-- ******************************
-          group num_symbol
-      ****************************** -->
-    <!-- ******************************
-          group num_symbol
-      ****************************** -->
-    <!-- ******************************
-          group num_symbol
-      ****************************** -->
-    <!-- ******************************
-          group num_symbol
-      ****************************** -->
-    <!-- ******************************
-          group num_symbol
-      ****************************** -->
-    <!-- ******************************
-          group num_symbol
-      ****************************** -->
+   
 <e>       <p><l>C<s n="num"/></l>                      <r>C<s n="num"/></r></p></e>
 
 <e>       <p><l>D<s n="num"/></l>                      <r>D<s n="num"/></r></p></e>
@@ -16842,9 +16891,7 @@
     <!-- ******************************
           group vbhaver_symbol
       ****************************** -->
-    <!-- ******************************
-          group vbhaver_symbol
-      ****************************** -->
+
 <e>       <p><l>avoir<s n="vbhaver"/></l>              <r>avere<s n="vbhaver"/></r></p></e>
 
 <e>       <p><l>avoir<s n="vbhaver"/><s n="pp"/><s n="mf"/><s n="sp"/></l><r>avere<s n="vbhaver"/></r></p></e>
@@ -16853,9 +16900,7 @@
     <!-- ******************************
           group vblex_symbol
       ****************************** -->
-    <!-- ******************************
-          group vblex_symbol
-      ****************************** -->
+
 <e>       <p><l>abaisser<s n="vblex"/></l>             <r>scendere<s n="vblex"/></r></p></e>
 
 <e>       <p><l>abandonner<s n="vblex"/></l>           <r>abbandonare<s n="vblex"/></r></p></e>
@@ -16866,7 +16911,15 @@
 
 <e>       <p><l>abdiquer<s n="vblex"/></l>             <r>abdicare<s n="vblex"/></r></p></e>
 
+<e>       <p><l>abreuver<s n="vblex"/></l>             <r>abbeverare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>abolir<s n="vblex"/></l>               <r>abolire<s n="vblex"/></r></p></e>
+
 <e>       <p><l>abonder<s n="vblex"/></l>              <r>abbondare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>aborder<s n="vblex"/></l>              <r>affrontare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>aboutir<s n="vblex"/></l>              <r>portare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>aboyer<s n="vblex"/></l>               <r>abbaiare<s n="vblex"/></r></p></e>
 
@@ -16880,11 +16933,17 @@
 
 <e>       <p><l>accepter<s n="vblex"/></l>             <r>accettare<s n="vblex"/></r></p></e>
 
+<e>       <p><l>accentuer<s n="vblex"/></l>            <r>accentuare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>accélérer<s n="vblex"/></l>            <r>accelerare<s n="vblex"/></r></p></e>
+
 <e>       <p><l>acclamer<s n="vblex"/></l>             <r>acclamare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>acclimater<s n="vblex"/></l>           <r>acclimatare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>accoler<s n="vblex"/></l>              <r>raccordare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>accomoder<s n="vblex"/></l>            <r>preparare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>accompagner<s n="vblex"/></l>          <r>accompagnare<s n="vblex"/></r></p></e>
 
@@ -16916,11 +16975,17 @@
 
 <e>       <p><l>acquérir<s n="vblex"/></l>             <r>acquistare<s n="vblex"/></r></p></e>
 
+<e>       <p><l>actionner<s n="vblex"/></l>            <r>azionare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>activer<s n="vblex"/></l>             <r>attivare<s n="vblex"/></r></p></e>
+ 
 <e>       <p><l>actualiser<s n="vblex"/></l>           <r>aggiornare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>adapter<s n="vblex"/></l>              <r>adattare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>adapter<s n="vblex"/></l>              <r>adeguare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>additionner<s n="vblex"/></l>          <r>sommare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>adhérer<s n="vblex"/></l>              <r>aderire<s n="vblex"/></r></p></e>
 
@@ -16948,6 +17013,10 @@
 
 <e>       <p><l>affairer<s n="vblex"/></l>             <r>agitare<s n="vblex"/></r></p></e>
 
+<e>       <p><l>affecter<s n="vblex"/></l>             <r>toccare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>affecter<s n="vblex"/></l>             <r>colpire<s n="vblex"/></r></p></e>
+
 <e>       <p><l>afficher<s n="vblex"/></l>             <r>annunciare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>affilier<s n="vblex"/></l>             <r>affiliare<s n="vblex"/></r></p></e>
@@ -16955,6 +17024,10 @@
 <e>       <p><l>affirmer<s n="vblex"/></l>             <r>affermare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>affliger<s n="vblex"/></l>             <r>affliggere<s n="vblex"/></r></p></e>
+
+<e>       <p><l>affranchir<s n="vblex"/></l>           <r>affrancare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>affranchir<s n="vblex"/></l>           <r>liberare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>affronter<s n="vblex"/></l>            <r>affrontare<s n="vblex"/></r></p></e>
 
@@ -16998,6 +17071,10 @@
 
 <e>       <p><l>aller<s n="vblex"/></l>                <r>andare<s n="vblex"/></r></p></e>
 
+<e>       <p><l>alleger<s n="vblex"/></l>              <r>ridurre<s n="vblex"/></r></p></e>
+
+<e>       <p><l>alleger<s n="vblex"/></l>              <r>alleggerire<s n="vblex"/></r></p></e>
+
 <e>       <p><l>allier<s n="vblex"/></l>                <r>legare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>allouer<s n="vblex"/></l>              <r>concedere<s n="vblex"/></r></p></e>
@@ -17006,11 +17083,15 @@
 
 <e>       <p><l>alléguer<s n="vblex"/></l>             <r>addurre<s n="vblex"/></r></p></e>
 
+<e>       <p><l>alourdir<s n="vblex"/></l>             <r>appesantire<s n="vblex"/></r></p></e>
+
 <e>       <p><l>alterner<s n="vblex"/></l>             <r>alternare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>altérer<s n="vblex"/></l>              <r>alterare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>amasser<s n="vblex"/></l>              <r>accumulare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>amender<s n="vblex"/></l>               <r>emendare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>amener<s n="vblex"/></l>               <r>portare<s n="vblex"/></r></p></e>
 
@@ -19268,18 +19349,14 @@
     <!-- ******************************
           group lquest_symbol
       ****************************** -->
-    <!-- ******************************
-          group lquest_symbol
-      ****************************** -->
+    
 <e>       <re>¿</re><p><l><s n="lquest"/></l>          <r><s n="lquest"/></r></p></e>
 <e>       <re>[Â¿Â¡]</re><p><l><s n="lquest"/></l>     <r><s n="lquest"/></r></p></e>
    
     <!-- ******************************
           group num_symbol
       ****************************** -->
-    <!-- ******************************
-          group num_symbol
-      ****************************** -->
+   
 <e>       <re>[\+\-]?[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 <e>       <re>[\+\-]?[0-9]+([.,][0-9]+)?[ ]?\-[ ]?[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 <e>       <re>[\+\-]?[0-9]+([.,][0-9]+)?[ ]?%</re><p><l><s n="num"/><s n="percent"/></l><r><s n="num"/><s n="percent"/></r></p></e>
@@ -19292,9 +19369,7 @@
     <!-- ******************************
           group(s) with only one element
       ****************************** -->
-    <!-- ******************************
-          group(s) with only one element
-      ****************************** -->
+    
 <e>       <re>[’'‘]</re><p><l><s n="apos"/></l>        <r><s n="apos"/></r></p></e>
 <e>       <re>[\(\[]</re><p><l><s n="lpar"/></l>       <r><s n="lpar"/></r></p></e>
 <e>       <re>[\)\]]</re><p><l><s n="rpar"/></l>       <r><s n="rpar"/></r></p></e>
