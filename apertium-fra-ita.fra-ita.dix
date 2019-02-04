@@ -266,6 +266,8 @@
 
 <e>       <p><l>ample<s n="adj"/><s n="mf"/></l>       <r>ampio<s n="adj"/></r></p></e>
 
+<e>       <p><l>amendable<s n="adj"/></l>              <r>emendabile<s n="adj"/></r></p></e>
+
 <e>       <p><l>américain<s n="adj"/><s n="f"/></l>    <r>statunitense<s n="adj"/></r></p></e>
 
 <e>       <p><l>américain<s n="adj"/><s n="m"/></l>    <r>statunitense<s n="adj"/></r></p></e>
@@ -274,11 +276,17 @@
 
 <e>       <p><l>américain<s n="adj"/></l>              <r>americano<s n="adj"/></r></p></e>
 
+<e>       <p><l>amusant<s n="adj"/></l>                <r>divertente<s n="adj"/></r></p></e>
+
+<e>       <p><l>anachronique<s n="adj"/></l>           <r>anacronistico<s n="adj"/></r></p></e>
+
 <e>       <p><l>anal<s n="adj"/><s n="f"/></l>         <r>anale<s n="adj"/></r></p></e>
 
 <e>       <p><l>anal<s n="adj"/><s n="m"/></l>         <r>anale<s n="adj"/></r></p></e>
 
 <e>       <p><l>anal<s n="adj"/><s n="GD"/></l>        <r>anale<s n="adj"/></r></p></e>
+
+<e>       <p><l>analytique<s n="adj"/></l>             <r>analitico<s n="adj"/></r></p></e>
 
 <e>       <p><l>analogue<s n="adj"/><s n="mf"/></l>    <r>analogo<s n="adj"/></r></p></e>
 
@@ -311,6 +319,10 @@
 <e>       <p><l>anglican<s n="adj"/></l>               <r>anglicano<s n="adj"/></r></p></e>
 
 <e>       <p><l>anglo-saxon<s n="adj"/></l>            <r>anglosassone<s n="adj"/><s n="mf"/></r></p></e>
+
+<e>       <p><l>angoissant<s n="adj"/></l>             <r>angosciante<s n="adj"/></r></p></e>
+
+<e>       <p><l>angulaire<s n="adj"/></l>              <r>angolare<s n="adj"/></r></p></e>
 
 <e>       <p><l>annal<s n="adj"/><s n="f"/></l>        <r>annuale<s n="adj"/></r></p></e>
 
@@ -5479,6 +5491,8 @@
 
 <e>       <p><l>ambulance<s n="n"/></l>                <r>ambulanza<s n="n"/></r></p></e>
 
+<e>       <p><l>amélioration<s n="n"/></l>             <r>miglioramento<s n="n"/></r></p></e>
+
 <e>       <p><l>amen<s n="n"/></l>                     <r>amen<s n="n"/></r></p></e>
 
 <e>       <p><l>amende<s n="n"/></l>                   <r>multa<s n="n"/></r></p></e>
@@ -5531,6 +5545,8 @@
 
 <e>       <p><l>anathème<s n="n"/></l>                 <r>anatema<s n="n"/></r></p></e>
 
+<e>       <p><l>ancêtre<s n="n"/></l>                   <r>antenato<s n="n"/></r></p></e>
+
 <e>       <p><l>anchois<s n="n"/><s n="m"/><s n="sp"/></l><r>acciuga<s n="n"/></r></p></e>
 
 <e>       <p><l>ancien<s n="n"/></l>                   <r>anziano<s n="n"/></r></p></e>
@@ -5548,6 +5564,8 @@
 <e>       <p><l>anglais<s n="n"/></l>                  <r>inglese<s n="n"/></r></p></e>
 
 <e>       <p><l>angle<s n="n"/></l>                    <r>angolo<s n="n"/></r></p></e>
+
+<e>       <p><l>angoisse<s n="n"/></l>                 <r>angoscia<s n="n"/></r></p></e>
 
 <e>       <p><l>angulation<s n="n"/></l>               <r>angolazione<s n="n"/></r></p></e>
 
@@ -17113,10 +17131,14 @@
 
 <e>       <p><l>annoncer<s n="vblex"/></l>             <r>annunciare<s n="vblex"/></r></p></e>
 
+<e>       <p><l>annuler<s n="vblex"/></l>              <r>annullare<s n="vblex"/></r></p></e>
+
 <e>       <p><l>anticiper<s n="vblex"/></l>            <r>anticipare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>anéantir<s n="vblex"/></l>             <r>annientare<s n="vblex"/></r></p></e>
 
+<e>       <p><l>apaiser<s n="vblex"/></l>              <r>calmare<s n="vblex"/></r></p></e>
+ 
 <e>       <p><l>apercevoir<s n="vblex"/></l>           <r>percepire<s n="vblex"/></r></p></e>
 
 <e>       <p><l>apparaître<s n="vblex"/></l>           <r>apparire<s n="vblex"/></r></p></e>
@@ -17132,6 +17154,8 @@
 <e>       <p><l>appliquer<s n="vblex"/></l>            <r>applicare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>appointer<s n="vblex"/></l>            <r>pagare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>apporter<s n="vblex"/></l>             <r>portare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>apposer<s n="vblex"/></l>              <r>fissare<s n="vblex"/></r></p></e>
 
