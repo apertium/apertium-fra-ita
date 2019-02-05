@@ -204,6 +204,8 @@
 
 <e>       <p><l>affirmatif<s n="adj"/></l>             <r>affermativo<s n="adj"/></r></p></e>
 
+<e>       <p><l>affligeant<s n="adj"/></l>             <r>affligente<s n="adj"/></r></p></e>
+
 <e>       <p><l>affreux<s n="adj"/></l>                <r>orribile<s n="adj"/></r></p></e>
 
 <e>       <p><l>africain<s n="adj"/></l>               <r>africano<s n="adj"/></r></p></e>
@@ -218,6 +220,8 @@
 
 <e>       <p><l>agricole<s n="adj"/></l>               <r>agricolo<s n="adj"/><s n="GD"/></r></p></e>
 
+<e>       <p><l>aggravant<s n="adj"/></l>              <r>aggravante<s n="adj"/></r></p></e>
+  
 <e>       <p><l>ahurissant<s n="adj"/></l>             <r>sbalorditivo<s n="adj"/></r></p></e>
 
 <e>       <p><l>aigu<s n="adj"/></l>                   <r>acuto<s n="adj"/></r></p></e>
@@ -334,6 +338,8 @@
 
 <e>       <p><l>annuel<s n="adj"/><s n="GD"/></l>      <r>annuale<s n="adj"/></r></p></e>
 
+<e>       <p><l>anodin<s n="adj"/></l>                <r>insignificante<s n="adj"/></r></p></e>
+
 <e>       <p><l>anonyme<s n="adj"/><s n="mf"/></l>     <r>anonimo<s n="adj"/></r></p></e>
 
 <e>       <p><l>anormal<s n="adj"/><s n="f"/></l>      <r>anormale<s n="adj"/></r></p></e>
@@ -355,6 +361,10 @@
 <e>       <p><l>anxieux<s n="adj"/><s n="m"/><s n="sp"/></l><r>ansioso<s n="adj"/></r></p></e>
 
 <e>       <p><l>aphrodisiaque<s n="adj"/><s n="mf"/></l><r>afrodisiaco<s n="adj"/></r></p></e>
+
+<e>       <p><l>apocalyptique<s n="adj"/></l>          <r>apocalittico<s n="adj"/></r></p></e>
+   
+<e>       <p><l>apparent<s n="adj"/></l>               <r>apparente<s n="adj"/></r></p></e>
 
 <e>       <p><l>appartenant<s n="adj"/><s n="f"/></l>  <r>appartenente<s n="adj"/></r></p></e>
 
@@ -5561,6 +5571,8 @@
 
 <e>       <p><l>ange<s n="n"/></l>                     <r>angelo<s n="n"/><s n="m"/></r></p></e>
 
+<e>       <p><l>angélisme<s n="n"/></l>                <r>buonismo<s n="n"/></r></p></e>
+
 <e>       <p><l>anglais<s n="n"/></l>                  <r>inglese<s n="n"/></r></p></e>
 
 <e>       <p><l>angle<s n="n"/></l>                    <r>angolo<s n="n"/></r></p></e>
@@ -5578,6 +5590,8 @@
 <e>       <p><l>anneau<s n="n"/></l>                   <r>anello<s n="n"/></r></p></e>
 
 <e>       <p><l>annexe<s n="n"/><s n="f"/></l>         <r>allegato<s n="n"/></r></p></e>
+
+<e>       <p><l>annexion<s n="n"/><s n="f"/></l>       <r>annessione<s n="n"/></r></p></e>
 
 <e>       <p><l>anniversaire<s n="n"/></l>             <r>anniversario<s n="n"/></r></p></e>
 
@@ -5607,6 +5621,8 @@
 
 <e>       <p><l>antichambre<s n="n"/></l>              <r>anticamera<s n="n"/></r></p></e>
 
+<e>       <p><l>antidote<s n="n"/></l>                 <r>antidoto<s n="n"/></r></p></e>
+
 <e>       <p><l>anticipation<s n="n"/></l>             <r>anticipazione<s n="n"/></r></p></e>
 
 <e>       <p><l>anticyclone<s n="n"/></l>              <r>anticiclone<s n="n"/></r></p></e>
@@ -5627,6 +5643,8 @@
 
 <e>       <p><l>apologie<s n="n"/></l>                 <r>apologia<s n="n"/></r></p></e>
 
+<e>       <p><l>appareil<s n="n"/></l>                <r>apparecchio<s n="n"/></r></p></e>
+
 <e>       <p><l>apparence<s n="n"/></l>                <r>apparenza<s n="n"/></r></p></e>
 
 <e>       <p><l>apparence<s n="n"/></l>                <r>parvenza<s n="n"/></r></p></e>
@@ -5636,6 +5654,10 @@
 <e>       <p><l>appartement<s n="n"/></l>              <r>appartamento<s n="n"/></r></p></e>
 
 <e>       <p><l>appartenance<s n="n"/></l>             <r>appartenenza<s n="n"/></r></p></e>
+
+<e>       <p><l>appel<s n="n"/></l>                    <r>appello<s n="n"/></r></p></e>
+
+<e>       <p><l>appel<s n="n"/></l>                    <r>chiamata<s n="n"/><s n="f"/></r></p></e>
 
 <e>       <p><l>appellation<s n="n"/></l>              <r>appello<s n="n"/><s n="m"/></r></p></e>
 
@@ -5660,6 +5682,8 @@
 <e>       <p><l>approbation<s n="n"/></l>              <r>approvazione<s n="n"/></r></p></e>
 
 <e>       <p><l>approche<s n="n"/><s n="f"/></l>       <r>approccio<s n="n"/></r></p></e>
+
+<e>       <p><l>approfondissement<s n="n"/></l>        <r>approfondimento<s n="n"/></r></p></e>
 
 <e>       <p><l>appropriation<s n="n"/></l>            <r>appropriazione<s n="n"/></r></p></e>
 
@@ -17023,6 +17047,8 @@
 
 <e>       <p><l>adosser<s n="vblex"/></l>              <r>addossare<s n="vblex"/></r></p></e>
 
+<e>       <p><l>adoucir<s n="vblex"/></l>              <r>addolcire<s n="vblex"/></r></p></e>
+
 <e>       <p><l>adresser<s n="vblex"/></l>             <r>dirigere<s n="vblex"/></r></p></e>
 
 <e>       <p><l>affaiblir<s n="vblex"/></l>            <r>debilitare<s n="vblex"/></r></p></e>
@@ -17031,6 +17057,8 @@
 
 <e>       <p><l>affairer<s n="vblex"/></l>             <r>agitare<s n="vblex"/></r></p></e>
 
+<e>       <p><l>affamer<s n="vblex"/></l>              <r>affamare<s n="vblex"/></r></p></e>
+ 
 <e>       <p><l>affecter<s n="vblex"/></l>             <r>toccare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>affecter<s n="vblex"/></l>             <r>colpire<s n="vblex"/></r></p></e>
@@ -17089,9 +17117,9 @@
 
 <e>       <p><l>aller<s n="vblex"/></l>                <r>andare<s n="vblex"/></r></p></e>
 
-<e>       <p><l>alleger<s n="vblex"/></l>              <r>ridurre<s n="vblex"/></r></p></e>
+<e>       <p><l>alléger<s n="vblex"/></l>              <r>ridurre<s n="vblex"/></r></p></e>
 
-<e>       <p><l>alleger<s n="vblex"/></l>              <r>alleggerire<s n="vblex"/></r></p></e>
+<e>       <p><l>alléger<s n="vblex"/></l>              <r>alleggerire<s n="vblex"/></r></p></e>
 
 <e>       <p><l>allier<s n="vblex"/></l>                <r>legare<s n="vblex"/></r></p></e>
 
@@ -17109,7 +17137,9 @@
 
 <e>       <p><l>amasser<s n="vblex"/></l>              <r>accumulare<s n="vblex"/></r></p></e>
 
-<e>       <p><l>amender<s n="vblex"/></l>               <r>emendare<s n="vblex"/></r></p></e>
+<e>       <p><l>aménager<s n="vblex"/></l>             <r>sistemare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>amender<s n="vblex"/></l>              <r>emendare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>amener<s n="vblex"/></l>               <r>portare<s n="vblex"/></r></p></e>
 
@@ -17128,6 +17158,10 @@
 <e>       <p><l>ancrer<s n="vblex"/></l>               <r>ancorare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>animer<s n="vblex"/></l>               <r>animare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>annexer<s n="vblex"/></l>              <r>annettere<s n="vblex"/></r></p></e>
+
+<e>       <p><l>annihiler<s n="vblex"/></l>             <r>annichilire<s n="vblex"/></r></p></e>
 
 <e>       <p><l>annoncer<s n="vblex"/></l>             <r>annunciare<s n="vblex"/></r></p></e>
 
@@ -17164,6 +17198,8 @@
 <e>       <p><l>apprendre<s n="vblex"/></l>            <r>imparare<s n="vblex"/></r></p></e>
 
 <e>       <p><l>approcher<s n="vblex"/></l>            <r>approssimare<s n="vblex"/></r></p></e>
+
+<e>       <p><l>approfondir<s n="vblex"/></l>          <r>approfondire<s n="vblex"/></r></p></e>
 
 <e>       <p><l>approuver<s n="vblex"/></l>            <r>approvare<s n="vblex"/></r></p></e>
 
