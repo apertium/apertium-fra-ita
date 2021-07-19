@@ -1,0 +1,16 @@
+[0DUCxD10owuT#0] ^,<cm>/,<cm>$
+[/0DUCxD10owuT]
+[1XA1LFU_EuJ1#0] ^te<prn><pro><p2><mf><sg>/ti<prn><pro><pro><p2><mf><sg>/ti<prn><enc><pro><p2><mf><sg>$
+[/1XA1LFU_EuJ1]
+[1bqojVct6y2_#0] ^ne<adv>/non<adv>$
+[/1bqojVct6y2_]
+[67sGT84SXh-y#0] ^avoir# l'habitude de<vblex><pis><p3><sg>/solere<vblex><pis><p3><sg>$
+[/67sGT84SXh-y]
+[NCFBkOjA1GBZ#0] ^¿<lquest>/¿<lquest>$
+[/NCFBkOjA1GBZ]
+[l-JoRtV5wvfz#0] ^avoir# envie de<vblex><ger>/amare<vblex><ger>$
+[/l-JoRtV5wvfz]
+[ul7FHQekrA6V#0] ^)<rpar>/)<rpar>$
+[/ul7FHQekrA6V]
+[z92sKy_2Pf86#0] ^en dehors de<pr>/fuori di<pr>/fuori<pr>$
+[/z92sKy_2Pf86]

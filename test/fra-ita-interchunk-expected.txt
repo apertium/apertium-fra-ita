@@ -1,0 +1,16 @@
+[0DUCxD10owuT#0] ^coma<cm>{^,<cm>$}$
+[/0DUCxD10owuT]
+[1XA1LFU_EuJ1#0] ^pro<prnpro><p2><mf><sg>{^ti<prn><pro><p2><mf><sg>$}$
+[/1XA1LFU_EuJ1]
+[1bqojVct6y2_#0] ^ne<adv>{^non<adv>$}$
+[/1bqojVct6y2_]
+[67sGT84SXh-y#0] ^verb<SV><vblex><pis><p3><sg><nodef>{^solere<vblex><pis><p3><5>$}$
+[/67sGT84SXh-y]
+[NCFBkOjA1GBZ#0] ^default<default>{^¿<lquest>$}$
+[/NCFBkOjA1GBZ]
+[l-JoRtV5wvfz#0] ^ger<ger><vblex><ger><nodef>{^amare<vblex><ger>$}$
+[/l-JoRtV5wvfz]
+[ul7FHQekrA6V#0] ^default<default>{^)<rpar>$}$
+[/ul7FHQekrA6V]
+[z92sKy_2Pf86#0] ^pr<PREP><>{^fuori di<pr>$}$
+[/z92sKy_2Pf86]

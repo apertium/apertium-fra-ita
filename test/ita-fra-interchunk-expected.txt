@@ -1,0 +1,32 @@
+[--ekMkfDrmS6#0] ^default<default>{^’<apos>$}$
+[/--ekMkfDrmS6]
+[5vFSDirVTzMh#0] ^unknown<unknown>{^*xenòoiles$}$
+[/5vFSDirVTzMh]
+[7UewAHKtB4z2#0] ^Pr<PREP>{^au-dessus de<pr>$}$ ^det<DET><mf><pl>{^le<det><def><mf><3>$}$
+[/7UewAHKtB4z2]
+[8IgPMH5TzP3i#0] ^default<default>{^¡<lquest>$}$
+[/8IgPMH5TzP3i]
+[I-xefyCivMP8#0] ^Num<NUM>{^8<num><percent>$}$
+[/I-xefyCivMP8]
+[M0f3IErZDaD0#0] ^Det<DET><mf><pl>{^le<det><def><mf><3>$}$
+[/M0f3IErZDaD0]
+[Muuxq8wcYBzr#0] ^default<default>{^(<lpar>$}$
+[/Muuxq8wcYBzr]
+[NRNaqmzCOJG0#0] ^Num<NUM>{^29<num>$}$
+[/NRNaqmzCOJG0]
+[UuYDaTO0trYA#0] ^default<default>{^voir<vblex><pp><m><sg>$}$ ^Cnj<cnjsub>{^que<cnjsub>$}$
+[/UuYDaTO0trYA]
+[XUFCMpicTW29#0] ^Pr<PREP>{^sur<pr>$}$ ^unknown<unknown>{^*ios$}$
+[/XUFCMpicTW29]
+[a4ayc_80_OGd#0] ^Num<NUM>{^1<num>$}$
+[/a4ayc_80_OGd]
+[d5cEVr4O2lZo#0] ^default<default>{^te<prn><p2><mf><sg>$}$
+[/d5cEVr4O2lZo]
+[djqOf6K4oYNh#0] ^Adv<adv>{^aussi<adv>$}$
+[/djqOf6K4oYNh]
+[ebEwvDjpcO3y#0] ^Num<NUM>{^8,0<num><percent>$}$
+[/ebEwvDjpcO3y]
+[io3oI9XtPhJ0#0] ^punt<sent>{^?<sent>$}$
+[/io3oI9XtPhJ0]
+[u3IIvJtdfATx#0] ^punt<sent>{^!<sent>$}$
+[/u3IIvJtdfATx]
